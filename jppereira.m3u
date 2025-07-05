@@ -587,6 +587,20 @@ http://applazer.online:80/live/techsat/1234567/310728.ts
 http://applazer.online:80/live/techsat/1234567/1139964.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY PLUS 08" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/disney.jpg" group-title="CANAIS | DISNEY PLUS",DISNEY PLUS 08
 http://applazer.online:80/live/techsat/1234567/1139965.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 01" tvg-logo="https://i.ibb.co/FmzXg7w/disney.png" group-title="DISNEY TECHSAT",DISNEY 01
+http://opbx.xyz:80/live/techsat/1234567/439639.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 02" tvg-logo="https://i.ibb.co/FmzXg7w/disney.png" group-title="DISNEY TECHSAT",DISNEY 02
+http://opbx.xyz:80/live/techsat/1234567/439640.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 03" tvg-logo="https://i.ibb.co/FmzXg7w/disney.png" group-title="DISNEY TECHSAT",DISNEY 03
+http://opbx.xyz:80/live/techsat/1234567/439641.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 04" tvg-logo="https://i.ibb.co/FmzXg7w/disney.png" group-title="DISNEY TECHSAT",DISNEY 04
+http://opbx.xyz:80/live/techsat/1234567/439642.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 05" tvg-logo="https://i.ibb.co/FmzXg7w/disney.png" group-title="DISNEY TECHSAT",DISNEY 05
+http://opbx.xyz:80/live/techsat/1234567/439643.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 06" tvg-logo="https://i.ibb.co/FmzXg7w/disney.png" group-title="DISNEY TECHSAT",DISNEY 06
+http://opbx.xyz:80/live/techsat/1234567/439644.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 07" tvg-logo="https://i.ibb.co/FmzXg7w/disney.png" group-title="DISNEY TECHSAT",DISNEY 07
+http://opbx.xyz:80/live/techsat/1234567/439645.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 | FONTE 1" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 1 | FONTE 1
 http://tv.com.vc:80/live/Rubens/12345/2245910.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 | FONTE 2" tvg-logo="https://www.mundoconectado.com.br/wp-content/uploads/2024/04/24_04_16_105310-912x569.jpg" group-title="CANAIS | DISNEY+",DISNEY+ 1 | FONTE 2
