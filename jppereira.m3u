@@ -2555,6 +2555,38 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="Encantadora de Tubarões" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bv2E8awRWPqR0wSUQru9yBCHbA8.jpg" group-title="Filmes | Lancamentos",Encantadora de Tubarões
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hurry Up Tomorrow: Além dos Holofotes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jZJgfez0ilFqtJKljCigK4YbB1v.jpg" group-title="Filmes | Lancamentos",Hurry Up Tomorrow: Além dos Holofotes
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Inimigo Está Por Perto" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5sIseBChKqbcmV3JET6q6PzDpul.jpg" group-title="Filmes | Lancamentos",O Inimigo Está Por Perto
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chefes de Estado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kSWYR3yqlbOIJdqRop970ce5mBS.jpg" group-title="Filmes | Lancamentos",Chefes de Estado
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desastre Total: A Seita da American Apparel" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3aS8KSf4FGszQaUPmJHCFxOYWrQ.jpg" group-title="Filmes | Lancamentos",Desastre Total: A Seita da American Apparel
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Esquema Fenício" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vL2tEhfa4UsazLURzHu2KpXLERS.jpg" group-title="Filmes | Lancamentos",O Esquema Fenício
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Old Guard 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg" group-title="Filmes | Lancamentos",The Old Guard 2
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Verdades Dolorosas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/h0nB00M7n1jjKc0PHXF3cSZPbb8.jpg" group-title="Filmes | Lancamentos",Verdades Dolorosas
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bailarina - Do Universo de John Wick" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/by5hjYJp3OJ8GW118kPeURp1rFo.jpg" group-title="Filmes | Lancamentos",Bailarina - Do Universo de John Wick
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="15 Anos em Silêncio" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cLS2Jo2hEJjV2mkyzpYpR8EEAOY.jpg" group-title="Filmes | Lancamentos",15 Anos em Silêncio
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dora e a Busca por Sol Dorado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/Ai8ovMarE9PwV0TqcAv1Tc9eyoo.jpg" group-title="Filmes | Lancamentos",Dora e a Busca por Sol Dorado
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matadores De Aliens Do Espaço Sideral" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/84YlTzXihwSVTffgXArroga8qVt.jpg" group-title="Filmes | Lancamentos",Matadores De Aliens Do Espaço Sideral
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Melhores Amigos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cBOe0SDdIT92MKFg6i3zTiPkHIc.jpg" group-title="Filmes | Lancamentos",Melhores Amigos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O palhaço no milharal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gEpZrDZDYYuc6if15k7yPtBKzrD.jpg" group-title="Filmes | Lancamentos",O palhaço no milharal
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Conflitos na Irlanda" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/j5cddOCZYWqHdIxKaZ3z44Ckst6.jpg" group-title="Filmes | Lancamentos",Os Conflitos na Irlanda
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vale das Sombras" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/neC5rCxsdavveEkEaOiTWLSA39x.jpg" group-title="Filmes | Lancamentos",Vale das Sombras
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/860383.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1978" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zn7oyy7KTlC01XD3pUn82V9Od0P.jpg" group-title="Filmes | Lancamentos",1978
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/855286.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Semi-Soeter" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bxaVu3DNh0cSmXO5fqTFoLhNPsJ.jpg" group-title="Filmes | Lancamentos",Semi-Soeter
