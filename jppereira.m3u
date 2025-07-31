@@ -97,11 +97,11 @@ https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Século 21" tvg-name="TV Século 21" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXuL_DJFsAuv-WzUnMni-KIQGG171A_4O5SLueVn75MKw4EYOvtuCBvFJQ6Os0Gmr4V4lVR7jmLUXJa2EDnVn9nGwhMw3hA4OVYIM-6Sajg-ZrPCicv2nNY4rf4Vie4HDSgVSfJ-buy96k8jPLWIOUQDrtB88HJUnP2OnjR0YYeJnbjc4WowyiFZ49=s200" group-title="CANAIS | CATÓLICOS",TV Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E01" tvg-logo="http://timg.bdta.pro/images/4e0488b99e2ebf485ec7ee3874027fd3.jpg" group-title="Os Thundermans",Os Thundermans S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E01" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg" group-title="Os Thundermans",Os Thundermans S01 E01
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E02" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E02" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg" group-title="Os Thundermans",Os Thundermans S01 E02
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E03" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E03" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg" group-title="Os Thundermans",Os Thundermans S01 E03
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182119.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E04" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S01 E04
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182120.mp4
@@ -299,9 +299,9 @@ http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182215.mp4
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182216.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S04 E32" tvg-logo="http://gstaticontent.com/images/57d04c4040c328d1dcc4db62dde442c5.jpg" group-title="Os Thundermans",Os Thundermans S04 E32
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/33tnWckfPkmcxn7e8NiV1cxji4h.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E01" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/sdXP4dZggPUsYK3CoQxZuTc0hrW.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E01
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jKDgXvvWWBJ2x67gADiDTDflFJX.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E02" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/sdXP4dZggPUsYK3CoQxZuTc0hrW.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E02
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874814.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Os Thundermans Disfarcados S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/arorI3OCa82ZeTq4a1QYQ6EADWt.jpg" group-title="Os Thundermans Disfarcados",Os Thundermans Disfarcados S01 E03
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/874815.mp4
