@@ -479,18 +479,32 @@ http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/20022.ts
 http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/161487.ts
 #EXTINF:-1 tvg-id="ESPN1 (alternativo) HD³" tvg-name="ESPN1 (alternativo) HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN1 (alternativo) HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/22001.ts
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/45902.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN2 alternativo HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/22004.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 2 HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/45904.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN3 alternativo HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/22007.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 3 HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/47025.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN4 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN4 alternativo HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/22010.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 4 HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/45697.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN5 HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/22013.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 5 HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/367674.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN5 alternativo HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/22013.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 alternativo HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/22016.ts
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 6 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 6 HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/194076.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://smartvtcl.site:8080/images/7c1948b644061818af56017cd38dee9b.jpg" group-title="ESPN",ESPN EXTRA HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/319336.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY + HD 1" tvg-logo="https://techzzi.site/logos/infantis/disneychannel.png" group-title="⚽DISNEY + TECC",DISNEY + HD
 http://c.techzzi.top:80/live/718862248/849785554/6657167.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY + HD 1" tvg-logo="https://techzzi.site/logos/infantis/disneychannel.png" group-title="⚽DISNEY + TECC",DISNEY + HD 1
