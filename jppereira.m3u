@@ -447,20 +447,36 @@ http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/21007.ts
 http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/45839.ts
 #EXTINF:-1 tvg-id="PREMIERE CLUBES (alternativo) HD³" tvg-name="PREMIERE CLUBES (alternativo) HD³" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE CLUBES (alternativo) HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/20001.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://smartvtcl.site:8080/images/7420e409343fec2e3daad2f96051ece1.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/45995.ts
 #EXTINF:-1 tvg-id="PREMIERE 2 (alternativo) HD³" tvg-name="PREMIERE 2 (alternativo) HD³" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 (alternativo) HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/20004.ts
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://smartvtcl.site:8080/images/d8112913629b11433d5cee3c8630fe35.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/45983.ts
 #EXTINF:-1 tvg-id="PREMIERE 3 (alternativo) HD³" tvg-name="PREMIERE 3 (alternativo) HD³" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 (alternativo) HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/20007.ts
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://smartvtcl.site:8080/images/07bad40c2d6c237f403735d64e78ac5b.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/45985.ts
 #EXTINF:-1 tvg-id="PREMIERE 4 alternativo HD³" tvg-name="PREMIERE 4 alternativo HD³" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 alternativo HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/20010.ts
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://smartvtcl.site:8080/images/bfb9ac115c00dbfcba0dd0042c157d08.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/45987.ts
 #EXTINF:-1 tvg-id="PREMIERE 5 alternativo HD³" tvg-name="PREMIERE 5 alternativo HD³" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 alternativo HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/20013.ts
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://smartvtcl.site:8080/images/a6880809da2699ed61ad10ab34ab91f6.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/45989.ts
 #EXTINF:-1 tvg-id="CANAIS | PREMIERE 6 alternativo HD³" tvg-name="CANAIS | PREMIERE 6 alternativo HD³" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 6 alternativo HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/20016.ts
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://smartvtcl.site:8080/images/8e44ad550752a2fc57ec40db15039815.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/45991.ts
 #EXTINF:-1 tvg-id="PREMIERE 7 alternativo HD³" tvg-name="PREMIERE 7 alternativo HD³" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 alternativo HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/20019.ts
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://smartvtcl.site:8080/images/83ff9d5d3718c0ec268ae1ef48e70188.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/45993.ts
 #EXTINF:-1 tvg-id="PREMIERE 8 alternativo HD³" tvg-name="PREMIERE 8 alternativo HD³" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 8 alternativo HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/20022.ts
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 HD" tvg-logo="http://smartvtcl.site:8080/images/46d3879f79cb515460c45a9fee4c88b5.png" group-title="CANAIS | PREMIERE",PREMIERE 8 HD
+http://dns.carnes.ink:8080/live/ZdEtSNbXb37d/xbb2ns98aprW/161487.ts
 #EXTINF:-1 tvg-id="ESPN1 (alternativo) HD³" tvg-name="ESPN1 (alternativo) HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN1 (alternativo) HD³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/22001.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN2 alternativo HD³
