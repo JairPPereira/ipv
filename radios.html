@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Rádios Online</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h2 {
+      margin-bottom: 20px;
+    }
+
+    .radio {
+      background: #fff;
+      padding: 20px;
+      margin: 15px auto;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+      max-width: 400px;
+    }
+
+    .radio h3 {
+      margin: 0 0 10px;
+      font-size: 20px;
+    }
+
+    audio {
+      width: 100%;
+      outline: none;
+    }
+  </style>
+</head>
+<body>
+  <h2>📻 Rádios Online</h2>
+<p style="font-size:14px; color:#555; margin-top:20px;">
+⚠️ Para continuar ouvindo, mantenha o app aberto. A tela ficará ligada enquanto o rádio toca.
+</p>
+
+  <div class="radio">
+    <h3>Rauland FM</h3>
+     <audio controls onplay="pararOutros(this)">
+      <source src="https://stm1.srvif.com:6672/stream" type="audio/mpeg">
+      Seu navegador não suporta áudio.
+    </audio>
+  </div>
+
+  <div class="radio">
+    <h3>Clube do Pará</h3>
+     <audio controls onplay="pararOutros(this)">
+      <source src="https://carajas2.jmvstream.com/stream" type="audio/mpeg">
+      Seu navegador não suporta áudio.
+    </audio>
+  </div>
+    <div class="radio">
+    <h3>Marajoara AM</h3>
+     <audio controls onplay="pararOutros(this)">
+      <source src="https://www.bravecenterhost.com:8020/stream" type="audio/mpeg">
+      Seu navegador não suporta áudio.
+    </audio>
+  </div>
+
+  <div class="radio">
+    <h3>99 FM</h3>
+     <audio controls onplay="pararOutros(this)">
+      <source src="https://hts02.brascast.com:8862/live" type="audio/mpeg">
+      Seu navegador não suporta áudio.
+    </audio>
+  </div>
+
+  <div class="radio">
+    <h3>Mix Belém 100,9 FM</h3>
+     <audio controls onplay="pararOutros(this)">
+      <source src="https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_BELEMPARAAAC.aac" type="audio/mpeg">
+      Seu navegador não suporta áudio.
+    </audio>
+  </div>
+
+  <div class="radio">
+    <h3>Liberal FM</h3>
+     <audio controls onplay="pararOutros(this)">
+      <source src="http://177.105.192.70:9750/liberalfm.mp3" type="audio/mpeg">
+      Seu navegador não suporta áudio.
+    </audio>
+  </div>
+
+  <div class="radio">
+    <h3>Lib Music</h3>
+     <audio controls onplay="pararOutros(this)">
+      <source src="https://s09.maxcast.com.br:8122/live" type="audio/mpeg">
+      Seu navegador não suporta áudio.
+    </audio>
+  </div>
+
+  <div class="radio">
+    <h3>Diário FM</h3>
+     <audio controls onplay="pararOutros(this)">
+      <source src="http://hts02.brascast.com:8856/live" type="audio/mpeg">
+      Seu navegador não suporta áudio.
+    </audio>
+  </div>
+
+  <div class="radio">
+    <h3>Jovem FM</h3>
+     <audio controls onplay="pararOutros(this)">
+      <source src="https://hts03.brascast.com:8550/live" type="audio/mpeg">
+      Seu navegador não suporta áudio.
+    </audio>
+  </div>
+  <script>
+    function pararOutros(atual) {
+      let players = document.querySelectorAll("audio");
+      players.forEach(player => {
+        if (player !== atual) {
+          player.pause();
+          player.currentTime = 0;
+        }
+      });
+    }
+  </script>
+
+</body>
+</html>
