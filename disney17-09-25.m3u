@@ -101,3 +101,37 @@ http://dns.carnes.ink:8080/live/tavoloaj/mrtv08xx/135764.ts
 http://dns.carnes.ink:8080/live/tavoloaj/mrtv08xx/324449.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX 6 FHD" tvg-logo="http://smartvtcl.site:8080/images/a83936fd4c10f5b08cf34c31d4c43787.png" group-title="DISNEY+ & HBO MAX",HBO MAX 6 FHD
 http://dns.carnes.ink:8080/live/tavoloaj/mrtv08xx/135763.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD¹" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 1 HD¹
+http://newoneblack.site:80/live/1479748/123456/233165.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD²" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 1 HD²
+http://newoneblack.site:80/live/1479748/123456/232852.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 FHD²" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 1 FHD²
+http://newoneblack.site:80/live/1479748/123456/232847.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD²" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 2 HD²
+http://newoneblack.site:80/live/1479748/123456/232853.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD¹" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 2 HD¹
+http://newoneblack.site:80/live/1479748/123456/233166.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 FHD²" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 2 FHD²
+http://newoneblack.site:80/live/1479748/123456/232848.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD¹" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 3 HD¹
+http://newoneblack.site:80/live/1479748/123456/233167.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD²" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 3 HD²
+http://newoneblack.site:80/live/1479748/123456/232854.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 FHD²" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 3 FHD²
+http://newoneblack.site:80/live/1479748/123456/232849.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD²" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 4 HD²
+http://newoneblack.site:80/live/1479748/123456/232855.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD¹" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 4 HD¹
+http://newoneblack.site:80/live/1479748/123456/233168.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 FHD²" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="⚽ DISNEY+",DISNEY+ 4 FHD²
+http://newoneblack.site:80/live/1479748/123456/232850.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD²" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 5 HD²
+http://newoneblack.site:80/live/1479748/123456/232856.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 FHD²" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 5 FHD²
+http://newoneblack.site:80/live/1479748/123456/232851.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 HD²" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 6 HD²
+http://newoneblack.site:80/live/1479748/123456/232857.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 7 HD²" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 7 HD²
+http://newoneblack.site:80/live/1479748/123456/232858.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 8 HD²" tvg-logo="http://newoneblack.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlj_ETvG9K_EV1-noR9jdF7QJTs_Pkaz8RS0q1HllFO4FA.png" group-title="⚽ DISNEY+",DISNEY+ 8 HD²
+http://newoneblack.site:80/live/1479748/123456/232859.ts
