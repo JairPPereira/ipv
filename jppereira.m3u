@@ -85,30 +85,6 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="CANAIS | EVANGÉLICOS",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA MOSAICO" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA MOSAICO
-http://sualista.xyz:80/live/331870364/720265119/829015.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 01" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 01
-http://sualista.xyz:80/live/331870364/720265119/829004.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 02" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 02
-http://sualista.xyz:80/live/331870364/720265119/829005.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 03" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 03
-http://sualista.xyz:80/live/331870364/720265119/829006.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 04" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 04
-http://sualista.xyz:80/live/331870364/720265119/829007.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 05" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 05
-http://sualista.xyz:80/live/331870364/720265119/829008.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 06" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 06
-http://sualista.xyz:80/live/331870364/720265119/829009.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 07" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 07
-http://sualista.xyz:80/live/331870364/720265119/829010.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 08" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 08
-http://sualista.xyz:80/live/331870364/720265119/829011.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 09" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 09
-http://sualista.xyz:80/live/331870364/720265119/829012.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 10" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 10
-http://sualista.xyz:80/live/331870364/720265119/829013.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 11" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 11
-http://sualista.xyz:80/live/331870364/720265119/829014.ts
 #EXTINF:-1 tvg-id="" tvg-name="Caçadoras de Recompensas S01 E01" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg" group-title="SERIES▐ COMÉDIA",Caçadoras de Recompensas S01 E01
 http://dns.carnes.ink:8080/series/ZdEtSNbXb37d/xbb2ns98aprW/613712.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Caçadoras de Recompensas S01 E02" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg" group-title="SERIES▐ COMÉDIA",Caçadoras de Recompensas S01 E02
@@ -595,6 +571,18 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11203.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11204.ts
 #EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa 06" tvg-logo="http://www.fontedecanais.io/logos/canais/estreladacasa.png" group-title="Canais | Estrela da Casa",Estrela da Casa 06
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11205.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Sinal 1" tvg-logo="" group-title="Canais | A Fazenda",A Fazenda - Sinal 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11500.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Sinal 2" tvg-logo="" group-title="Canais | A Fazenda",A Fazenda - Sinal 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11501.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Sinal 3" tvg-logo="" group-title="Canais | A Fazenda",A Fazenda - Sinal 3
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11502.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Sinal 4" tvg-logo="" group-title="Canais | A Fazenda",A Fazenda - Sinal 4
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11503.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Sinal 5" tvg-logo="" group-title="Canais | A Fazenda",A Fazenda - Sinal 5
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11504.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Sinal 6" tvg-logo="" group-title="Canais | A Fazenda",A Fazenda - Sinal 6
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11505.ts
 #EXTINF:-1 tvg-id="86" tvg-name="A&E FHD" tvg-logo="http://www.fontedecanais.io/logos/canais/ae.png" group-title="Canais | Variedades",A&E FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12000.ts
 #EXTINF:-1 tvg-id="86" tvg-name="A&E HD" tvg-logo="http://www.fontedecanais.io/logos/canais/ae.png" group-title="Canais | Variedades",A&E HD
@@ -2027,11 +2015,11 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/27057.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/27058.ts
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Santos e Vale SD" tvg-logo="http://www.fontedecanais.io/logos/canais/record.png" group-title="Canais | Record TV",Record TV Santos e Vale SD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/27059.ts
-#EXTINF:-1 tvg-id="317" tvg-name="Record TV São Paulo FHD" tvg-logo="http://www.fontedecanais.io/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo FHD
+#EXTINF:-1 tvg-id="186" tvg-name="Record TV São Paulo FHD" tvg-logo="http://www.fontedecanais.io/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/27060.ts
-#EXTINF:-1 tvg-id="317" tvg-name="Record TV São Paulo HD" tvg-logo="http://www.fontedecanais.io/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo HD
+#EXTINF:-1 tvg-id="186" tvg-name="Record TV São Paulo HD" tvg-logo="http://www.fontedecanais.io/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/27061.ts
-#EXTINF:-1 tvg-id="317" tvg-name="Record TV São Paulo SD" tvg-logo="http://www.fontedecanais.io/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo SD
+#EXTINF:-1 tvg-id="186" tvg-name="Record TV São Paulo SD" tvg-logo="http://www.fontedecanais.io/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo SD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/27062.ts
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Vitória FHD" tvg-logo="http://www.fontedecanais.io/logos/canais/record.png" group-title="Canais | Record TV",Record TV Vitória FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/27063.ts
