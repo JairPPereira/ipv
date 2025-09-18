@@ -85,26 +85,80 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="CANAIS | EVANGÉLICOS",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="" tvg-name="Caçadoras de Recompensas S01 E01" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg" group-title="SERIES▐ COMÉDIA",Caçadoras de Recompensas S01 E01
-http://dns.carnes.ink:8080/series/ZdEtSNbXb37d/xbb2ns98aprW/613712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçadoras de Recompensas S01 E02" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg" group-title="SERIES▐ COMÉDIA",Caçadoras de Recompensas S01 E02
-http://dns.carnes.ink:8080/series/ZdEtSNbXb37d/xbb2ns98aprW/613713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçadoras de Recompensas S01 E03" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg" group-title="SERIES▐ COMÉDIA",Caçadoras de Recompensas S01 E03
-http://dns.carnes.ink:8080/series/ZdEtSNbXb37d/xbb2ns98aprW/613714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçadoras de Recompensas S01 E04" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg" group-title="SERIES▐ COMÉDIA",Caçadoras de Recompensas S01 E04
-http://dns.carnes.ink:8080/series/ZdEtSNbXb37d/xbb2ns98aprW/613715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçadoras de Recompensas S01 E05" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg" group-title="SERIES▐ COMÉDIA",Caçadoras de Recompensas S01 E05
-http://dns.carnes.ink:8080/series/ZdEtSNbXb37d/xbb2ns98aprW/613716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçadoras de Recompensas S01 E06" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg" group-title="SERIES▐ COMÉDIA",Caçadoras de Recompensas S01 E06
-http://dns.carnes.ink:8080/series/ZdEtSNbXb37d/xbb2ns98aprW/613717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçadoras de Recompensas S01 E07" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg" group-title="SERIES▐ COMÉDIA",Caçadoras de Recompensas S01 E07
-http://dns.carnes.ink:8080/series/ZdEtSNbXb37d/xbb2ns98aprW/613718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçadoras de Recompensas S01 E08" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg" group-title="SERIES▐ COMÉDIA",Caçadoras de Recompensas S01 E08
-http://dns.carnes.ink:8080/series/ZdEtSNbXb37d/xbb2ns98aprW/613719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçadoras de Recompensas S01 E09" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg" group-title="SERIES▐ COMÉDIA",Caçadoras de Recompensas S01 E09
-http://dns.carnes.ink:8080/series/ZdEtSNbXb37d/xbb2ns98aprW/613720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçadoras de Recompensas S01 E10" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg" group-title="SERIES▐ COMÉDIA",Caçadoras de Recompensas S01 E10
-http://dns.carnes.ink:8080/series/ZdEtSNbXb37d/xbb2ns98aprW/613721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S01 E01" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lqvDyDrVqd9uEpP0CedTxFVwZ2k.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S01 E01
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S01 E02" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lqvDyDrVqd9uEpP0CedTxFVwZ2k.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S01 E02
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S01 E03" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lqvDyDrVqd9uEpP0CedTxFVwZ2k.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S01 E03
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S01 E04" tvg-logo="http://timg.bdta.pro/images/197694badd84e0d10a36bd9ab186b64b.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S01 E04
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S01 E05" tvg-logo="http://timg.bdta.pro/images/b4c52fdfe873cbaab34a2e3ca196bdea.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S01 E05
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S01 E06" tvg-logo="http://timg.bdta.pro/images/a4dd0461a0635170928d539a72e14432.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S01 E06
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S01 E07" tvg-logo="http://timg.bdta.pro/images/d1e48d85d815d420aecf2e6a118f18e2.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S01 E07
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S01 E08" tvg-logo="http://timg.bdta.pro/images/bbccd1a4a27e5b81358ca536974b96d3.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S01 E08
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S02 E01" tvg-logo="http://timg.bdta.pro/images/135bc5a793abec6edfca49e74312a2ef.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S02 E01
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S02 E02" tvg-logo="http://timg.bdta.pro/images/c9667c4870cb1922dd7b5c296c500f6a.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S02 E02
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S02 E03" tvg-logo="http://timg.bdta.pro/images/5a051e58c525e1d6f9748363ee4ebd83.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S02 E03
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S02 E04" tvg-logo="http://timg.bdta.pro/images/c4bef0c5b638a5b90735ada5f7dfc2dd.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S02 E04
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S02 E05" tvg-logo="http://timg.bdta.pro/images/0dc6c7a6ea2297fc5a6e0576dea1fcd4.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S02 E05
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S02 E06" tvg-logo="http://timg.bdta.pro/images/33a291dd0f67df0ba67dbfe01eda79e3.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S02 E06
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S02 E07" tvg-logo="http://timg.bdta.pro/images/b43eef50e399460268a84deae4382035.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S02 E07
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S02 E08" tvg-logo="http://timg.bdta.pro/images/2ec71dd514e5ad22467220953d1bd4e0.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S02 E08
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S02 E09" tvg-logo="http://timg.bdta.pro/images/aa5726febaa1be7b7041b91f7e91c6f9.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S02 E09
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S03 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xHzxV7XCEafBz4zdiWYOHLdG1sj.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S03 E01
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S03 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sSL8KOXesnuZlDmUtfUNJfcknli.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S03 E02
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S03 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yWO8JbDR7zl0GhZP6afPfi8eLkf.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S03 E03
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S03 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/srxjYVudgX9UYU3cIcxJHliZKOL.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S03 E04
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S03 E05" tvg-logo="http://image.tmdb.org/t/p/w1280/x9wHZC3Rxm3tWWm1brnG294Azc7.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S03 E05
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S03 E06" tvg-logo="http://image.tmdb.org/t/p/w1280/pDC5P5wX5K743zlr0pN4R0pxQCz.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S03 E06
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S03 E07" tvg-logo="http://image.tmdb.org/t/p/w1280/wsRkGpwiS9NvqemjuTySVNTZfcX.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S03 E07
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S03 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vuuzriH1BrE3SKYP3yfgwPJbv7X.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S03 E08
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S03 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/usV94nMJvhLVLmz0olU7VofVei1.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S03 E09
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S03 E10" tvg-logo="http://image.tmdb.org/t/p/w1280/xUGhIKYQawpy0Ero8hHh655ftu9.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S03 E10
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S04 E01" tvg-logo="http://gstaticontent.com/images/lEPXDqTntfWGWoU4E0xtxhFn2Wj_big.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S04 E01
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/684344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S04 E02" tvg-logo="http://gstaticontent.com/images/lEPXDqTntfWGWoU4E0xtxhFn2Wj_big.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S04 E02
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/684345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S04 E03" tvg-logo="http://gstaticontent.com/images/lEPXDqTntfWGWoU4E0xtxhFn2Wj_big.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S04 E03
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/684346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S04 E04" tvg-logo="http://gstaticontent.com/images/lEPXDqTntfWGWoU4E0xtxhFn2Wj_big.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S04 E04
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/694949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S04 E05" tvg-logo="http://gstaticontent.com/images/lEPXDqTntfWGWoU4E0xtxhFn2Wj_big.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S04 E05
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/701439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S04 E06" tvg-logo="http://gstaticontent.com/images/lEPXDqTntfWGWoU4E0xtxhFn2Wj_big.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S04 E06
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/708983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S04 E07" tvg-logo="http://gstaticontent.com/images/lEPXDqTntfWGWoU4E0xtxhFn2Wj_big.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S04 E07
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/717952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S04 E08" tvg-logo="http://gstaticontent.com/images/lEPXDqTntfWGWoU4E0xtxhFn2Wj_big.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S04 E08
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/725697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S04 E09" tvg-logo="http://gstaticontent.com/images/lEPXDqTntfWGWoU4E0xtxhFn2Wj_big.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S04 E09
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/732151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S04 E10" tvg-logo="http://gstaticontent.com/images/lEPXDqTntfWGWoU4E0xtxhFn2Wj_big.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S04 E10
+http://sinalprivado.info:80/series/632035/GqGcFV4ntu/739886.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Panico S01 E01" tvg-logo="http://gstaticontent.com/images/ca18f95ffcc3ba19f05c52611dd4d867.jpg" group-title="Panico",Panico S01 E01
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/148004.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Panico S01 E02" tvg-logo="http://gstaticontent.com/images/ca18f95ffcc3ba19f05c52611dd4d867.jpg" group-title="Panico",Panico S01 E02
