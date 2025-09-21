@@ -16,7 +16,7 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="https://1.bp.blogspot.com/-X8i8tnWAQlA/YS5nBfEQUJI/AAAAAAAAA_M/UeEAgwpRFM88UHjVTNU-tgqp5qnvW4DAgCLcBGAsYHQ/s200/tvcultura200.jpg" group-title="CANAIS | ESTADO DO PARÁ",TV Cultura
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-id="Web TV Vale do Uruará" tvg-name="Web TV Vale do Uruará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7858a37ec72de29670e36bb32cdd20f6.webp" group-title="CANAIS | ESTADO DO PARÁ",Web TV Vale do Uruará
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8?JPFILMES
+https://stmv8.samcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Curuai Web" tvg-name="Tv Curuai Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/359e181812362a0eb2598ccb19c0b233.webp" group-title="CANAIS | ESTADO DO PARÁ",Tv Curuai Web
 https://stmv1.samcast.com.br/radiotvcuruai/radiotvcuruai/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV ONE" tvg-name="TV ONE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="CANAIS | ESTADO DO PARÁ",TV ONE
@@ -31,10 +31,12 @@ https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="TV NBT" tvg-name="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="CANAIS | ESTADO DO PARÁ",TV NBT
 https://isaocorp.cloudecast.com/nbt/video.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="Playpoca Filmes" tvg-name="Playpoca Filmes" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguKyMBentXuccwPTU1TwRpqjIj4fcRhLPeCI_gYKkKRXu0j4tWcPv24Ax-Zzx88VaTni1195c_zJyFpJ1qGF4i9hPSzPGCWXIusC5ulrUdYKRzXB9wclUopesrvj4mEvcaWixwcn-q86mJFKHfdQCo1aQf9Ddfqm-VDkZizI1zhwiJHTdbdfYAJXoa5UY/s1600/playpoca.png" group-title="CANAIS | FILMES E SERIES",Playpoca Filmes
+http://tv.mapfibra.com.br:8555/live/1330/123456/238.m3u8
+#EXTINF:-1 tvg-id="Playpoca Séries" tvg-name="Playpoca Séries" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguKyMBentXuccwPTU1TwRpqjIj4fcRhLPeCI_gYKkKRXu0j4tWcPv24Ax-Zzx88VaTni1195c_zJyFpJ1qGF4i9hPSzPGCWXIusC5ulrUdYKRzXB9wclUopesrvj4mEvcaWixwcn-q86mJFKHfdQCo1aQf9Ddfqm-VDkZizI1zhwiJHTdbdfYAJXoa5UY/s1600/playpoca.png" group-title="CANAIS | FILMES E SERIES",Playpoca Séries
+http://tv.mapfibra.com.br:8555/live/1330/123456/239.m3u8
 #EXTINF:-1 tvg-id="TV Recon" tvg-name="TV Recon" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoj1pLS0j6OuOf0jnUB1Ep-kES4kAOAqf57aWc2UHFoCWYezOV9uraaNs0CoX7Ramz_6W3JFa_JdFd-zT31G_-miEkK-8K7bKxXzajv0Xoa07yMnEEJ_1CX9Xhlm5s3k_po44hVoOaJ2qSJjeam9XxWtL1NMjI4S8dATQ1OOTPh4OQM5z5us_v0MMAF58/s1600/TV%20Recon.webp" group-title="CANAIS | FILMES E SERIES",TV Recon
 https://streaming.cloudecast.com/hls/rederecon/index.m3u8
-#EXTINF:-1 tvg-id="TV Mon HD" tvg-name="TV Mon HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2ZKtVwVKJWE66KHdWLDpiO0m5wbemsxopTjDGb2xJyDtI3YeOZpbNio4RYrOK3y9vv_On8RgClLarbOv5diw6mvxGYACCjLarISSXt0jzTg6E2Kfdl5jdovwj5Ur4pz0Y115u5RwPcJSmWCYaODy2UYWsytF8TGGx0PU6P4aSVnneqK7zOImOAWwsWvE/s1600/TV%20Mon%20HD.jpg" group-title="CANAIS | FILMES E SERIES",TV Mon HD
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="ISTV" tvg-name="ISTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFbtOhhND9sQfjDbSlOjOcMUcDOziDo_NBOzVJTGjqKHJfV-jBqvOAm9Ob3Qwt0Wdudluhhyk2OieRPbO8uDnSchCMrnJey2n3jzRyX9McE3VcjU4tlLCCuuH1SddS664nXJYL575tSt2QfbxD9Z87OIdIJdbJ8oljcTe0StfTy8uk4lW20RDFPSJm6qk/s1600/ISTV.jpg" group-title="CANAIS | FILMES E SERIES",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AWTV" tvg-name="AWTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5IuirjLniZ_0k4wXFNneypC-S3Ow0qzLAVT9jsKTlyHYrK8Z1jTV3sjKapaDhRNm0dD-QUBV4dn9Ga92k3ebdLRNl4gi_XRTIlfRsfGJ7-TPcKfUTNPXcQw-tEp2DppeBEF8JEhgGzWT2B7meilTlv_ej2vS7ED0kLacLJkW9kE_3lEoB9M4tw20YfxQ/s1600/awtv.webp" group-title="CANAIS | FILMES E SERIES",AWTV
@@ -59,10 +61,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-id="Moviesphere Brazil" tvg-name="Moviesphere Brazil" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgq4a5lPgdBU5wWyOX23bIBFzddC_gQK8bba9Of-eWZ4_MPkIW3Y0knMelh5TFOJ7iq0-WBftPzaACP1a95ZctDl4kneEjOrqI1wiwlYYClErXBLKtRQOZxK8Z9e1bxS3mrnTANIO0wGp9FDms4olyKnvmjlxLTpA15qB_lDX1QKUeuklC6cpfkiaQdf0/s1600/mvsp.webp" group-title="CANAIS | FILMES E SERIES",Moviesphere Brazil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
-#EXTINF:-1 tvg-id="Classique TV" tvg-name="Classique TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTREKumAmDrTvreDJQ_w-_-v7Jw-8x-Bd6IfsE-UEZAbU9W4k0DxMJlgmDGFgXSQSinDZnhXb51poBM_NOQygK7cXnRQ8UQSgGv2VZuxYPsuOEaVaoZp9PLI36WvEomfNHBcBsEhGiQzzEpHUw_6Br-J1qHPOMyb5HybuhCCIM95zw8F5PgrM3v12I2oI/s1600/classt.webp" group-title="CANAIS | FILMES E SERIES",Classique TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="CHANNEL 1" tvg-name="CHANNEL 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqOBxjdU9VFc1zTrWvmYsGid9S29vR54xC_8BLtDpBqsDQ_0ZNvhj8W-h8lZTlzP4EUDdeLGi6r12eEeQ9J4Vsue-N6GAycqPVbLlzgGuGAi_zKK3sN_s7-Rdr4SeEhmIfQM7El4Z4XCiXU5wf-vPQJXsYy3pltEBYepTR91O4gkw4hHBEqUT8oEMtJ7c/s1600/channel1.webp" group-title="CANAIS | FILMES E SERIES",CHANNEL 1
-https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-id="Grjngo" tvg-name="Grjngo" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj023uhTVUZHZCduz2QmzFsxX_wgVLt5UtSOLfGgCG1AV8qyWzggGuwxnBFJLgD6MROpE4rlauT5eEF9Nd0fOOMBgSiA9q1gDhoDOmEMi1uJqr3prx7iQBJp-JYjHWHfvXvd4tc0i1b_fZRXJjAWEofC7JRljqsQJ2he0VD5iSgYO50EoYkLd08nSWljkM/s1600/grj.webp" group-title="CANAIS | FILMES E SERIES",Grjngo
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony One Emoções" tvg-name="Sony One Emoções" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnIaI61UWq-6IPDefe-FHFyRM9wdz_hWQy8kpcCMzKQqdwqzwp1G5ZTB3HzryWHEDaVYSVmITyvDMIBHHI-g-jTzKRf9oiptXIRJPlht83BwEPFI-5mt9_7hsjEL2ky5EA9hyvYW5_7vkrKK0uuPuCFPfL-SP929dhLXVkyEDqbLsNJ9C_WQCxvs9k5JE/s1600/sonyo.webp" group-title="CANAIS | FILMES E SERIES",Sony One Emoções
@@ -71,8 +69,6 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTime Movie Network - Brasil" tvg-name="MyTime Movie Network - Brasil" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmVQWAu4rxwFb-FatGMK00nwxpGxGI9Xl6hTU8ghk2aDdV4CcM_gqw3tTx6Ri6tGZyItATnw7Ms1f55qZsC2hUaKxiNHU5ei8NVi_Cwxgkl273EfZRAyOOEPNBQIbdnxX8KRYdOsaK1UYUzLEOX6ozL4XhAtJraLbI9an9WMD0daMpOW5zn8f8NiaP-eI/s1600/mytim.webp" group-title="CANAIS | FILMES E SERIES",MyTime Movie Network - Brasil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Qtal Channel" tvg-name="Qtal Channel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRqpAN552wzKO0Mz1V3qd9QFvrmF_qCc-sLtzCSbmYVqPykL_HdM_BgSDQghug0UG_P4Y3OIQs3miZd_9jTdpi8-Su9DH2S_xa_wwGtcUZZ_A80VY1KcImRn2anfubLMmsfZI76xrBHyaohYENtFDv753-2y7DN731UTCvv28vTP2A9MtZaXvk-BGqDFs/s1600/qtal.webp" group-title="CANAIS | FILMES E SERIES",Qtal Channel
-https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
 #EXTINF:-1 tvg-id="Desenhos Clássicos" tvg-name="Desenhos Clássicos" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1L00_2ZhREjhIxv420P-7fHmacpFAJBik9NS9JSECdfk2LMDh_fE8NB29K4kVYY1yfY7RS0HSbYlosG8SkBRhrE697gasKbBb4fnBOxG00VjK7GzmiwavUBMmss-CRUVDNO3g3wdwDKPOdqPENrFstvFgNTGbsg_KFAjCzDj0scDhbzBPoOLNUQV_tUU/s1600/DES.webp" group-title="CANAIS | DESENHOS & SERIADOS",Desenhos Clássicos
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Jetsons Tv" tvg-name="Jetsons Tv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizVK29BJOHcffLLSOTgKDv7oP7djM2OOPk0oEbWtWE3rkOtP97IvN32n6UGKYnvfDoRBGYEV3OdkzvxhBZgvAADltXMYWkNiP0qbpQ5xmXTk838vAv662YzHN8T43tBRV6jBCL4ggkXTu06Cht0k0uMj6KWNWQNP1Uows6o34o0V1dt-11iKWXXX3P844/s1600/jet.webp" group-title="CANAIS | DESENHOS & SERIADOS",Jetsons Tv
@@ -85,30 +81,6 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="CANAIS | EVANGÉLICOS",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?JPFILMES
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA MOSAICO" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA MOSAICO
-http://sualista.xyz:80/live/331870364/720265119/829015.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 01" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 01
-http://sualista.xyz:80/live/331870364/720265119/829004.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 02" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 02
-http://sualista.xyz:80/live/331870364/720265119/829005.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 03" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 03
-http://sualista.xyz:80/live/331870364/720265119/829006.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 04" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 04
-http://sualista.xyz:80/live/331870364/720265119/829007.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 05" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 05
-http://sualista.xyz:80/live/331870364/720265119/829008.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 06" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 06
-http://sualista.xyz:80/live/331870364/720265119/829009.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 07" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 07
-http://sualista.xyz:80/live/331870364/720265119/829010.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 08" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 08
-http://sualista.xyz:80/live/331870364/720265119/829011.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 09" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 09
-http://sualista.xyz:80/live/331870364/720265119/829012.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 10" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 10
-http://sualista.xyz:80/live/331870364/720265119/829013.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA CAM 11" tvg-logo="https://s2-gshow.glbimg.com/HHtt4c0J3tj8xFiRIIFPLlMh3Us=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/8/J/WXn08eRR2zT2iPBDdApA/tapume-maior.png" group-title="⭐ ESTRELA DA CASA",ESTRELA DA CASA CAM 11
-http://sualista.xyz:80/live/331870364/720265119/829014.ts
 #EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E01" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg" group-title="Os Thundermans",Os Thundermans S01 E01
 http://sinalprivado.info:80/series/01ordu/t6Mv8sw2GP/182117.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Os Thundermans S01 E02" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg" group-title="Os Thundermans",Os Thundermans S01 E02
