@@ -321,6 +321,14 @@ https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 #EXTINF:-1  tvg-id="Tv História" tvg-name="Tv História" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKp27RPK0IwRVHl9C4CIp9sN5ISehUCh2d6Lp9XPiAb9RpQE-cOTOWtEZtwXjNKal_iJnsafWLgQQ-nrZvs30CANg9QoBMMiyIWJ1Bwtbv561k7a-PouoVpFy1p9lkCtFucgk_5UZO1GmsuJ843ERJ2dgKE16HWNZm1EdYrnFLcYaJYDmlTJ_bEhBXrRU/s1600/tv%20historia.jpg" group-title="CANAIS | EDUCACIONAIS",Tv História
 https://srv1.zcast.com.br/tvhistoria/tvhistoria/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GE FAST" tvg-logo="https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png" group-title="⚽ ESPORTES",GE FAST
+http://topone.icu:80/live/331870364/720265119/232869.ts
+#EXTINF:-1 tvg-id="" tvg-name="GE FAST 2" tvg-logo="https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png" group-title="⚽ ESPORTES",GE FAST 2
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/2109278.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO + GE FUTEGOL 01" tvg-logo="http://97j91.xyz/images/globoplayge.png" group-title="⚽ ESPORTES",GLOBO + GE FUTEGOL 01
+http://topone.icu:80/live/331870364/720265119/232887.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO + GE FUTEGOL 02" tvg-logo="http://97j91.xyz/images/globoplayge.png" group-title="⚽ ESPORTES",GLOBO + GE FUTEGOL 02
+http://topone.icu:80/live/331870364/720265119/232888.ts
 #EXTINF:-1 tvg-id="NOSSO FUTEBOL 01³" tvg-name="NOSSO FUTEBOL 01³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 01³
 http://sinalprivado.info:80/live/01ordu/t6Mv8sw2GP/19024.ts
 #EXTINF:-1 tvg-id="NOSSO FUTEBOL 02³" tvg-name="NOSSO FUTEBOL 02³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 02³
