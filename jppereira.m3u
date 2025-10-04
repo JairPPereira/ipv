@@ -2453,6 +2453,28 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="Ladrões" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/l1ezVQbjxqnoTPMOLLKQmdTNen1.jpg" group-title="Filmes | Lancamentos",Ladrões
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sacramento" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hVhDtbVs6PIxvIbAKL5zom4BnkO.jpg" group-title="Filmes | Lancamentos",Sacramento
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rose" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9994ieDF2Lp7znBQvesFiBKyTua.jpg" group-title="Filmes | Lancamentos",Rose
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deep Web: O Show da Morte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nzvW8wPSswjLZUv00FDL00JmhKB.jpg" group-title="Filmes | Lancamentos",Deep Web: O Show da Morte
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descobrindo Novos Ventos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vjq231E2zVe4wnzIdakembLdxW4.jpg" group-title="Filmes | Lancamentos",Descobrindo Novos Ventos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dias Perfeitos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/p4oCDJgtYPg8lWqmeNIsqPwzZ7X.jpg" group-title="Filmes | Lancamentos",Dias Perfeitos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fogo vs Fogo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nXqzmtYY4JrQKEvJ0rw04O1Cakq.jpg" group-title="Filmes | Lancamentos",Fogo vs Fogo
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaws vs. the Meg" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sZRuMAqypMTP8hJVwDiXMRgOuaE.jpg" group-title="Filmes | Lancamentos",Jaws vs. the Meg
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Sujo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2fXF4GY6eoyjRLjtreVJGajT9WV.jpg" group-title="Filmes | Lancamentos",Jogo Sujo
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juntos e Separados" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5LJMUmiTi2ebjdjDUXxFC5k8yE4.jpg" group-title="Filmes | Lancamentos",Juntos e Separados
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mamma Mu - Voltando Para Casa" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/osda6zGaloSOrAQ5uVgIMDgIRyA.jpg" group-title="Filmes | Lancamentos",Mamma Mu - Voltando Para Casa
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887425.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chacina de Sangue" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zncEK9BEHLceTB9Uwyo1Az4ZEtC.jpg" group-title="Filmes | Lancamentos",Chacina de Sangue
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887162.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Elio" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2H8k54MWPQtsxWkQhR2HVfT34ty.jpg" group-title="Filmes | Lancamentos",Elio
