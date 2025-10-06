@@ -2453,6 +2453,24 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="Amanda" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iMtKCCuBZKiX3pT96ZTfekSsK4e.jpg" group-title="Filmes | Lancamentos",Amanda
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lendas dos Heróis do Condor: Os Valentes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jVjkCLzP5jzF4tUopU3NIZW0PRl.jpg" group-title="Filmes | Lancamentos",Lendas dos Heróis do Condor: Os Valentes
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morando Com o Ex" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1lw3yM9ce9DEq1DIFMNekis2wlg.jpg" group-title="Filmes | Lancamentos",Morando Com o Ex
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nascido para Esquiar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nq88WaOpARaWkF4n6pgMHr5BQRj.jpg" group-title="Filmes | Lancamentos",Nascido para Esquiar
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Demônio do Alasca" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2b8tnSruPQnzEJSSsI0lEsY84KJ.jpg" group-title="Filmes | Lancamentos",O Demônio do Alasca
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ônibus Perdido" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dynpfgDMzE9Q7qQOVE72DWulYrX.jpg" group-title="Filmes | Lancamentos",O Ônibus Perdido
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primavera" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/u1DjupEg4em6wySDVoYVdqxNKc9.jpg" group-title="Filmes | Lancamentos",Primavera
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shades of Desire" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iyp0W828SdsN7VxwMr0Yo9ZjyUp.jpg" group-title="Filmes | Lancamentos",Shades of Desire
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Steve" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uwfSpSF5h0De9kvrQYflEWasin4.jpg" group-title="Filmes | Lancamentos",Steve
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887680.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ladrões" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/l1ezVQbjxqnoTPMOLLKQmdTNen1.jpg" group-title="Filmes | Lancamentos",Ladrões
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887435.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sacramento" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hVhDtbVs6PIxvIbAKL5zom4BnkO.jpg" group-title="Filmes | Lancamentos",Sacramento
