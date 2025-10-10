@@ -81,6 +81,20 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="CANAIS | EVANGÉLICOS",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="E-Music Black" tvg-name="E-Music Black" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wDsqANyAUuMVqbf1HRLmOlf-YtD4OGIUJTMkuwqFhKn3x1XB7EeaV7N1p9w1yQheG8_oO3bo4-HGKN2KS6O6ktUmWNY1rL37LquTLWMHsLTzx5BwjpRguJmdWxjPZX5qzFrKd2KZJln0hyxIV5m3_Y6vaqwZeyGh6RwXpQEVXaP1w9IzcrrcQSlJnH0/s1600/emusic.jpeg" group-title="CANAIS | E-MUSIC",E-Music Black
+http://tv.mapfibra.com.br:8555/live/1330/123456/232.m3u8
+#EXTINF:-1 tvg-id="E-Music Classics" tvg-name="E-Music Classics" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wDsqANyAUuMVqbf1HRLmOlf-YtD4OGIUJTMkuwqFhKn3x1XB7EeaV7N1p9w1yQheG8_oO3bo4-HGKN2KS6O6ktUmWNY1rL37LquTLWMHsLTzx5BwjpRguJmdWxjPZX5qzFrKd2KZJln0hyxIV5m3_Y6vaqwZeyGh6RwXpQEVXaP1w9IzcrrcQSlJnH0/s1600/emusic.jpeg" group-title="CANAIS | E-MUSIC",E-Music Classics
+http://tv.mapfibra.com.br:8555/live/1330/123456/231.m3u8
+#EXTINF:-1 tvg-id="E-Music Hits" tvg-name="E-Music Hits" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wDsqANyAUuMVqbf1HRLmOlf-YtD4OGIUJTMkuwqFhKn3x1XB7EeaV7N1p9w1yQheG8_oO3bo4-HGKN2KS6O6ktUmWNY1rL37LquTLWMHsLTzx5BwjpRguJmdWxjPZX5qzFrKd2KZJln0hyxIV5m3_Y6vaqwZeyGh6RwXpQEVXaP1w9IzcrrcQSlJnH0/s1600/emusic.jpeg" group-title="CANAIS | E-MUSIC",E-Music Hits
+http://tv.mapfibra.com.br:8555/live/1330/123456/233.m3u8
+#EXTINF:-1 tvg-id="E-Music Latino" tvg-name="E-Music Latino" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wDsqANyAUuMVqbf1HRLmOlf-YtD4OGIUJTMkuwqFhKn3x1XB7EeaV7N1p9w1yQheG8_oO3bo4-HGKN2KS6O6ktUmWNY1rL37LquTLWMHsLTzx5BwjpRguJmdWxjPZX5qzFrKd2KZJln0hyxIV5m3_Y6vaqwZeyGh6RwXpQEVXaP1w9IzcrrcQSlJnH0/s1600/emusic.jpeg" group-title="CANAIS | E-MUSIC",E-Music Latino
+http://tv.mapfibra.com.br:8555/live/1330/123456/234.m3u8
+#EXTINF:-1 tvg-id="E-Music Party" tvg-name="E-Music Party" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wDsqANyAUuMVqbf1HRLmOlf-YtD4OGIUJTMkuwqFhKn3x1XB7EeaV7N1p9w1yQheG8_oO3bo4-HGKN2KS6O6ktUmWNY1rL37LquTLWMHsLTzx5BwjpRguJmdWxjPZX5qzFrKd2KZJln0hyxIV5m3_Y6vaqwZeyGh6RwXpQEVXaP1w9IzcrrcQSlJnH0/s1600/emusic.jpeg" group-title="CANAIS | E-MUSIC",E-Music Party
+http://tv.mapfibra.com.br:8555/live/1330/123456/235.m3u8
+#EXTINF:-1 tvg-id="E-Music Pop" tvg-name="E-Music Pop" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wDsqANyAUuMVqbf1HRLmOlf-YtD4OGIUJTMkuwqFhKn3x1XB7EeaV7N1p9w1yQheG8_oO3bo4-HGKN2KS6O6ktUmWNY1rL37LquTLWMHsLTzx5BwjpRguJmdWxjPZX5qzFrKd2KZJln0hyxIV5m3_Y6vaqwZeyGh6RwXpQEVXaP1w9IzcrrcQSlJnH0/s1600/emusic.jpeg" group-title="CANAIS | E-MUSIC",E-Music Pop
+http://tv.mapfibra.com.br:8555/live/1330/123456/236.m3u8
+#EXTINF:-1 tvg-id="E-Music Rock" tvg-name="E-Music Rock" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wDsqANyAUuMVqbf1HRLmOlf-YtD4OGIUJTMkuwqFhKn3x1XB7EeaV7N1p9w1yQheG8_oO3bo4-HGKN2KS6O6ktUmWNY1rL37LquTLWMHsLTzx5BwjpRguJmdWxjPZX5qzFrKd2KZJln0hyxIV5m3_Y6vaqwZeyGh6RwXpQEVXaP1w9IzcrrcQSlJnH0/s1600/emusic.jpeg" group-title="CANAIS | E-MUSIC",E-Music Rock
+http://tv.mapfibra.com.br:8555/live/1330/123456/237.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S01 E01" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lqvDyDrVqd9uEpP0CedTxFVwZ2k.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S01 E01
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/201942.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mythic Quest: Raven's Banquet S01 E02" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lqvDyDrVqd9uEpP0CedTxFVwZ2k.jpg" group-title="Mythic Quest",Mythic Quest: Raven's Banquet S01 E02
