@@ -2467,6 +2467,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="A Arca das Girafas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/87xYDGhbi9xdM5MAhs6YM5qJWoy.jpg" group-title="Filmes | Lancamentos",A Arca das Girafas
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coração de Pai" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/b1TmVS0XhIWsGJjuCRfQVgR41RC.jpg" group-title="Filmes | Lancamentos",Coração de Pai
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invocação do Mal 4: O Último Ritual" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/40nHGUfypLhlr7gJx8At1IbYkaK.jpg" group-title="Filmes | Lancamentos",Invocação do Mal 4: O Último Ritual
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Javier Milei: la revolución liberal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/otvbhHuj5Bw096OtqO43ls3n9ro.jpg" group-title="Filmes | Lancamentos",Javier Milei: la revolución liberal
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Orgulho e Compaixão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/f6Zj7GrpGd4haHvGgBkSdL5AhsB.jpg" group-title="Filmes | Lancamentos",Orgulho e Compaixão
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="São Miguel Arcanjo - O Anjo Maior" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7dfUeR1rTRvuXOLdD57zTHY5bRJ.jpg" group-title="Filmes | Lancamentos",São Miguel Arcanjo - O Anjo Maior
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segredos de Guerra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iImbVTm5TZLfoXn5nyJsz9w3ZSl.jpg" group-title="Filmes | Lancamentos",Segredos de Guerra
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887774.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amanda" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iMtKCCuBZKiX3pT96ZTfekSsK4e.jpg" group-title="Filmes | Lancamentos",Amanda
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887688.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lendas dos Heróis do Condor: Os Valentes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jVjkCLzP5jzF4tUopU3NIZW0PRl.jpg" group-title="Filmes | Lancamentos",Lendas dos Heróis do Condor: Os Valentes
