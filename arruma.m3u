@@ -1,15 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa 01" tvg-logo="http://www.fontedecanais.io/logos/canais/estreladacasa.png" group-title="Canais | Estrela da Casa",Estrela da Casa 01
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11200.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa 02" tvg-logo="http://www.fontedecanais.io/logos/canais/estreladacasa.png" group-title="Canais | Estrela da Casa",Estrela da Casa 02
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11201.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa 03" tvg-logo="http://www.fontedecanais.io/logos/canais/estreladacasa.png" group-title="Canais | Estrela da Casa",Estrela da Casa 03
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11202.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa 04" tvg-logo="http://www.fontedecanais.io/logos/canais/estreladacasa.png" group-title="Canais | Estrela da Casa",Estrela da Casa 04
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11203.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa 05" tvg-logo="http://www.fontedecanais.io/logos/canais/estreladacasa.png" group-title="Canais | Estrela da Casa",Estrela da Casa 05
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11204.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa 06" tvg-logo="http://www.fontedecanais.io/logos/canais/estreladacasa.png" group-title="Canais | Estrela da Casa",Estrela da Casa 06
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11205.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Sinal 1" tvg-logo="" group-title="Canais | A Fazenda",A Fazenda - Sinal 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11500.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Sinal 2" tvg-logo="" group-title="Canais | A Fazenda",A Fazenda - Sinal 2
@@ -940,6 +928,12 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18255.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18256.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Palmas SD" tvg-logo="http://www.fontedecanais.io/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas SD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18257.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Cruz FHD" tvg-logo="http://www.fontedecanais.io/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Cruz FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18258.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Cruz HD" tvg-logo="http://www.fontedecanais.io/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Cruz HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18259.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Cruz SD" tvg-logo="http://www.fontedecanais.io/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Cruz SD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18260.ts
 #EXTINF:-1 tvg-id="5" tvg-name="Band Sports FHD" tvg-logo="http://www.fontedecanais.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19000.ts
 #EXTINF:-1 tvg-id="5" tvg-name="Band Sports HD" tvg-logo="http://www.fontedecanais.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
@@ -1000,12 +994,6 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19043.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19044.ts
 #EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV" tvg-logo="https://i.imgur.com/wW2FygV.png" group-title="Canais | Esportes",FORMULA 1 TV
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19045.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://i.imgur.com/1DnqGWV.png" group-title="Canais | Esportes",ELEVEN SPORTS 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19061.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://i.imgur.com/1DnqGWV.png" group-title="Canais | Esportes",ELEVEN SPORTS 2
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19062.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://i.imgur.com/1DnqGWV.png" group-title="Canais | Esportes",ELEVEN SPORTS 3
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19063.ts
 #EXTINF:-1 tvg-id="329" tvg-name="NSports FHD" tvg-logo="http://www.fontedecanais.io/logos/canais/nsports.png" group-title="Canais | Esportes",NSports FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19064.ts
 #EXTINF:-1 tvg-id="329" tvg-name="NSports HD" tvg-logo="http://www.fontedecanais.io/logos/canais/nsports.png" group-title="Canais | Esportes",NSports HD
@@ -1314,12 +1302,6 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25018.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25019.ts
 #EXTINF:-1 tvg-id="339" tvg-name="Times Brasil (CNBC) SD" tvg-logo="http://www.fontedecanais.io/logos/canais/timesbrasil.png" group-title="Canais | Notícias",Times Brasil (CNBC) SD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25020.ts
-#EXTINF:-1 tvg-id="352" tvg-name="Canal UOL FHD" tvg-logo="http://www.fontedecanais.io/logos/canais/canaluol.png" group-title="Canais | Notícias",Canal UOL FHD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25021.ts
-#EXTINF:-1 tvg-id="352" tvg-name="Canal UOL HD" tvg-logo="http://www.fontedecanais.io/logos/canais/canaluol.png" group-title="Canais | Notícias",Canal UOL HD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25022.ts
-#EXTINF:-1 tvg-id="352" tvg-name="Canal UOL SD" tvg-logo="http://www.fontedecanais.io/logos/canais/canaluol.png" group-title="Canais | Notícias",Canal UOL SD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25023.ts
 #EXTINF:-1 tvg-id="300" tvg-name="Canção Nova" tvg-logo="http://www.fontedecanais.io/logos/canais/cancaonova.png" group-title="Canais | Religiosos",Canção Nova
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/26000.ts
 #EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="http://www.fontedecanais.io/logos/canais/novotempo.png" group-title="Canais | Religiosos",Novo Tempo
