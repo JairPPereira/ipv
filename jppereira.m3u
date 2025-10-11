@@ -363,8 +363,6 @@ http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239610.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21007.ts
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://smartvtcl.site:8080/images/43c36900b0aa86ded24077870df74926.png" group-title="CANAIS | SPORTV",SPORTV 3 HD
 http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239613.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv4.png" group-title="CANAIS | SPORTV",SporTV 4 HD
-http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239616.ts
 #EXTINF:-1 tvg-id="PREMIERE CLUBES (alternativo) HD³" tvg-name="PREMIERE CLUBES (alternativo) HD³" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE CLUBES (alternativo) HD³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20001.ts
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://smartvtcl.site:8080/images/7420e409343fec2e3daad2f96051ece1.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
@@ -400,44 +398,26 @@ http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239604.ts
 #EXTINF:-1 tvg-id="ESPN1 (alternativo) HD³" tvg-name="ESPN1 (alternativo) HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN1 (alternativo) HD³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22001.ts
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN HD
-http://dns.carnes.ink:8080/live/tavoloaj/mrtv08xx/45902.ts
+http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239619.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN2 alternativo HD³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22004.ts
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 2 HD
-http://dns.carnes.ink:8080/live/tavoloaj/mrtv08xx/45904.ts
+http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239622.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN3 alternativo HD³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22007.ts
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 3 HD
-http://dns.carnes.ink:8080/live/tavoloaj/mrtv08xx/47025.ts
+http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239625.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN4 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN4 alternativo HD³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22010.ts
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 4 HD
-http://dns.carnes.ink:8080/live/tavoloaj/mrtv08xx/45697.ts
+http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239628.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN5 HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 5 HD
-http://dns.carnes.ink:8080/live/tavoloaj/mrtv08xx/367674.ts
+http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239631.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN5 alternativo HD³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 alternativo HD³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 6 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 6 HD
-http://dns.carnes.ink:8080/live/tavoloaj/mrtv08xx/194076.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://smartvtcl.site:8080/images/7c1948b644061818af56017cd38dee9b.jpg" group-title="ESPN",ESPN EXTRA HD
-http://dns.carnes.ink:8080/live/tavoloaj/mrtv08xx/319336.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn.png" group-title="ESPN OP 3",ESPN HD
-http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239619.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn2.png" group-title="ESPN OP 3",ESPN 2 HD
-http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239622.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn3.png" group-title="ESPN OP 3",ESPN 3 HD
-http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239625.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn4.png" group-title="ESPN OP 3",ESPN 4 HD
-http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239628.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn5.png" group-title="ESPN OP 3",ESPN 5 HD
-http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239631.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn5.png" group-title="ESPN OP 3",ESPN 5 SD
-http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239632.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn6.png" group-title="ESPN OP 3",ESPN 6 HD
 http://digihub.lat:8080/live/HoneyVOD/V7EakgaBvr/239634.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY + HD 1" tvg-logo="https://techzzi.site/logos/infantis/disneychannel.png" group-title="⚽DISNEY + TECC",DISNEY + HD
 http://c.techzzi.top:80/live/718862248/849785554/6657167.ts
