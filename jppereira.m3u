@@ -2315,6 +2315,48 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="15 Câmeras" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/muQrASlFPg4Hx0BEDwXjUsBMSHM.jpg" group-title="Filmes | Lancamentos",15 Câmeras
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra Diante dos Meus Olhos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1neA1bs9KL9i8YkPMpigk0J5k53.jpg" group-title="Filmes | Lancamentos",A Guerra Diante dos Meus Olhos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Melhor de Todos os Tempos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jk7QSxBaKOIiDVh4z2g5d4ar3lz.jpg" group-title="Filmes | Lancamentos",A Melhor de Todos os Tempos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bom Dia Sem Companhia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tZudRpsCVjHkfdUgd7H9wmV0h08.jpg" group-title="Filmes | Lancamentos",Bom Dia Sem Companhia
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cachinhos Dourados e os Três Ursos: Morte e Mingau" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1CgmX7TLTYi1q79r2iGIe3yPmg.jpg" group-title="Filmes | Lancamentos",Cachinhos Dourados e os Três Ursos: Morte e Mingau
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caramelo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ur3H6g9xmrLQX2Ioh9z3P904ZSC.jpg" group-title="Filmes | Lancamentos",Caramelo
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Virada: Bastidores e Desafios do Futebol" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kiBge61Ri3YDrpksarEuaBsyNI0.jpg" group-title="Filmes | Lancamentos",De Virada: Bastidores e Desafios do Futebol
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Electra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tYo16ZdBCBS2A7xhsfr5cH0fiyt.jpg" group-title="Filmes | Lancamentos",Electra
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Não Se Escolhe" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/AsOwUOaJdN5ikVQiq63WyEOCWfM.jpg" group-title="Filmes | Lancamentos",Família Não Se Escolhe
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manutenção Necessária" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mERFOVo7COaCY0wBCWtABHL0Stw.jpg" group-title="Filmes | Lancamentos",Manutenção Necessária
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cara Que Não Aglomerava" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hcwFlNX3YzzRlp8o4R5srcmfv4i.jpg" group-title="Filmes | Lancamentos",O Cara Que Não Aglomerava
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro das Forças Malditas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/y6vOZ0XJhdGUzjWmWs3BeoOE5Ni.jpg" group-title="Filmes | Lancamentos",O Livro das Forças Malditas
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Peso da Vitória" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iL804GT7hOpieQ8wYog9aEfsni6.jpg" group-title="Filmes | Lancamentos",O Peso da Vitória
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poço das Trevas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eHqdPcnYB6L2dX5xDE3ucZhvFua.jpg" group-title="Filmes | Lancamentos",O Poço das Trevas
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Enforcados" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6x3670ZuV4v7YUome28WSGlSblv.jpg" group-title="Filmes | Lancamentos",Os Enforcados
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poder do Amor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rhj49MI0ZhdeyVUdiR8hZRJ8h3X.jpg" group-title="Filmes | Lancamentos",Poder do Amor
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reading Lolita in Tehran" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6JYOIufAw5Oh6QhcpUG00A5IWEM.jpg" group-title="Filmes | Lancamentos",Reading Lolita in Tehran
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sob a Lua Cheia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/70c3R1p2OL0vtplOSNUOjWk9NwC.jpg" group-title="Filmes | Lancamentos",Sob a Lua Cheia
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tal Pai, Tal Filho" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bjJK6RSDfMNAkeCGLcnf2OWZ1W1.jpg" group-title="Filmes | Lancamentos",Tal Pai, Tal Filho
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Temos Vagas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/g2QM4TDd9vXB98mIWWbrWGT47wu.jpg" group-title="Filmes | Lancamentos",Temos Vagas
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Virgínia e Adelaide" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2X6k2VHGycAyYvf1Lsne6TWMd5X.jpg" group-title="Filmes | Lancamentos",Virgínia e Adelaide
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888059.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Arca das Girafas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/87xYDGhbi9xdM5MAhs6YM5qJWoy.jpg" group-title="Filmes | Lancamentos",A Arca das Girafas
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/887780.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coração de Pai" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/b1TmVS0XhIWsGJjuCRfQVgR41RC.jpg" group-title="Filmes | Lancamentos",Coração de Pai
