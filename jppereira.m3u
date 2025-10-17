@@ -2607,6 +2607,42 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Viagem da Sua Vida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yotLf2cL6lgM5HCEbTyIJKv3wjG.jpg" group-title="Filmes | Lancamentos",A Grande Viagem da Sua Vida
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spark Story: Tudo Começa com uma Ideia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zTQHUy2O3BO3t8QiYKcB1NqlXi5.jpg" group-title="Filmes | Lancamentos",Spark Story: Tudo Começa com uma Ideia
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Centurion: O Cavalo Dançante" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hjQup4dRb5aBldciKt0gONRqmB2.jpg" group-title="Filmes | Lancamentos",Centurion: O Cavalo Dançante
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Brilho do Natal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mmjPNDQ3W6Io410ZYbrEFaiZQYF.jpg" group-title="Filmes | Lancamentos",O Brilho do Natal
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta ao Sítio - Uma Nova Aventura" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4ViZM5kZLTmR6b8UaL5m7MeKf5X.jpg" group-title="Filmes | Lancamentos",De Volta ao Sítio - Uma Nova Aventura
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce Vida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xSPhZ3jSzUBZTjqvzRMqQz7KnQH.jpg" group-title="Filmes | Lancamentos",Doce Vida
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois que Morri, Todos me Amam" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wGpCLg2opZB2vKMMdgU4kpJSYv5.jpg" group-title="Filmes | Lancamentos",Depois que Morri, Todos me Amam
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Furioza 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/huvM6PcelNHpL3ldtgDpxstQWqN.jpg" group-title="Filmes | Lancamentos",Furioza 2
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mickey e os Muitos Natais" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7BWgoomwbMkimDHA6tWDDuZsrB0.jpg" group-title="Filmes | Lancamentos",Mickey e os Muitos Natais
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagros: Uma Ursa Extraordinária" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/srGK179sVHiuk4gwIQKGvnRtVJs.jpg" group-title="Filmes | Lancamentos",Milagros: Uma Ursa Extraordinária
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nossa Culpa" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tPq8xqhsTYZzUGwMKuksa0eyeGZ.jpg" group-title="Filmes | Lancamentos",Nossa Culpa
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Esperança:  As Crianças perdidas na Amazônia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xV4w6hVawKdOcuS23nmqT1lDL1p.jpg" group-title="Filmes | Lancamentos",Operação Esperança:  As Crianças perdidas na Amazônia
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rosario" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5vxiStdziuLEy47fKJYP6nxsUVg.jpg" group-title="Filmes | Lancamentos",Rosario
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garota Roubada" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hpwmR1AE8Ro0KO68YPhk1thACvL.jpg" group-title="Filmes | Lancamentos",Garota Roubada
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçador de Tormentas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/g0UOstAfVWAK5FazCMfdWdkM38i.jpg" group-title="Filmes | Lancamentos",Caçador de Tormentas
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando a Morte Chega" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iJGLHZaa9AmmKABkxr8kPDJS8XQ.jpg" group-title="Filmes | Lancamentos",Quando a Morte Chega
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Tempo Que Nos Resta" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gFFxJs62P4H1fufvK7u1OfOvjft.jpg" group-title="Filmes | Lancamentos",O Tempo Que Nos Resta
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhos Selvagens e Perversos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vv7SPZUMyooN5td0dUedHErDOq5.jpg" group-title="Filmes | Lancamentos",Olhos Selvagens e Perversos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888548.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Mulher na Cabine 10" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tEKwL15WOLqg1SNXFG1Va4R2f0A.jpg" group-title="Filmes | Lancamentos",A Mulher na Cabine 10
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888547.mp4
 #EXTINF:-1 tvg-id="" tvg-name="À Procura de Anne Frank" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cQCysZDsbip2i1VwkQOl4mYqO4I.jpg" group-title="Filmes | Lancamentos",À Procura de Anne Frank
