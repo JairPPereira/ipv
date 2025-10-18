@@ -2607,6 +2607,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="27 Noites" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fo2MUxHn8sTaNYldpBCd5Q4Nu1y.jpg" group-title="Filmes | Lancamentos",27 Noites
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey: O Grande Final" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yr3VU1spstT79VIddR08JjJ7r0Z.jpg" group-title="Filmes | Lancamentos",Downton Abbey: O Grande Final
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Good News" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aefQ3UUVNALHzb4xcuIaTTFZ8fs.jpg" group-title="Filmes | Lancamentos",Good News
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pestes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1xw2Nl7QykRxZEQF07tI5arpwbO.jpg" group-title="Filmes | Lancamentos",Os Pestes
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem é Morto Sempre Aparece" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6hgfhhJ9wGyYY73hlTnChi27AJ4.jpg" group-title="Filmes | Lancamentos",Quem é Morto Sempre Aparece
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Fantasma na Batalha" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ijgAJV26tkiZnLPbadDFXVqKHWg.jpg" group-title="Filmes | Lancamentos",Um Fantasma na Batalha
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vizinha Perfeita" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pI4jlN7fkq0BcWWmAsDOVVz2ASC.jpg" group-title="Filmes | Lancamentos",A Vizinha Perfeita
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889027.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Grande Viagem da Sua Vida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yotLf2cL6lgM5HCEbTyIJKv3wjG.jpg" group-title="Filmes | Lancamentos",A Grande Viagem da Sua Vida
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/888565.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Spark Story: Tudo Começa com uma Ideia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zTQHUy2O3BO3t8QiYKcB1NqlXi5.jpg" group-title="Filmes | Lancamentos",Spark Story: Tudo Começa com uma Ideia
