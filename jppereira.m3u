@@ -2309,6 +2309,52 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha do Inverno" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oKdd5QfLpPZ5WsOwwJVrWMnmeyf.jpg" group-title="Filmes | Lancamentos",A Ilha do Inverno
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Paranoia de Lulu" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pZtTmf67sxOyYBSjX9TGIZXQpeD.jpg" group-title="Filmes | Lancamentos",A Paranoia de Lulu
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ponte dos Condenados" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/s0cijKdZ0YZtxrZ0L3g63BIeyke.jpg" group-title="Filmes | Lancamentos",Ponte dos Condenados
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Procura de Martina" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5Knp16HlsPxGIJYv2xoWLB42Frd.jpg" group-title="Filmes | Lancamentos",A Procura de Martina
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amaldiçoada 3 - O Amuleto" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9yxb2nkzteQZ3Ymy7gIYDlZpUCu.jpg" group-title="Filmes | Lancamentos",Amaldiçoada 3 - O Amuleto
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duvide do que Ouve" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qFw5UTYuTNWWMzPf1HW3KIh4Qhb.jpg" group-title="Filmes | Lancamentos",Duvide do que Ouve
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enclausurados" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ouBQfMvTf3pv6hwdYqB2OSuH7d.jpg" group-title="Filmes | Lancamentos",Enclausurados
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encontro Macabro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mab0O6nM3vgPi9XEbxNMn5Ey9h7.jpg" group-title="Filmes | Lancamentos",Encontro Macabro
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre o Louco e o Monstro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nl5vxNRtOfXZqlmiZHrNzgVDvld.jpg" group-title="Filmes | Lancamentos",Entre o Louco e o Monstro
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lar Maldito Lar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6CwkEyV90I7YfpPEVTIFmvdOH9m.jpg" group-title="Filmes | Lancamentos",Lar Maldito Lar
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Senhor do Vento" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hny8NvwpEV3VS0IseSflWjJhxn4.jpg" group-title="Filmes | Lancamentos",Senhor do Vento
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maridos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mvOEOblAQl3ZWIMo4XbjtCXeMsy.jpg" group-title="Filmes | Lancamentos",Maridos
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Massacre 1976" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iM996T2VQiEYSZmAZgn4UCOJTmX.jpg" group-title="Filmes | Lancamentos",Massacre 1976
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medo no Pacífico" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/knEPrIc7ZwUGiyb3oRvLOkj1qm6.jpg" group-title="Filmes | Lancamentos",Medo no Pacífico
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Pandora" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/s1PdlIFWvGSp6r2Oh5JvRv1AMwm.jpg" group-title="Filmes | Lancamentos",Missão: Pandora
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Estou Sozinha" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hYkj2VV2nWx7Q9UFnHpQSxPkERV.jpg" group-title="Filmes | Lancamentos",Não Estou Sozinha
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jogo da Tentação" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dtdZRfoNRNcH92wnRmIUqU2VVrW.jpg" group-title="Filmes | Lancamentos",O Jogo da Tentação
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasão Alienígena" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kaSvEH3RJvQa6NfAuEVqDMBEk5E.jpg" group-title="Filmes | Lancamentos",Invasão Alienígena
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que Se Esconde Sob as Águas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rCZNzg1a15EYX0hdDDlI8l2DRlt.jpg" group-title="Filmes | Lancamentos",O Que Se Esconde Sob as Águas
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Harmony" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/intukgeK5NgPScg0GgjmKODbdr2.jpg" group-title="Filmes | Lancamentos",Projeto Harmony
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="V/H/S/85" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aM3wnZTKEuPLDwxuMWcHDibOkiw.jpg" group-title="Filmes | Lancamentos",V/H/S/85
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="V/H/S/HALLOWEEN" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg" group-title="Filmes | Lancamentos",V/H/S/HALLOWEEN
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vale da Morte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oFgD0c9GPurdyQ14uWncRxXmd7g.jpg" group-title="Filmes | Lancamentos",Vale da Morte
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889034.mp4
 #EXTINF:-1 tvg-id="" tvg-name="27 Noites" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fo2MUxHn8sTaNYldpBCd5Q4Nu1y.jpg" group-title="Filmes | Lancamentos",27 Noites
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/889033.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Downton Abbey: O Grande Final" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yr3VU1spstT79VIddR08JjJ7r0Z.jpg" group-title="Filmes | Lancamentos",Downton Abbey: O Grande Final
@@ -24171,7 +24217,7 @@ http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/647825.mp4
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/647824.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lauri e a Subversão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/6f7ziq35oqJBIAeXaAde3KKNf0c.jpg" group-title="Documentarios",Lauri e a Subversão
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/647823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Código de Deus" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/terEbhko603bvVnicNqlIl9FSZU.jpg" group-title="Documentarios",O Código de Deus
+#EXTINF:-1 tvg-id="" tvg-name="O Código de Deus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/terEbhko603bvVnicNqlIl9FSZU.jpg" group-title="Documentarios",O Código de Deus
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/647822.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Último Papa" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/kLrjDRjICIdIILBpwYwOBgCuxhU.jpg" group-title="Documentarios",O Último Papa
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/647821.mp4
