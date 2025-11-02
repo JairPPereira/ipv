@@ -1,49 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1" tvg-logo="http://smartvtcl.site:8080/images/DISNEYPLUU.JPG" group-title="DISNEY+ & HBO MAX",DISNEY+ 1
-http://alpacinoo.com:80/live/carlos8146/3188018146c/407964.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 SD2" tvg-logo="http://smartvtcl.site:8080/images/DISNEYPLUU.JPG" group-title="DISNEY+ & HBO MAX",DISNEY+ 1 SD2
-http://alpacinoo.com:80/live/carlos8146/3188018146c/336081.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2" tvg-logo="http://smartvtcl.site:8080/images/DISNEYPLUU.JPG" group-title="DISNEY+ & HBO MAX",DISNEY+ 2
-http://alpacinoo.com:80/live/carlos8146/3188018146c/167781.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 SD2" tvg-logo="http://smartvtcl.site:8080/images/DISNEYPLUU.JPG" group-title="DISNEY+ & HBO MAX",DISNEY+ 2 SD2
-http://alpacinoo.com:80/live/carlos8146/3188018146c/326779.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISNEY+ 3" tvg-logo="http://smartvtcl.site:8080/images/DISNEYPLUU.JPG" group-title="DISNEY+ & HBO MAX",DISNEY+ 3
-http://alpacinoo.com:80/live/carlos8146/3188018146c/167782.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 SD2" tvg-logo="http://smartvtcl.site:8080/images/DISNEYPLUU.JPG" group-title="DISNEY+ & HBO MAX",DISNEY+ 3 SD2
-http://alpacinoo.com:80/live/carlos8146/3188018146c/326780.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISNEY+ 4" tvg-logo="http://smartvtcl.site:8080/images/DISNEYPLUU.JPG" group-title="DISNEY+ & HBO MAX",DISNEY+ 4
-http://alpacinoo.com:80/live/carlos8146/3188018146c/167783.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 SD2" tvg-logo="http://smartvtcl.site:8080/images/DISNEYPLUU.JPG" group-title="DISNEY+ & HBO MAX",DISNEY+ 4 SD2
-http://alpacinoo.com:80/live/carlos8146/3188018146c/326781.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISNEY+ 5" tvg-logo="http://smartvtcl.site:8080/images/DISNEYPLUU.JPG" group-title="DISNEY+ & HBO MAX",DISNEY+ 5
-http://alpacinoo.com:80/live/carlos8146/3188018146c/167784.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 SD2" tvg-logo="http://smartvtcl.site:8080/images/DISNEYPLUU.JPG" group-title="DISNEY+ & HBO MAX",DISNEY+ 5 SD2
-http://alpacinoo.com:80/live/carlos8146/3188018146c/326782.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6" tvg-logo="http://smartvtcl.site:8080/images/DISNEYPLUU.JPG" group-title="DISNEY+ & HBO MAX",DISNEY+ 6
-http://alpacinoo.com:80/live/carlos8146/3188018146c/167785.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 SD2" tvg-logo="http://smartvtcl.site:8080/images/DISNEYPLUU.JPG" group-title="DISNEY+ & HBO MAX",DISNEY+ 6 SD2
-http://alpacinoo.com:80/live/carlos8146/3188018146c/326783.ts
-#EXTINF:-1 tvg-id="4" tvg-name="HBO MAX 1 FHD" tvg-logo="http://smartvtcl.site:8080/images/HBOMAXX.PNG" group-title="DISNEY+ & HBO MAX",HBO MAX 1 FHD
-http://alpacinoo.com:80/live/carlos8146/3188018146c/194130.ts
-#EXTINF:-1 tvg-id="4" tvg-name="HBO MAX 1 HD" tvg-logo="http://smartvtcl.site:8080/images/HBOMAXX.PNG" group-title="DISNEY+ & HBO MAX",HBO MAX 1 HD
-http://alpacinoo.com:80/live/carlos8146/3188018146c/227385.ts
-#EXTINF:-1 tvg-id="4" tvg-name="HBO MAX 2 FHD" tvg-logo="http://smartvtcl.site:8080/images/HBOMAXX.PNG" group-title="DISNEY+ & HBO MAX",HBO MAX 2 FHD
-http://alpacinoo.com:80/live/carlos8146/3188018146c/227386.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD" tvg-logo="http://smartvtcl.site:8080/images/HBOMAXX.PNG" group-title="DISNEY+ & HBO MAX",HBO MAX 2 HD
-http://alpacinoo.com:80/live/carlos8146/3188018146c/135761.ts
-#EXTINF:-1 tvg-id="4" tvg-name="HBO MAX 3 FHD" tvg-logo="http://smartvtcl.site:8080/images/HBOMAXX.PNG" group-title="DISNEY+ & HBO MAX",HBO MAX 3 FHD
-http://alpacinoo.com:80/live/carlos8146/3188018146c/227387.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="http://smartvtcl.site:8080/images/HBOMAXX.PNG" group-title="DISNEY+ & HBO MAX",HBO MAX 3 HD
-http://alpacinoo.com:80/live/carlos8146/3188018146c/135762.ts
-#EXTINF:-1 tvg-id="4" tvg-name="HBO MAX 4 FHD" tvg-logo="http://smartvtcl.site:8080/images/HBOMAXX.PNG" group-title="DISNEY+ & HBO MAX",HBO MAX 4 FHD
-http://alpacinoo.com:80/live/carlos8146/3188018146c/227388.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 HD" tvg-logo="http://smartvtcl.site:8080/images/HBOMAXX.PNG" group-title="DISNEY+ & HBO MAX",HBO MAX 4 HD
-http://alpacinoo.com:80/live/carlos8146/3188018146c/135765.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5 FHD" tvg-logo="http://smartvtcl.site:8080/images/HBOMAXX.PNG" group-title="DISNEY+ & HBO MAX",HBO MAX 5 FHD
-http://alpacinoo.com:80/live/carlos8146/3188018146c/135764.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5 HD" tvg-logo="http://smartvtcl.site:8080/images/HBOMAXX.PNG" group-title="DISNEY+ & HBO MAX",HBO MAX 5 HD
-http://alpacinoo.com:80/live/carlos8146/3188018146c/324448.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 6 FHD" tvg-logo="http://smartvtcl.site:8080/images/HBOMAXX.PNG" group-title="DISNEY+ & HBO MAX",HBO MAX 6 FHD
-http://alpacinoo.com:80/live/carlos8146/3188018146c/135763.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 6 HD" tvg-logo="http://smartvtcl.site:8080/images/HBOMAXX.PNG" group-title="DISNEY+ & HBO MAX",HBO MAX 6 HD
-http://alpacinoo.com:80/live/carlos8146/3188018146c/324449.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUMOA RUINA PAGAR AS SUAS ACOES" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",RUMOA RUINA PAGAR AS SUAS ACOES
+http://alpacinoo.com:80/live/carlos8146/3188018146c/674742.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEGREDOS DA ORQUIDEA " tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",SEGREDOS DA ORQUIDEA 
+http://alpacinoo.com:80/live/carlos8146/3188018146c/674741.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEJA MEU OBEDIENTE SR OLIVEIRA" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",SEJA MEU OBEDIENTE SR OLIVEIRA
+http://alpacinoo.com:80/live/carlos8146/3188018146c/674740.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOB A LUZ DAS FLORES CAIDAS" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",SOB A LUZ DAS FLORES CAIDAS
+http://alpacinoo.com:80/live/carlos8146/3188018146c/674739.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOU NADA MAIS QUE UM MORTAL" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",SOU NADA MAIS QUE UM MORTAL
+http://alpacinoo.com:80/live/carlos8146/3188018146c/674738.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUBSTITUTA ACIDENTAL PARA O ALFA" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",SUBSTITUTA ACIDENTAL PARA O ALFA
+http://alpacinoo.com:80/live/carlos8146/3188018146c/674737.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUBSTITUTA ERRADA PARA O BILIONARIO IMPLACAVEL" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",SUBSTITUTA ERRADA PARA O BILIONARIO IMPLACAVEL
+http://alpacinoo.com:80/live/carlos8146/3188018146c/674736.ts
+#EXTINF:-1 tvg-id="" tvg-name="ULTIMA BATIDA POR AMOR." tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",ULTIMA BATIDA POR AMOR.
+http://alpacinoo.com:80/live/carlos8146/3188018146c/674735.ts
+#EXTINF:-1 tvg-id="" tvg-name="VICIADO NELA A QUERIDA MIMADA DO CEO DUBLADO" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",VICIADO NELA A QUERIDA MIMADA DO CEO DUBLADO
+http://alpacinoo.com:80/live/carlos8146/3188018146c/674734.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOCÊ SERA MEU AMOR NOVAMENTE" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",VOCÊ SERA MEU AMOR NOVAMENTE
+http://alpacinoo.com:80/live/carlos8146/3188018146c/674733.ts
+#EXTINF:-1 tvg-id="" tvg-name=" A VIDA SECRETA DO MEU MARIDO MILIONARIO" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]", A VIDA SECRETA DO MEU MARIDO MILIONARIO
+http://alpacinoo.com:80/live/carlos8146/3188018146c/674732.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMOR A PRIMEIRA VISTA." tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",AMOR A PRIMEIRA VISTA.
+http://alpacinoo.com:80/live/carlos8146/3188018146c/674731.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMANTES INIMIGOS " tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",AMANTES INIMIGOS 
+http://alpacinoo.com:80/live/carlos8146/3188018146c/654757.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALMA GEMEA INDESEJADA" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]", ALMA GEMEA INDESEJADA
+http://alpacinoo.com:80/live/carlos8146/3188018146c/654756.ts
+#EXTINF:-1 tvg-id="" tvg-name="A INCRIVEL CECILIA" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",A INCRIVEL CECILIA
+http://alpacinoo.com:80/live/carlos8146/3188018146c/654755.ts
+#EXTINF:-1 tvg-id="" tvg-name="A HERDEIRA BILIONARIA DIVORCIADA " tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",A HERDEIRA BILIONARIA DIVORCIADA 
+http://alpacinoo.com:80/live/carlos8146/3188018146c/654754.ts
+#EXTINF:-1 tvg-id="" tvg-name="A ESPOSA XXL DO PREFEITO SEU RETORNO INCRIVEL" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",A ESPOSA XXL DO PREFEITO SEU RETORNO INCRIVEL
+http://alpacinoo.com:80/live/carlos8146/3188018146c/654753.ts
+#EXTINF:-1 tvg-id="" tvg-name="A DOCE ESPOSA GRAVIDA MIMADA PELO MARIDO MILIONARIO" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",A DOCE ESPOSA GRAVIDA MIMADA PELO MARIDO MILIONARIO
+http://alpacinoo.com:80/live/carlos8146/3188018146c/654752.ts
+#EXTINF:-1 tvg-id="" tvg-name="A DAMA CHEFE DA TRAIDA A AMADA " tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",A DAMA CHEFE DA TRAIDA A AMADA 
+http://alpacinoo.com:80/live/carlos8146/3188018146c/654751.ts
+#EXTINF:-1 tvg-id="" tvg-name="A CHEFA NÃO FINGE MAIS" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",A CHEFA NÃO FINGE MAIS
+http://alpacinoo.com:80/live/carlos8146/3188018146c/654750.ts
+#EXTINF:-1 tvg-id="" tvg-name="A CEO SECRETA" tvg-logo="https://i.postimg.cc/8P2sJwpN/reelshort.jpg" group-title="REELSHORTS [BETA]",A CEO SECRETA
+http://alpacinoo.com:80/live/carlos8146/3188018146c/654749.ts
