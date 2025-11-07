@@ -1,0 +1,65 @@
+
+Configurao de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : LAPTOP-0COC0CQI
+   Sufixo DNS primrio . . . . . . . . . . . . : 
+   Tipo de n. . . . . . . . . . . . . . . . . : hbrido
+   Roteamento de IP ativado. . . . . . . . . . : no
+   Proxy WINS ativado. . . . . . . . . . . . . : no
+
+Adaptador Ethernet Ethernet:
+
+   Estado da mdia. . . . . . . . . . . . . .  : mdia desconectada
+   Sufixo DNS especfico de conexo. . . . . . : Preload.COM
+   Descrio . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereo Fsico . . . . . . . . . . . . . . : 8C-B0-E9-D3-36-F0
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configurao Automtica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conexo Local* 2:
+
+   Estado da mdia. . . . . . . . . . . . . .  : mdia desconectada
+   Sufixo DNS especfico de conexo. . . . . . : 
+   Descrio . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereo Fsico . . . . . . . . . . . . . . : D4-54-8B-A8-49-7D
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configurao Automtica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conexo Local* 1:
+
+   Estado da mdia. . . . . . . . . . . . . .  : mdia desconectada
+   Sufixo DNS especfico de conexo. . . . . . : 
+   Descrio . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereo Fsico . . . . . . . . . . . . . . : D6-54-8B-A8-49-7C
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configurao Automtica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS especfico de conexo. . . . . . : 
+   Descrio . . . . . . . . . . . . . . . . . : Intel(R) Wireless-AC 9462
+   Endereo Fsico . . . . . . . . . . . . . . : D4-54-8B-A8-49-7C
+   DHCP Habilitado . . . . . . . . . . . . . . : No
+   Configurao Automtica Habilitada. . . . . : Sim
+   Endereo IPv6 . . . . . . . . . . : 2804:2bc8:e1f:2f00:1f6e:bcaf:acd5:ee82(Preferencial) 
+   Endereo IPv6 Temporrio. . . . . . . . : 2804:2bc8:e1f:2f00:6543:866f:f6d5:a7ea(Preferencial) 
+   Endereo IPv6 de link local . . . . . . . . : fe80::5460:5dfa:eeb9:65e8%15(Preferencial) 
+   Endereo IPv6 de link local . . . . . . . . : fe80::af9a:a03a:4b0c:e6b5%15(Preferencial) 
+   Endereo IPv4. . . . . . . .  . . . . . . . : 192.168.18.16(Preferencial) 
+   Mscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padro. . . . . . . . . . . . . . . : fe80::1%15
+                                                 192.168.18.1
+   Servidores DNS. . . . . . . . . . . . . . . : 2606:4700:4700::1111
+                                                 2606:4700:4700::1001
+                                                 1.1.1.1
+                                                 1.0.0.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet Conexo de Rede Bluetooth:
+
+   Estado da mdia. . . . . . . . . . . . . .  : mdia desconectada
+   Sufixo DNS especfico de conexo. . . . . . : 
+   Descrio . . . . . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Endereo Fsico . . . . . . . . . . . . . . : D4-54-8B-A8-49-80
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configurao Automtica Habilitada. . . . . : Sim
