@@ -303,6 +303,8 @@ http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182667.mp4
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182668.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Balthazar S04 E08" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/98ZGgws85ybGSZ52NWx0iwbmXfL.jpg" group-title="Balthazar",Balthazar S04 E08
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182669.mp4
+#EXTINF:-1 tvg-id="469" tvg-name="SBT News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="Canais | Notícias",SBT News HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25022.ts
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL HD³" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD³
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="Band News HD³" tvg-name="Band News HD³" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="CANAIS | NOTÍCIAS",Band News HD³
@@ -907,8 +909,6 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17049.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17050.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVE Bahia" tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="Canais | Abertos",TVE Bahia
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17051.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV A Crítica" tvg-logo="https://i.imgur.com/LXvCAY1.png" group-title="Canais | Abertos",TV A Crítica
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17052.ts
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18000.ts
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas HD
@@ -1461,17 +1461,15 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19024.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19025.ts
 #EXTINF:-1 tvg-id="298" tvg-name="SportyNet 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportynet3.png" group-title="Canais | Esportes",SportyNet 03
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19026.ts
-#EXTINF:-1 tvg-id="315" tvg-name="SportyNet 04" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportynet.png" group-title="Canais | Esportes",SportyNet 04
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19027.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="Canais | Esportes",DAZN 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19028.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="Canais | Esportes",DAZN 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19029.ts
 #EXTINF:-1 tvg-id="27" tvg-name="DAZN 3" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="Canais | Esportes",DAZN 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19030.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="Canais | Esportes",MAX 01
+#EXTINF:-1 tvg-id="9" tvg-name="MAX 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="Canais | Esportes",MAX 01
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19033.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="Canais | Esportes",MAX 02
+#EXTINF:-1 tvg-id="10" tvg-name="MAX 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="Canais | Esportes",MAX 02
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19034.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAX 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="Canais | Esportes",MAX 03
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19035.ts
@@ -1481,6 +1479,8 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19036.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19037.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAX 06" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="Canais | Esportes",MAX 06
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19038.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 07" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="Canais | Esportes",MAX 07
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19039.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 1" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19041.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 2" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 2
@@ -1829,6 +1829,12 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25018.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25019.ts
 #EXTINF:-1 tvg-id="339" tvg-name="Times Brasil (CNBC) SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/timesbrasil.png" group-title="Canais | Notícias",Times Brasil (CNBC) SD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25020.ts
+#EXTINF:-1 tvg-id="469" tvg-name="SBT News FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="Canais | Notícias",SBT News FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25021.ts
+#EXTINF:-1 tvg-id="469" tvg-name="SBT News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="Canais | Notícias",SBT News HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25022.ts
+#EXTINF:-1 tvg-id="469" tvg-name="SBT News SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="Canais | Notícias",SBT News SD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25023.ts
 #EXTINF:-1 tvg-id="300" tvg-name="Canção Nova" tvg-logo="http://www.fontedecanais.tv/logos/canais/cancaonova.png" group-title="Canais | Religiosos",Canção Nova
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/26000.ts
 #EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="http://www.fontedecanais.tv/logos/canais/novotempo.png" group-title="Canais | Religiosos",Novo Tempo
