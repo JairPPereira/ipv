@@ -303,7 +303,7 @@ http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182667.mp4
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182668.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Balthazar S04 E08" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/98ZGgws85ybGSZ52NWx0iwbmXfL.jpg" group-title="Balthazar",Balthazar S04 E08
 http://sinalprivado.info:80/series/632035/GqGcFV4ntu/182669.mp4
-#EXTINF:-1 tvg-id="469" tvg-name="SBT News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="Canais | Notícias",SBT News HD
+#EXTINF:-1 tvg-id="469" tvg-name="SBT News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="CANAIS | NOTÍCIAS",SBT News HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25022.ts
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL HD³" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD³
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
