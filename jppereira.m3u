@@ -2403,6 +2403,48 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="Bark" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4iJYa8TrjSNtMgtPI81fiFxGdRF.jpg" group-title="Filmes | Lancamentos",Bark
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Especial Beleza Fatal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2None" group-title="Filmes | Lancamentos",Especial Beleza Fatal
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pai do Ano" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3ozZ7B5AJp8l7OA5hWH8BMQU5QB.jpg" group-title="Filmes | Lancamentos",Pai do Ano
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honey, Não!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fZcmQ7tbjsshE4e9rcOKx10ukKM.jpg" group-title="Filmes | Lancamentos",Honey, Não!
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Roubo do Louvre: O Crime Minuto a Minuto" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4QEnN1Sw3Rae7RMDxRCjT48jJFa.jpg" group-title="Filmes | Lancamentos",O Grande Roubo do Louvre: O Crime Minuto a Minuto
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Bola de Pelos: Salva o Futuro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/onEerR2sd2uhqLhUPVrTjKyEwDp.jpg" group-title="Filmes | Lancamentos",Super Bola de Pelos: Salva o Futuro
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infância Sombria" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tgjsMTXN6zczRS4ocEkYikLlQSa.jpg" group-title="Filmes | Lancamentos",Infância Sombria
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Chegadas e Despedidas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nUHX8dLriLUlafp8rZlMPBkFj4a.jpg" group-title="Filmes | Lancamentos",Entre Chegadas e Despedidas
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troca Surpresa" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fDVdsFAnLZHHPCp8aLma5XYi4HF.jpg" group-title="Filmes | Lancamentos",Troca Surpresa
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dissonantes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/axeEam7TkbW6rsGIhBr7h8EIIG1.jpg" group-title="Filmes | Lancamentos",Dissonantes
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crônicas de Exorcismo: O Início" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vJyme99bj0AP599hnDdesTnPAGL.jpg" group-title="Filmes | Lancamentos",Crônicas de Exorcismo: O Início
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luiz Gonzaga: Légua Tirana" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/o92hSn5kSJiyTCdJXuoVOIS2Ai0.jpg" group-title="Filmes | Lancamentos",Luiz Gonzaga: Légua Tirana
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Truque de Mestre: O 3° Ato" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uZ8C2vVGfK5SYASiioTmtZDJjpv.jpg" group-title="Filmes | Lancamentos",Truque de Mestre: O 3° Ato
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sisu: Estrada da Vingança" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rJcthdoBAug14cmphiHAfngV3zK.jpg" group-title="Filmes | Lancamentos",Sisu: Estrada da Vingança
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem para Agartha" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hgjyoE10IrjpkQ34qWNN1mWmNCT.jpg" group-title="Filmes | Lancamentos",Viagem para Agartha
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/896155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sogra Perfeita 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zYkPEwtbkuVjtCE5tSVZ4pUMLIb.jpg" group-title="Filmes | Lancamentos",A Sogra Perfeita 2
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/895766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mauricio de Sousa: O Filme" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ukHzJ7xrDESuuvskYMMiXTFd6rq.jpg" group-title="Filmes | Lancamentos",Mauricio de Sousa: O Filme
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/895765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Slaughterhouse 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wkZgGYcCQIzX8zvMAHpzg4hFhLF.jpg" group-title="Filmes | Lancamentos",Slaughterhouse 2
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/895764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diga-me Baixinho" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jafRpwC4P67XFNb0V7Ym4Usp20T.jpg" group-title="Filmes | Lancamentos",Diga-me Baixinho
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/895763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivo ou Morto: Um Mistério Knives Out" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bJINp3TcQrvUroKRreMqiI4d3Fj.jpg" group-title="Filmes | Lancamentos",Vivo ou Morto: Um Mistério Knives Out
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/895762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Xamã: O Exorcista Pagão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lfL58qsUrmTRwrqjr0iezK0jUfq.jpg" group-title="Filmes | Lancamentos",Xamã: O Exorcista Pagão
+http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/895761.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Natal em Maple Valley" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mMpXU9tJOtOGdMkUTJzotJbNd1j.jpg" group-title="Filmes | Lancamentos",Natal em Maple Valley
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/895543.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Paixão Segundo G.H." tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cuXbKwUO4y4swgKvbyy58MOUXhV.jpg" group-title="Filmes | Lancamentos",A Paixão Segundo G.H.
