@@ -103,6 +103,18 @@ http://tv.mapfibra.com.br:8555/live/1330/123456/323.ts
 http://tv.mapfibra.com.br:8555/live/1330/123456/324.ts
 #EXTINF:-1 tvg-id="E-Music Rock" tvg-name="E-Music Rock" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wDsqANyAUuMVqbf1HRLmOlf-YtD4OGIUJTMkuwqFhKn3x1XB7EeaV7N1p9w1yQheG8_oO3bo4-HGKN2KS6O6ktUmWNY1rL37LquTLWMHsLTzx5BwjpRguJmdWxjPZX5qzFrKd2KZJln0hyxIV5m3_Y6vaqwZeyGh6RwXpQEVXaP1w9IzcrrcQSlJnH0/s1600/emusic.jpeg" group-title="CANAIS | E-MUSIC",E-Music Rock
 http://tv.mapfibra.com.br:8555/live/1330/123456/325.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 01
+http://x2caverinhas.store:80/live/salles234/u63a4cOx/1271892.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa Norte" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Casa Norte
+http://x2caverinhas.store:80/live/salles234/u63a4cOx/1271891.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa Nordeste" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Casa Nordeste
+http://x2caverinhas.store:80/live/salles234/u63a4cOx/1271890.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa Centro-Oeste" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Casa Centro-Oeste
+http://x2caverinhas.store:80/live/salles234/u63a4cOx/1271889.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa Sudeste" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Casa Sudeste
+http://x2caverinhas.store:80/live/salles234/u63a4cOx/1271888.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa Sul" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Casa Sul
+http://x2caverinhas.store:80/live/salles234/u63a4cOx/1271887.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 01
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11000.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 02
