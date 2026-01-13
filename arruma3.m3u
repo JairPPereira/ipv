@@ -1,15 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 01
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11000.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 02
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11001.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 03
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11002.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 04
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11003.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 05
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11004.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 06
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11005.ts
 #EXTINF:-1 tvg-id="86" tvg-name="A&E FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Canais | Variedades",A&E FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12000.ts
 #EXTINF:-1 tvg-id="86" tvg-name="A&E HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Canais | Variedades",A&E HD
@@ -1208,6 +1196,12 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23030.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23031.ts
 #EXTINF:-1 tvg-id="13" tvg-name="ID: Investigação Discovery SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/id.png" group-title="Canais | Documentários",ID: Investigação Discovery SD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23032.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Box Kids FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/boxkids.png" group-title="Canais | Infantis",Box Kids FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24000.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Box Kids HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/boxkids.png" group-title="Canais | Infantis",Box Kids HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24001.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Box Kids SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/boxkids.png" group-title="Canais | Infantis",Box Kids SD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24002.ts
 #EXTINF:-1 tvg-id="2" tvg-name="Cartoon Network FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24003.ts
 #EXTINF:-1 tvg-id="2" tvg-name="Cartoon Network HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network HD
