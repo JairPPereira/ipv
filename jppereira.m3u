@@ -792,7 +792,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25022.ts
 #EXTINF:-1 tvg-id="469" tvg-name="SBT News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="CANAIS | NOTÍCIAS",SBT News HD op2
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL HD³" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD³
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25003.ts
 #EXTINF:-1 tvg-id="Band News HD³" tvg-name="Band News HD³" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="CANAIS | NOTÍCIAS",Band News HD³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25001.ts
 #EXTINF:-1 tvg-id="JP NEWS AUT" tvg-name="JP NEWS AUT" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS AUT 
