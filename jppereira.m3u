@@ -12,7 +12,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/27012.ts
 #EXTINF:-1 tvg-id="RECORD TV BELEM" tvg-name="RECORD TV BELEM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGpxBOd5f_P7dMhcfNGWs4g8e1ExA8SSJmW_W6Fy1B3X4WW3lNj5cWOj7Quzeh4K8OkBizHFm78KhIJA5sOaqaGZ-Ja0wwobRcqrgILzo9gjt790KD_Hc3yOadLeNYFsrgMTseYaBZ4xI/s0/recordbelem200.png" group-title="CANAIS | ESTADO DO PARÁ",RECORD TV BELEM
 http://live.sinalprivado.info:80/27013/mpegts
 #EXTINF:-1 tvg-id="SBT BELEM HD" tvg-name="SBT BELEM HD"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvRPUjJsgbRtN8pvfQ43QS8qF_uRHQHhzI7DRZbUifQm6UZBJqRqZmGzXKyuvSTDfbdqwYKsNEJgyKnxFiYAkU4YlUndDM1iAk23QfmpN_bzNQVI6Tmcu9Uu21jXqSx5JViHzdrkUF-eVRnVXj1uA04i6XnB4cg89aU7dBXb_mccGA1kDcZXvIJKkxLks/s1600/sbt.webp" group-title="CANAIS | ESTADO DO PARÁ",SBT BELEM HD
-http://cdn.club8.ca:80/live/andersondias@onepro/123645821/561.ts
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/561.m3u8
 #EXTINF:-1 tvg-id="TV GRÃO PARA" tvg-name="TV GRÃO PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuRULa5qDXFnbOhbgYDN3K5KpojrwuMVknk0kWDGLufy35x4zs_-I2aI_1tTrE86VqB4Xa8HTNfdCEC6ECuzCL6hymyN1bUlgeeQMiPh4TcVy7Rv63uxhcP3aO8IJTclFXq3_tGRDPkR97W_DDCIowKHC34cjCtGL1w-7i-hh_gyi190HQbFXin7Xt/s1600/graopara200.png" group-title="CANAIS | ESTADO DO PARÁ",TV GRÃO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?JPFILMES
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-name="TV Marajoara" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqAnRJTsB67pr9kADaiiEh-IgbCQuEPQOwlUAV03D36IGm0LgK4hXrxJKT23ytk2sztVvwXqXgbZqkuJYq40bcEv_L9I8z7hjItd8qnIjSHUtLlGcLo_-ZCbi3Ut7Yti7dhqwjLVxIdbevNX6wloRxgp6Sxg5Fjh8bHmsN5TriOgFt8imKYPtYIC7QO9M/s1600/maraj.webp" group-title="CANAIS | ESTADO DO PARÁ",TV Marajoara
@@ -1030,7 +1030,7 @@ https://srv1.zcast.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GE FAST" tvg-logo="https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png" group-title="⚽ ESPORTES",GE FAST
 http://topone.icu:80/live/331870364/720265119/232869.ts
 #EXTINF:-1 tvg-id="" tvg-name="GE FAST 2" tvg-logo="https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png" group-title="⚽ ESPORTES",GE FAST 2
-http://cdn.club8.ca:80/live/andersondias@onepro/123645821/2109278.ts
+http://cdn.club8.ca:80/live/andersondias@onepro/123645821/2109278.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO + GE FUTEGOL 01" tvg-logo="http://97j91.xyz/images/globoplayge.png" group-title="⚽ ESPORTES",GLOBO + GE FUTEGOL 01
 http://topone.icu:80/live/331870364/720265119/232887.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO + GE FUTEGOL 02" tvg-logo="http://97j91.xyz/images/globoplayge.png" group-title="⚽ ESPORTES",GLOBO + GE FUTEGOL 02
