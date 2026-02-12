@@ -3035,6 +3035,60 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="Meu Avô Stanislau" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/t6Y1I2AVkzZ8Nzkltkqi9FfdTzD.jpg" group-title="Filmes | Lancamentos",Meu Avô Stanislau
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Empregada" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aoBcz7hOFPdJS9aWMr1z4Gk76rN.jpg" group-title="Filmes | Lancamentos",A Empregada
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Esse Amor Desaparecesse Hoje" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bMA6E5cu1QUMehjBZOjWjqQjhey.jpg" group-title="Filmes | Lancamentos",Se Esse Amor Desaparecesse Hoje
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Esperança se Chama Liberdade 4K" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lxkW6iWDesq0OsRkWcTBEMPg2M9.jpg" group-title="Filmes | Lancamentos",A Esperança se Chama Liberdade 4K
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Esperança se Chama Liberdade" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lxkW6iWDesq0OsRkWcTBEMPg2M9.jpg" group-title="Filmes | Lancamentos",A Esperança se Chama Liberdade
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metas de Relacionamento" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kTVyIkrqxrdLYN9rLXhqljMiplj.jpg" group-title="Filmes | Lancamentos",Metas de Relacionamento
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Investigando Lucy Letby" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jgZWsr8W1raLdxzuznUJ0ExgNHz.jpg" group-title="Filmes | Lancamentos",Investigando Lucy Letby
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Muppet Show" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ox9U8j29MFOtGjjEwsPlN7tvyv1.jpg" group-title="Filmes | Lancamentos",The Muppet Show
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Agente Secreto 4K [HDR]" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg" group-title="Filmes | Lancamentos",O Agente Secreto 4K [HDR]
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Agente Secreto 4K" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg" group-title="Filmes | Lancamentos",O Agente Secreto 4K
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandíbulas à Espreita" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6AFT705digB3q06YwX7RJz2TDVw.jpg" group-title="Filmes | Lancamentos",Mandíbulas à Espreita
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imperfeitamente Perfeita" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fK1plLeeaomQNBM3LNxkDtcMoPS.jpg" group-title="Filmes | Lancamentos",Imperfeitamente Perfeita
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Placar: A Revista Militante" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1O16NNhRlnStBCSn0IDBCFTyzDa.jpg" group-title="Filmes | Lancamentos",Placar: A Revista Militante
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ah, a Amizade" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aDMDiDdpL8ntmo1biqdbVfrFih7.jpg" group-title="Filmes | Lancamentos",Ah, a Amizade
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clarice Niskier: Teatro dos Pés à Cabeça" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cOQGZ8NNgZ2kFOrSV280I8Xu68Q.jpg" group-title="Filmes | Lancamentos",Clarice Niskier: Teatro dos Pés à Cabeça
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Down Quixote" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hHluHFenJBDUzMvyYUYuXMP72U2.jpg" group-title="Filmes | Lancamentos",Down Quixote
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce Amor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3M8GSHLyRvHUKFWVaNQKw8fcR6y.jpg" group-title="Filmes | Lancamentos",Doce Amor
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupicínio Rodrigues: Confissões de um Sofredor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tKtmKKn3mGYbkGy31ckTfJ1VjL8.jpg" group-title="Filmes | Lancamentos",Lupicínio Rodrigues: Confissões de um Sofredor
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulheres Radicais" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xo1kBd4srulvGU0yOCrJf9Vbrd.jpg" group-title="Filmes | Lancamentos",Mulheres Radicais
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paula" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2None" group-title="Filmes | Lancamentos",Paula
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rainha do Xadrez" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fAckgewEBm7lPkYDaqmBvxlcWf2.jpg" group-title="Filmes | Lancamentos",A Rainha do Xadrez
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança Brutal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sHkiapXNCtO9G9tLEWzfdxKC0LN.jpg" group-title="Filmes | Lancamentos",Vingança Brutal
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda do Céu [L]" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dzBEhUSiiDJtd6v4LSN1SykSM5F.jpg" group-title="Filmes | Lancamentos",A Queda do Céu [L]
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandioca Frita" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rjANOMDzkY1ltsYlFeJ0O8qq546.jpg" group-title="Filmes | Lancamentos",Mandioca Frita
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O.T.H.E.R - Presença Maligna" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ouNcK16DGlNrih2f2LbHXTRmVOA.jpg" group-title="Filmes | Lancamentos",O.T.H.E.R - Presença Maligna
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Primata" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/d5Grn6lkqQTZSeOcHZCz2utW58Q.jpg" group-title="Filmes | Lancamentos",O Primata
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esta Sou Eu" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3aMYB238ZU2GPjP7YAvcIzPjQaN.jpg" group-title="Filmes | Lancamentos",Esta Sou Eu
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Salvação" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/k0ux5SqOmCR7b4MUHJL5vY2jNjf.jpg" group-title="Filmes | Lancamentos",Salvação
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903382.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Dia Extraordinário" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/AuRamBsUf8AqRzHmWMjb2jg5vVZ.jpg" group-title="Filmes | Lancamentos",Um Dia Extraordinário
@@ -3891,6 +3945,80 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/900343.mp4
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/900342.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Memórias de um Verão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kVCKVOLtEj2sZ039lRWBQomMgMA.jpg" group-title="Filmes | Lancamentos",Memórias de um Verão
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/900341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perseguição Sem Trégua" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/weN8O3wn71GaxRg89bz1BF0hPtl.jpg" group-title="Filmes | Acao",Perseguição Sem Trégua
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Risqué: A Vingança" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg" group-title="Filmes | Acao",Risqué: A Vingança
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hero Dog: The Journey Home" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ybWtSFLVakBIVeAviZ6SsQKIuSv.jpg" group-title="Filmes | Acao",Hero Dog: The Journey Home
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça: A Nova Fronteira" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6oY4BLz4NxfKD2MUK54vXHFMH1N.jpg" group-title="Filmes | Acao",Liga da Justiça: A Nova Fronteira
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça: Deuses e Monstros" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/su5lmAMy438kYaAjJeGk2k17jnZ.jpg" group-title="Filmes | Acao",Liga da Justiça: Deuses e Monstros
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simbad e o Olho do Tigre" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7dBZbxyWW7zhFSgEoEvXElBGV0q.jpg" group-title="Filmes | Acao",Simbad e o Olho do Tigre
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MIB - Homens de Preto" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dZpfLrGiPXaaKGlVw4loCs2QBfx.jpg" group-title="Filmes | Acao",MIB - Homens de Preto
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Farejando Vingança 2: Cidade dos Lobos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ppiw8K6xKibFY9u9u7HUWeBskuX.jpg" group-title="Filmes | Acao",Farejando Vingança 2: Cidade dos Lobos
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Mira dos Mercenários" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1Pak3gqLpv4JjadaEqnn37Q2XdL.jpg" group-title="Filmes | Acao",Na Mira dos Mercenários
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Armadilha" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7NKiln7rwSWA4izwgxo1gOJZQhf.jpg" group-title="Filmes | Acao",A Casa da Armadilha
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sob Fogo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eswk5Bv76dKxaCsblZ08A0PgT0l.jpg" group-title="Filmes | Acao",Sob Fogo
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Implacável" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vx88yJs9rIGYT6jJuZadi9aDJDX.jpg" group-title="Filmes | Acao",Esquadrão Implacável
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santos Justiceiros II: O Retorno" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5SnUOz4zXfT7UhS1GY2JZmmH2yj.jpg" group-title="Filmes | Acao",Santos Justiceiros II: O Retorno
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apocalipse" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9DapYnLsNXS36lXJ0s8TYswEkGH.jpg" group-title="Filmes | Acao",Apocalipse
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ninja 2: A Vingança" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bdPk58U7rNYzXfvvvm3buVhMRIx.jpg" group-title="Filmes | Acao",Ninja 2: A Vingança
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Justiça Sem Limites" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/akO6TuooLE8EiIIQtB1sp8DlYb0.jpg" group-title="Filmes | Acao",Justiça Sem Limites
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Final Run" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/umBTqmDFpXhSbmxL0ghM3pu0lJt.jpg" group-title="Filmes | Acao",The Final Run
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinheiro Suspeito" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg" group-title="Filmes | Acao",Dinheiro Suspeito
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aeroporto 79 - O Concorde" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yedB8Rk6C6GiLVEl3zFIBfoTblI.jpg" group-title="Filmes | Acao",Aeroporto 79 - O Concorde
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg" group-title="Filmes | Acao",Jumanji
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Filho de Spartacus" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vESoMNS9zhm0DMjRd7TlazxGnJZ.jpg" group-title="Filmes | Acao",O Filho de Spartacus
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Golpe" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/p6XnQSd0kSqjTcPW7nEKPpPfKmN.jpg" group-title="Filmes | Acao",O Último Golpe
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Temporada de Sangue" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fDXOdFhBoUNyY7GsM11z7EfKk68.jpg" group-title="Filmes | Acao",Temporada de Sangue
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldado de Chumbo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/f4OfhMRWjmuf7kFUYBZS9lVebSf.jpg" group-title="Filmes | Acao",Soldado de Chumbo
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bullitt" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2ffzF1WmeXtH420fSUoCrecFvDA.jpg" group-title="Filmes | Acao",Bullitt
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Constantine" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg" group-title="Filmes | Acao",Constantine
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terror na Montanha-Russa" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/t5ppcTMAwbLDX0pRi6VprbroJah.jpg" group-title="Filmes | Acao",Terror na Montanha-Russa
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tocaia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ix3v2xrKg1ZXYdcd7ybhI001dsz.jpg" group-title="Filmes | Acao",Tocaia
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ultraman Taiga: Clímax da Nova Geração" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mB7RirF9U7CHUcjsonJIDVu16mV.jpg" group-title="Filmes | Acao",Ultraman Taiga: Clímax da Nova Geração
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dupla Perigosa" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jYpk5Zun4VTWrplO3m9BHANi4S5.jpg" group-title="Filmes | Acao",Dupla Perigosa
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dhurandhar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg" group-title="Filmes | Acao",Dhurandhar
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freaky Tales" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lo5mfglsGeMYmAkSRXs9DATNJxk.jpg" group-title="Filmes | Acao",Freaky Tales
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona de Caça" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uqA1eHclXQODrmJqm6lGmLxEYCR.jpg" group-title="Filmes | Acao",Zona de Caça
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Radical - Amnésia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pGt2JUsDjhSn738jR3R1SdxWRe5.jpg" group-title="Filmes | Acao",Você Radical - Amnésia
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mestres do Universo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9B2bRNm4jtGj3h55M51LiH1BPs3.jpg" group-title="Filmes | Acao",Mestres do Universo
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Police Story: A Guerra das Drogas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7xT1ukY1zDksLbSX2eeguXi7TRK.jpg" group-title="Filmes | Acao",Police Story: A Guerra das Drogas
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vertigem" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rdFpgtjrCmU4yB7PapB8H88XtYY.jpg" group-title="Filmes | Acao",Vertigem
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/903649.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fogo vs Fogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXqzmtYY4JrQKEvJ0rw04O1Cakq.jpg" group-title="Filmes | Acao",Fogo vs Fogo
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/896612.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bem-vindo à Selva" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5CgCYCiObKgst1UIdqibU8ZeKAX.jpg" group-title="Filmes | Acao",Bem-vindo à Selva
@@ -29881,8 +30009,6 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/788294.mp4
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/788293.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Grande Tubarão Branco" tvg-logo="http://gstaticontent.com/images/048dcc3021d594b900193bcabfc4a785.jpg" group-title="Filmes | Terror",Grande Tubarão Branco
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/788292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu Sempre Vou Saber o Que Vocês Fizeram no Verão Passado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3zMKb8paII5np0HE9C3piRNxA3A.jpg" group-title="Filmes | Terror",Eu Sempre Vou Saber o Que Vocês Fizeram no Verão Passado
-http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/788291.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Na Mente do Demônio" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rKRra8tFuUKjed2JEpNRXrPkimi.jpg" group-title="Filmes | Terror",Na Mente do Demônio
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/788290.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cadáveres" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mQhSNeAZaYpVn2CJwKSnqvM1Ek5.jpg" group-title="Filmes | Terror",Cadáveres
