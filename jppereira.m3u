@@ -3035,6 +3035,40 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="" tvg-name="Quando a Morte Sussurra 3" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ppsif2CqPzY8a9zIe0oB8WACktk.jpg" group-title="Filmes | Lancamentos",Quando a Morte Sussurra 3
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jardim do Éden" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oQZWVRQMOgLp1WUt63VLSa6B9GR.jpg" group-title="Filmes | Lancamentos",Jardim do Éden
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Rosto Pálido" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2NdG2oCBLQM5ntiUtP4YGTWIhmF.jpg" group-title="Filmes | Lancamentos",A Lenda do Rosto Pálido
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salve Geral: Irmandade" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg" group-title="Filmes | Lancamentos",Salve Geral: Irmandade
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu, Nirvana" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1A3MzxrtqZ8ggsCbSngqlyQBiOX.jpg" group-title="Filmes | Lancamentos",Eu, Nirvana
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Eu Tivesse Pernas, Eu Te Chutaria" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lvdrPOr9LBvYp7Yq0nWn8vnl3fr.jpg" group-title="Filmes | Lancamentos",Se Eu Tivesse Pernas, Eu Te Chutaria
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Livros Restantes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vTRUjOHPekN8qnCsvpSLG366yMg.jpg" group-title="Filmes | Lancamentos",Livros Restantes
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maira Porongyta – O aviso do céu" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iW2cbyOv5XSVJCJfnY9lu4M3Lwj.jpg" group-title="Filmes | Lancamentos",Maira Porongyta – O aviso do céu
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peixe Vivo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ahRYsk9P2jiYiLR2elUujtMBvbT.jpg" group-title="Filmes | Lancamentos",Peixe Vivo
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Predador: Terras Selvagens" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7AYPGnLTmU6zDtMMAWqeUkCi7Tw.jpg" group-title="Filmes | Lancamentos",Predador: Terras Selvagens
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Queimando Por Dentro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cxVOSFEJjivAhJYYXZf2KnL7M0v.jpg" group-title="Filmes | Lancamentos",Queimando Por Dentro
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romance" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bYt0NhwB0WpYgd6HOt8tUXAiHLn.jpg" group-title="Filmes | Lancamentos",Romance
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cela dos Milagres" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/d9i9EZHpjwqAP9byTJDAuXgSdZP.jpg" group-title="Filmes | Lancamentos",A Cela dos Milagres
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eye for an Eye" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lpepbfVziHJLhVoxTEKs8ok00iu.jpg" group-title="Filmes | Lancamentos",Eye for an Eye
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Férias Forçadas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oi4GkE83PAT8J0RE0chkgbMleJ5.jpg" group-title="Filmes | Lancamentos",Férias Forçadas
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vizinhos Bárbaros" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3K2nBFlHo5TP4KLFkei3yjWANZO.jpg" group-title="Filmes | Lancamentos",Vizinhos Bárbaros
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quarto do Pânico" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yioY8xPjLygGezkrRs7yf01BQ7P.jpg" group-title="Filmes | Lancamentos",Quarto do Pânico
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904948.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Meu Avô Stanislau" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/t6Y1I2AVkzZ8Nzkltkqi9FfdTzD.jpg" group-title="Filmes | Lancamentos",Meu Avô Stanislau
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/904333.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Empregada" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aoBcz7hOFPdJS9aWMr1z4Gk76rN.jpg" group-title="Filmes | Lancamentos",A Empregada
