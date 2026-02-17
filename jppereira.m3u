@@ -83,6 +83,86 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="https://1.bp.blogspot.com/-BOo1fU0eDaU/YUHcElt9WfI/AAAAAAAABFg/3csTmAn2ji0exjLHHqor1yyC5JluA4X3ACLcBGAsYHQ/s203/novotempo200.jpg" group-title="CANAIS | EVANGÉLICOS",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?JPFILMES
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - MOSAICO HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - MOSAICO HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - ACOMPANHE A CASA 01 HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - ACOMPANHE A CASA 01 HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - ACOMPANHE A CASA 01 FHD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - ACOMPANHE A CASA 01 FHD
+http://websmt.ca/live/andersondias@onepro/123645821/2134436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 -  ACOMPANHE A CASA 02 HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 -  ACOMPANHE A CASA 02 HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 -  ACOMPANHE A CASA 02 FHD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 -  ACOMPANHE A CASA 02 FHD
+http://websmt.ca/live/andersondias@onepro/123645821/2134438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - ACOMPANHE A CASA 01 +HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - ACOMPANHE A CASA 01 +HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 -  ACOMPANHE A CASA 02 +HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 -  ACOMPANHE A CASA 02 +HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - COZINHA HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - COZINHA HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - COZINHA FHD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - COZINHA FHD
+http://websmt.ca/live/andersondias@onepro/123645821/2134440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - COZINHA +HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - COZINHA +HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - QUARTO SONHO DE ETERNIDADE HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - QUARTO SONHO DE ETERNIDADE HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - QUARTO SONHO DE ETERNIDADE FHD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - QUARTO SONHO DE ETERNIDADE FHD
+http://websmt.ca/live/andersondias@onepro/123645821/2134442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - QUARTO SONHO DE ETERNIDADE +HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - QUARTO SONHO DE ETERNIDADE +HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - QUARTO SONHO DE VOAR HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - QUARTO SONHO DE VOAR HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - QUARTO SONHO DE VOAR FHD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - QUARTO SONHO DE VOAR FHD
+http://websmt.ca/live/andersondias@onepro/123645821/2134444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - QUARTO SONHO DE VOAR +HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - QUARTO SONHO DE VOAR +HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - QUARTO SONHO DO GRANDE AMOR HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - QUARTO SONHO DO GRANDE AMOR HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - QUARTO SONHO DO GRANDE AMOR FHD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - QUARTO SONHO DO GRANDE AMOR FHD
+http://websmt.ca/live/andersondias@onepro/123645821/2134446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - QUARTO SONHO DO GRANDE AMOR +HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - QUARTO SONHO DO GRANDE AMOR +HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - COZINHA 02 HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - COZINHA 02 HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - COZINHA 02 FHD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - COZINHA 02 FHD
+http://websmt.ca/live/andersondias@onepro/123645821/2134448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - COZINHA 02 +HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - COZINHA 02 +HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - BANHEIRO SUPER CIMED HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - BANHEIRO SUPER CIMED HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - BANHEIRO SUPER CIMED FHD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - BANHEIRO SUPER CIMED FHD
+http://websmt.ca/live/andersondias@onepro/123645821/2134450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - BANHEIRO SUPER CIMED +HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - BANHEIRO SUPER CIMED +HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - SALA SONHO DE SER MILIONARIO HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - SALA SONHO DE SER MILIONARIO HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - SALA SONHO DE SER MILIONARIO FHD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - SALA SONHO DE SER MILIONARIO FHD
+http://websmt.ca/live/andersondias@onepro/123645821/2134452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - SALA SONHO DE SER MILIONARIO +HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - SALA SONHO DE SER MILIONARIO +HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - PISCINA HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - PISCINA HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - PISCINA FHD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - PISCINA FHD
+http://websmt.ca/live/andersondias@onepro/123645821/2134454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - PISCINA +HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - PISCINA +HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - ACADEMIA NIVEA HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - ACADEMIA NIVEA HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - ACADEMIA NIVEA FHD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - ACADEMIA NIVEA FHD
+http://websmt.ca/live/andersondias@onepro/123645821/2134456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB26 - ACADEMIA NIVEA +HD" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",BBB26 - ACADEMIA NIVEA +HD
+http://websmt.ca/live/andersondias@onepro/123645821/2134607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Show" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",Big Show
+http://websmt.ca/live/andersondias@onepro/123645821/2134459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mesacast" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",Mesacast
+http://websmt.ca/live/andersondias@onepro/123645821/2134458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Click BBB" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",Click BBB
+http://websmt.ca/live/andersondias@onepro/123645821/2134595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Seleção BBB" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",Seleção BBB
+http://websmt.ca/live/andersondias@onepro/123645821/2134596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maratona Big Day" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",Maratona Big Day
+http://websmt.ca/live/andersondias@onepro/123645821/2134597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bate-papo BBB" tvg-logo="https://iili.io/fkTlAMu.png" group-title="Canais | ✨ BBB 26",Bate-papo BBB
+http://websmt.ca/live/andersondias@onepro/123645821/2134594.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 01
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/11000.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 02
