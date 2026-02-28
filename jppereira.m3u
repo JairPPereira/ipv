@@ -1188,27 +1188,27 @@ http://2025easy.lat:80/live/rc8zew5u/21231sw2/608131.ts
 #EXTINF:-1 tvg-id="ESPN1 (alternativo) HD³" tvg-name="ESPN1 (alternativo) HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN1 (alternativo) HD³
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22001.ts
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN HD
-http://2025easy.lat:80/live/rc8zew5u/21231sw2/1160283.ts
+http://46.151.196.223:14432
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN2 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN2 alternativo HD³
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22004.ts
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 2 HD
-http://2025easy.lat:80/live/rc8zew5u/21231sw2/654304.ts
+http://46.151.196.223:14438
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN3 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN3 alternativo HD³
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22007.ts
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 3 HD
-http://2025easy.lat:80/live/rc8zew5u/21231sw2/654310.ts
+http://46.151.196.223:14444
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN4 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN4 alternativo HD³
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22010.ts
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 4 HD
-http://2025easy.lat:80/live/rc8zew5u/21231sw2/2905221.ts
+http://46.151.196.223:14450
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN5 HD³
-http://2025easy.lat:80/live/rc8zew5u/21231sw2/654319.ts
+http://46.151.196.223:14456
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN5 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN5 alternativo HD³
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22013.ts
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="- ESPN6 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6 alternativo HD³
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 6 HD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 6 HD
-http://2025easy.lat:80/live/rc8zew5u/21231sw2/654328.ts
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 #EXTINF:-1 tvg-id="86" tvg-name="A&E FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Canais | Variedades",A&E FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12000.ts
 #EXTINF:-1 tvg-id="86" tvg-name="A&E HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Canais | Variedades",A&E HD
