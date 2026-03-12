@@ -103,6 +103,10 @@ https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="TV MZ" tvg-name="TV MZ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibKLVxUjCtOd91oOX63t3yD0Ob8cul8m1nvqPH3aKMJqjotYrWL5RbsK8sp8uLRQwtSfUxGfKHKItL5zFUJiCeCBbkNoUR6JJgg0Eb8IJqoWiiJ2EA5nBM-DAD8yVckI0hBYrolNG8vmG1jPFdqH0X_Bzufyw1BH54Lx6Sgw02dwmoQIJHrXarbw417zQ/s1600/tvmz.png" group-title="CANAIS | FILMES E SERIES",TV MZ
 https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8
+#EXTINF:-1 tvg-id="NBX TV" tvg-name="NBX TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI2RympKeY3SJHAzqWovIl3I164ZC0apGwLH6hAYZcEXwlpxxjFqNFmJe1m7tKwO7A-qPdyQ4QX4VGSW2-v_Vjs_X-ZzSnCvB6J8jNVE4DpygBZQFf_qzXQtkPoQUKeSIapzel4l6LDEC023mMS39qsuqn5_nB2JG2XxfAtaK2F88bIPwZGF4EhW0f7HI/s1600/nbxtv.png" group-title="CANAIS | FILMES E SERIES",NBX TV
+https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBX TV PIPOCA" tvg-name="NBX TV PIPOCA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAqufrbg4H28Hhu_d8nTJ70eQnL9Ozg73mS3dAx4DqH1VzXUeWhLIFn-oaxYFKhNqjd55ecwEPAGF5Y5Swv7cYeOnBkJHMsLbLRmbOjNxCQAhGbGP-a0I_G9mI5allXxSEJya5Yhsrv0AgEnAsWEq8p8h2B1ikaEzUUNlCC7z1rzNZ1Q0sZj071yDb8pg/s1600/nbxpipoca.png" group-title="CANAIS | FILMES E SERIES",NBX TV PIPOCA
+https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
 #EXTINF:-1 tvg-id="Jetsons Tv" tvg-name="Jetsons Tv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizVK29BJOHcffLLSOTgKDv7oP7djM2OOPk0oEbWtWE3rkOtP97IvN32n6UGKYnvfDoRBGYEV3OdkzvxhBZgvAADltXMYWkNiP0qbpQ5xmXTk838vAv662YzHN8T43tBRV6jBCL4ggkXTu06Cht0k0uMj6KWNWQNP1Uows6o34o0V1dt-11iKWXXX3P844/s1600/jet.webp" group-title="CANAIS | DESENHOS",Jetsons Tv
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixGRsCFGdw-zzVSX39Syu-tOFT2SBqfbIAoi6RtotCvHMAoIxytzDjcxnqk-54DiqXATl4vcOzgmMP4MD2wrF_wgBj4iCgwNF3xX65MoeICX0Xmksi5S9kik6fF1wpWCpqkscfLB8w9He80dlmHto3_he4TTaZeBGP0QiV3_V-D9z3hc7ydPuUuvtUqAQ/s1600/gos.webp" group-title="CANAIS | DESENHOS",Gospel Cartoon
@@ -117,6 +121,8 @@ https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
 #EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJwe6wPgiTOIDvPYUCX-S2qD6cuYh7DYrzQwQGiGAafWDy7msQcpjfbBc7P4KyuwA-OeRvGO3c1KEJ47_eD-_k-hw_SLW84J3yzRvjB5BnkurXUHgRR5Qy7Nf9Slqi3jKEAIjKfLnmtimXuY_AxG26GlePiY4ZW93PRbRCmj9JikYrM_J0g1JyQBMEtLk/s1600/nicktoons.jpg" group-title="CANAIS | DESENHOS",Nicktoons
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="NBX TV KIDS" tvg-name="NBX TV KIDS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjmKfXFM9CROvEdOV7sB89qUvaFHtX75yeoMKXaH5U4XxjH3_0ZM5leJy2ezbkpEdTa3Eb8pNxDXzo-7ahH8FuWIk0fMnMGNXWzeTwq5JTGQqvNyi19XKq8zDp37TBie2yyqmzMrjliHHekJh2NUDOjYfPTeHraqO7WlatKomqS7ZEzqJ8WBQO4s0C8wE/s1600/nbxtvkids.png" group-title="CANAIS | DESENHOS",NBX TV KIDS
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelissima BR" tvg-name="Novelissima BR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3nYAE74nXl-oQtyefKStRaOlvgaf2tBSaT8UKQsKhvi-58JvaFxZ9FwKBwjCUfnqJo7fK7VoBP_luvt28Ucq-diFbfqMcm-4arrTDEJJuxCwbl8vc9UAs0v6QtAdSVx-659jbXTrNZuLF1LDcAUQTtu2J7MRV62OICOPsVAN-jwHxzetN7WtZsmaPOUA/s1600/novelissimaa.png" group-title="Canais | NOVELAS",Novelissima BR
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1 tvg-id="Acesso Brasil TV" tvg-name="Acesso Brasil TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0SGoHCtkl-OA0Ip4HBPOEU1m5VAB5Q3CIc9TJfXVDYgkRxHKk_hql2Dxfcw8Z6CC01DGXFpIzGVt_8fEzYDoHrES2pfOn8QRWPxn6kE7HR5FTsDlOSqKMlcyn_fvv-rm9naHlZ0F71oZga7z748sW0JVSaJtQRN0jDhgW6TV3Gu6n4qdDQG9bsxVKhOo/s1600/acessobr.jpg" group-title="Canais | NOVELAS",Acesso Brasil TV
@@ -1255,8 +1261,10 @@ http://eassycd.com:80/live/Dbdjsk/leo334/1518348.ts
 http://eassycd.com:80/live/Dbdjsk/leo334/601979.ts
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime Video  05" tvg-logo="https://www.fontedecanais.io/logos/canais/primevideo.png" group-title="CANAIS | ESPORTES PPV",Amazon Prime Video  05
 http://eassycd.com:80/live/Dbdjsk/leo334/601985.ts
-#EXTINF:-1 tvg-id="SPORTV alternativo HD³" tvg-name="SPORTV alternativo HD³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="CANAIS | SPORTV",SPORTV alternativo HD³
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21001.ts
+#EXTINF:-1 tvg-id="NBX TV SPORTS" tvg-name="NBX TV SPORTS" tvg-logo="https://www.fontedecanais.io/logos/canais/primevideo.png" group-title="CANAIS | ESPORTES PPV",NBX TV SPORTS
+http://eassycd.com:80/live/Dbdjsk/leo334/601985.ts
+#EXTINF:-1 tvg-id="SPORTV alternativo HD³" tvg-name="SPORTV alternativo HD³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7QeYOX6bZy1s0dflCpI0OJt1vQvGTpH4y5ObBKU8nVbmqIaobsxI0lY79RAcWNjnD8qHvTx2CM-9867Sf34jmsX-gJPXZ0WT6zgioDfoqyFvfNtlTx53ZVHqP3tZ3CUelP4sn2mB8DrXKhP8k2AsFEC8287K398uENOVuuXI1NtZ41lJGr1w0weTsv8k/s1600/nbxtvsport.png" group-title="CANAIS | SPORTV",SPORTV alternativo HD³
+https://stmv4.voxtvhd.com.br/nbxtvsports/nbxtvsports/playlist.m3u8
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="http://smartvtcl.site:8080/images/43c36900b0aa86ded24077870df74926.png" group-title="CANAIS | SPORTV",SPORTV HD
 http://46.151.196.223:14286
 #EXTINF:-1 tvg-id="SPORTV 2 alternativo HD³" tvg-name="SPORTV 2 alternativo HD³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="CANAIS | SPORTV",SPORTV 2 alternativo HD³
