@@ -26,11 +26,11 @@ for i in range(len(lines)):
         url = lines[i+1].strip()
 
         channel = {
-            "stream_id": stream_id,
+            "id": stream_id,
             "name": name,
-            "stream_icon": logo,
-            "category_id": group,
-            "stream_url": url
+            "logo": logo,
+            "group": group,
+            "url": url
         }
 
         channels.append(channel)
