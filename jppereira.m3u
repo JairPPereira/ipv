@@ -1233,17 +1233,17 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19068.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19069.ts
 #EXTINF:-1 tvg-id="Rede TV³" tvg-name="Rede TV³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCiYEA2lxX23L2C87ImgSSDpK9maUywIthnTaqp1vzDBq3z7pavhXyau4x6pI-4zqV-UxlwfWtvh9AC3pGf4Ef_XCR_4kpApOZ2QlRQYlH4ns63pVs1sbmemcJcFa5ogHFB1lddJL0iBWWGJsAMQ6bZVux3q_Fb2h9zZdMjs6EiQm3Vx83L8qJV9gd6N4/s1600/tves.webp" group-title="CANAIS | ESPORTES PPV",Rede TV³
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 1
+#EXTINF:-1 tvg-id="Paramount+ 1" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 1
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19071.ts
-#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 2
+#EXTINF:-1 tvg-id="Paramount+ 2" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 2
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19072.ts
-#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ 3" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 3
+#EXTINF:-1 tvg-id="Paramount+ 3" tvg-name="Paramount+ 3" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 3
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19073.ts
-#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 4
+#EXTINF:-1 tvg-id="Paramount+ 4" tvg-name="Paramount+ 4" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 4
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19074.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 5" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 5
+#EXTINF:-1 tvg-id="Paramount+ 5" tvg-name="Paramount+ 5" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 5
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19075.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 6" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 6
+#EXTINF:-1 tvg-id="Paramount+ 6" tvg-name="Paramount+ 6" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 6
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19076.ts
 #EXTINF:-1 tvg-id="TNT SPORTS 2 HD³" tvg-name="TNT SPORTS 2 HD³" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 2 HD³
 http://2025easy.lat:80/live/rc8zew5u/21231sw2/1094431.ts
@@ -1409,11 +1409,11 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12045.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12046.ts
 #EXTINF:-1 tvg-id="MULTISHOW HD" tvg-name="Multishow SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12047.ts
-#EXTINF:-1 tvg-id="96" tvg-name="Off FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/off.png" group-title="Canais | Variedades",Off FHD
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="Off FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/off.png" group-title="Canais | Variedades",Off FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12048.ts
-#EXTINF:-1 tvg-id="96" tvg-name="Off HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/off.png" group-title="Canais | Variedades",Off HD
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="Off HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/off.png" group-title="Canais | Variedades",Off HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12049.ts
-#EXTINF:-1 tvg-id="96" tvg-name="Off SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/off.png" group-title="Canais | Variedades",Off SD
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="Off SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/off.png" group-title="Canais | Variedades",Off SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12050.ts
 #EXTINF:-1 tvg-id="12" tvg-name="TLC FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tlc.png" group-title="Canais | Variedades",TLC FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12051.ts
@@ -1663,17 +1663,17 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17006.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17007.ts
 #EXTINF:-1 tvg-id="FUTURA HD" tvg-name="Futura SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/futura.png" group-title="Canais | Abertos",Futura SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17008.ts
-#EXTINF:-1 tvg-id="0" tvg-name="RedeTV! FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! FHD
+#EXTINF:-1 tvg-id="REDE TV! HD" tvg-name="RedeTV! FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17036.ts
-#EXTINF:-1 tvg-id="0" tvg-name="RedeTV! HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! HD
+#EXTINF:-1 tvg-id="REDE TV! HD" tvg-name="RedeTV! HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17037.ts
-#EXTINF:-1 tvg-id="0" tvg-name="RedeTV! SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! SD
+#EXTINF:-1 tvg-id="REDE TV! HD" tvg-name="RedeTV! SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17038.ts
-#EXTINF:-1 tvg-id="397" tvg-name="SBT FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT FHD
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17039.ts
-#EXTINF:-1 tvg-id="397" tvg-name="SBT HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17040.ts
-#EXTINF:-1 tvg-id="397" tvg-name="SBT SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SD
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17041.ts
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="Canal do Boi" tvg-logo="https://www.fontedecanais.tv/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17042.ts
@@ -2325,13 +2325,13 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19068.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19069.ts
 #EXTINF:-1 tvg-id="" tvg-name="CazeTV 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/cazetv.png" group-title="Canais | Esportes",CazeTV 03
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19070.ts
-#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.tv/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 1
+#EXTINF:-1 tvg-id="Paramount+ 1" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.tv/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 1
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19071.ts
-#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.tv/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 2
+#EXTINF:-1 tvg-id="Paramount+ 2" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.tv/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 2
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19072.ts
-#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ 3" tvg-logo="https://www.fontedecanais.tv/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 3
+#EXTINF:-1 tvg-id="Paramount+ 3" tvg-name="Paramount+ 3" tvg-logo="https://www.fontedecanais.tv/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 3
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19073.ts
-#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4" tvg-logo="https://www.fontedecanais.tv/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 4
+#EXTINF:-1 tvg-id="Paramount+ 4" tvg-name="Paramount+ 4" tvg-logo="https://www.fontedecanais.tv/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 4
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19074.ts
 #EXTINF:-1 tvg-id="439" tvg-name="XSports" tvg-logo="http://www.fontedecanais.tv/logos/canais/xsports.png" group-title="Canais | Esportes",XSports
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19079.ts
@@ -2643,9 +2643,9 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/26000.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/26001.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rede Familia" tvg-logo="http://www.fontedecanais.tv/logos/canais/redefamilia.png" group-title="Canais | Religiosos",Rede Familia
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/26002.ts
-#EXTINF:-1 tvg-id="59" tvg-name="Rede Gospel" tvg-logo="http://www.fontedecanais.tv/logos/canais/redegospel.png" group-title="Canais | Religiosos",Rede Gospel
+#EXTINF:-1 tvg-id="REDE GOSPEL" tvg-name="Rede Gospel" tvg-logo="http://www.fontedecanais.tv/logos/canais/redegospel.png" group-title="Canais | Religiosos",Rede Gospel
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/26003.ts
-#EXTINF:-1 tvg-id="60" tvg-name="Rede Vida" tvg-logo="http://www.fontedecanais.tv/logos/canais/redevida.png" group-title="Canais | Religiosos",Rede Vida
+#EXTINF:-1 tvg-id="REDE VIDA" tvg-name="Rede Vida" tvg-logo="http://www.fontedecanais.tv/logos/canais/redevida.png" group-title="Canais | Religiosos",Rede Vida
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/26004.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rede CNT" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnt.png" group-title="Canais | Religiosos",Rede CNT
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/26005.ts
@@ -2657,131 +2657,131 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/26007.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/26008.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="http://www.fontedecanais.tv/logos/canais/tvevangelizar.png" group-title="Canais | Religiosos",TV Evangelizar
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/26009.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Bahia FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Bahia FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27003.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Bahia HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Bahia HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27004.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Bahia SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Bahia SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27005.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Bahia Itabuna FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia Itabuna FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Bahia Itabuna FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia Itabuna FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27006.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Bahia Itabuna HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia Itabuna HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Bahia Itabuna HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia Itabuna HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27007.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Bahia Itabuna SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia Itabuna SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Bahia Itabuna SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia Itabuna SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27008.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Bauru FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bauru FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Bauru FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bauru FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27009.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Bauru HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bauru HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Bauru HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bauru HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27010.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Bauru SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bauru SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Bauru SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bauru SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27011.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Belém FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Belém FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Belém FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Belém FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27012.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Belém HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Belém HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Belém HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Belém HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27013.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Belém SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Belém SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Belém SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Belém SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27014.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Brasília FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Brasília FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Brasília FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Brasília FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27015.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Brasília HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Brasília HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Brasília HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Brasília HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27016.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Brasília SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Brasília SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Brasília SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Brasília SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27017.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Campinas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campinas FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Campinas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campinas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27018.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Campinas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campinas HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Campinas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campinas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27019.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Campinas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campinas SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Campinas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campinas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27020.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Campos dos Goytacazes FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campos dos Goytacazes FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Campos dos Goytacazes FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campos dos Goytacazes FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27021.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Campos dos Goytacazes HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campos dos Goytacazes HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Campos dos Goytacazes HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campos dos Goytacazes HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27022.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Campos dos Goytacazes SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campos dos Goytacazes SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Campos dos Goytacazes SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campos dos Goytacazes SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27023.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Curitiba FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Curitiba FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Curitiba FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Curitiba FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27024.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Curitiba HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Curitiba HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Curitiba HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Curitiba HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27025.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Curitiba SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Curitiba SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Curitiba SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Curitiba SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27026.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Florianópolis FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Florianópolis FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Florianópolis FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Florianópolis FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27027.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Florianópolis HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Florianópolis HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Florianópolis HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Florianópolis HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27028.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Florianópolis SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Florianópolis SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Florianópolis SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Florianópolis SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27029.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Fortaleza FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Fortaleza FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Fortaleza FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Fortaleza FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27030.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Fortaleza HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Fortaleza HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Fortaleza HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Fortaleza HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27031.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Fortaleza SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Fortaleza SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Fortaleza SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Fortaleza SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27032.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Goiás FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Goiás FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Goiás FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Goiás FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27033.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Goiás HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Goiás HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Goiás HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Goiás HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27034.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Goiás SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Goiás SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Goiás SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Goiás SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27035.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Guaíba FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Guaíba FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Guaíba FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Guaíba FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27036.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Guaíba HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Guaíba HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Guaíba HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Guaíba HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27037.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Guaíba SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Guaíba SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Guaíba SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Guaíba SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27038.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Manaus FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Manaus FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Manaus FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Manaus FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27039.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Manaus HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Manaus HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Manaus HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Manaus HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27040.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Manaus SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Manaus SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Manaus SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Manaus SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27041.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Minas FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Minas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27042.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Minas HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Minas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27043.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Minas SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Minas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27044.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Recife FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Recife FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Recife FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Recife FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27045.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Recife HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Recife HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Recife HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Recife HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27046.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Recife SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Recife SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Recife SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Recife SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27047.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Ribeirão Preto FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Ribeirão Preto FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Ribeirão Preto FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Ribeirão Preto FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27048.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Ribeirão Preto HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Ribeirão Preto HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Ribeirão Preto HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Ribeirão Preto HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27049.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Ribeirão Preto SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Ribeirão Preto SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Ribeirão Preto SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Ribeirão Preto SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27050.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27051.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27052.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27053.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio Preto FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio Preto FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Rio Preto FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio Preto FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27054.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio Preto HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio Preto HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Rio Preto HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio Preto HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27055.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio Preto SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio Preto SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Rio Preto SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio Preto SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27056.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Santos e Vale FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Santos e Vale FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Santos e Vale FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Santos e Vale FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27057.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Santos e Vale HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Santos e Vale HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Santos e Vale HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Santos e Vale HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27058.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Santos e Vale SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Santos e Vale SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Santos e Vale SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Santos e Vale SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27059.ts
-#EXTINF:-1 tvg-id="186" tvg-name="Record TV São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27060.ts
-#EXTINF:-1 tvg-id="186" tvg-name="Record TV São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27061.ts
-#EXTINF:-1 tvg-id="186" tvg-name="Record TV São Paulo SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV São Paulo SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27062.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Vitória FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Vitória FHD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Vitória FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Vitória FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27063.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Vitória HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Vitória HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Vitória HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Vitória HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27064.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Vitória SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Vitória SD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Vitória SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Vitória SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27065.ts
 #EXTINF:-1 tvg-id="" tvg-name="Band Bahia FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Band",Band Bahia FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28000.ts
