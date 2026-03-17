@@ -1695,53 +1695,53 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17049.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17050.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVE Bahia" tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="Canais | Abertos",TVE Bahia
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17051.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="EPTV Campinas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18000.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="EPTV Campinas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18001.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="EPTV Campinas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18002.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Central FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Central FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="EPTV Central FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Central FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18003.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Central HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Central HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="EPTV Central HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Central HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18004.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Central SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Central SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="EPTV Central SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Central SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18005.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Ribeirão FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="EPTV Ribeirão FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Ribeirão FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18006.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Ribeirão HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="EPTV Ribeirão HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Ribeirão HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18007.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Ribeirão SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="EPTV Ribeirão SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Ribeirão SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18008.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Sul de Minas FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="EPTV Sul de Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Sul de Minas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18009.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Sul de Minas HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="EPTV Sul de Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Sul de Minas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18010.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Sul de Minas SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="EPTV Sul de Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",EPTV Sul de Minas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18011.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Brasília FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Brasília FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Brasília FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18012.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Brasília HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Brasília HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Brasília HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18013.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Brasília SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Brasília SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Brasília SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18014.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Minas FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Minas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18015.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Minas HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Minas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18016.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Minas SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Minas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18017.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Nordeste FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Nordeste FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Nordeste FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18018.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Nordeste HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Nordeste HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Nordeste HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18019.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Nordeste SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Nordeste SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Nordeste SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18020.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18021.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18022.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18023.ts
 #EXTINF:-1 tvg-id="124" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo São Paulo FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18024.ts
@@ -1749,473 +1749,473 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18024.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18025.ts
 #EXTINF:-1 tvg-id="124" tvg-name="Globo São Paulo SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo São Paulo SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18026.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Alto Litoral FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Alto Litoral FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Alto Litoral FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18027.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Alto Litoral HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Alto Litoral HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Alto Litoral HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18028.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Alto Litoral SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Alto Litoral SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Alto Litoral SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18029.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Cabugi FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Cabugi FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Cabugi FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18030.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Cabugi HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Cabugi HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Cabugi HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18031.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Cabugi SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Cabugi SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Cabugi SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18032.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Costa Branca FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Costa Branca FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Costa Branca FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Costa Branca FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18033.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Costa Branca HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Costa Branca HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Costa Branca HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Costa Branca HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18034.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Costa Branca SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Costa Branca SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Costa Branca SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Costa Branca SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18035.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV dos Vales FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV dos Vales FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV dos Vales FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18036.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV dos Vales HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV dos Vales HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV dos Vales HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18037.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV dos Vales SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV dos Vales SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV dos Vales SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18038.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Grande Minas FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Grande Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Grande Minas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18039.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Grande Minas HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Grande Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Grande Minas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18040.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Grande Minas SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Grande Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Grande Minas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18041.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Planície FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Planície FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Planície FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18042.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Planície HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Planície HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Planície HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18043.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Planície SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Planície SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Planície SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18044.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Serra Mar FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Serra Mar FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Serra Mar FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18045.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Serra Mar HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Serra Mar HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Serra Mar HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18046.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Serra Mar SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Inter TV Serra Mar SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Serra Mar SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18047.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Caxias do Sul FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Caxias do Sul FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Caxias do Sul FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Caxias do Sul FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18048.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Caxias do Sul HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Caxias do Sul HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Caxias do Sul HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Caxias do Sul HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18049.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Caxias do Sul SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Caxias do Sul SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Caxias do Sul SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Caxias do Sul SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18050.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Centro-Oeste FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Centro-Oeste FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Centro-Oeste FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Centro-Oeste FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18051.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Centro-Oeste HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Centro-Oeste HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Centro-Oeste HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Centro-Oeste HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18052.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Centro-Oeste SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Centro-Oeste SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Centro-Oeste SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Centro-Oeste SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18053.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Chapecó FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Chapecó FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Chapecó FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Chapecó FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18054.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Chapecó HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Chapecó HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Chapecó HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Chapecó HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18055.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Chapecó SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Chapecó SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Chapecó SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Chapecó SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18056.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Criciúma FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Criciúma FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Criciúma FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Criciúma FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18057.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Criciúma HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Criciúma HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Criciúma HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Criciúma HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18058.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Criciúma SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Criciúma SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Criciúma SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Criciúma SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18059.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Florianópolis FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Florianópolis FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Florianópolis FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18060.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Florianópolis HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Florianópolis HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Florianópolis HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18061.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Florianópolis SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Florianópolis SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Florianópolis SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18062.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Joinville FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Joinville FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Joinville FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Joinville FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18063.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Joinville HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Joinville HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Joinville HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Joinville HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18064.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Joinville SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Joinville SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Joinville SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Joinville SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18065.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Porto Alegre FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Porto Alegre FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Porto Alegre FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18066.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Porto Alegre HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Porto Alegre HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Porto Alegre HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18067.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Porto Alegre SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Porto Alegre SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Porto Alegre SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18068.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Macapá FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Macapá FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Macapá FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Macapá FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18069.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Macapá HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Macapá HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Macapá HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Macapá HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18070.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Macapá SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Macapá SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Macapá SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Macapá SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18071.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Manaus FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Manaus FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Manaus FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18072.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Manaus HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Manaus HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Manaus HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18073.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Manaus SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Manaus SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Manaus SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18074.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Parintins FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Parintins FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Parintins FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Parintins FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18075.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Parintins HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Parintins HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Parintins HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Parintins HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18076.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Parintins SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Parintins SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Parintins SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Parintins SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18077.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Porto Velho FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Porto Velho FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Porto Velho FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18078.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Porto Velho HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Porto Velho HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Porto Velho HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18079.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Porto Velho SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Porto Velho SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Porto Velho SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18080.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Boa Vista FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Boa Vista FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Boa Vista FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18081.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Boa Vista HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Boa Vista HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Boa Vista HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18082.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Boa Vista SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Boa Vista SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Boa Vista SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18083.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Rio Branco FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Rio Branco FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Rio Branco FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18084.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Rio Branco HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Rio Branco HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Rio Branco HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18085.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Rio Branco SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Rede Amazônica Rio Branco SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Rio Branco SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18086.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Cascavel FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Cascavel FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Cascavel FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Cascavel FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18087.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Cascavel HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Cascavel HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Cascavel HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Cascavel HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18088.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Cascavel SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Cascavel SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Cascavel SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Cascavel SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18089.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Curitiba FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Curitiba FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Curitiba FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18090.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Curitiba HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Curitiba HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Curitiba HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18091.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Curitiba SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Curitiba SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Curitiba SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18092.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Foz do Iguaçu FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Foz do Iguaçu FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Foz do Iguaçu FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Foz do Iguaçu FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18093.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Foz do Iguaçu HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Foz do Iguaçu HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Foz do Iguaçu HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Foz do Iguaçu HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18094.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Foz do Iguaçu SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Foz do Iguaçu SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Foz do Iguaçu SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Foz do Iguaçu SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18095.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Guarapuava FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Guarapuava FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Guarapuava FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Guarapuava FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18096.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Guarapuava HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Guarapuava HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Guarapuava HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Guarapuava HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18097.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Guarapuava SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Guarapuava SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Guarapuava SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Guarapuava SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18098.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Londrina FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Londrina FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Londrina FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Londrina FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18099.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Londrina HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Londrina HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Londrina HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Londrina HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18100.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Londrina SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Londrina SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Londrina SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Londrina SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18101.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Maringá FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Maringá FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Maringá FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Maringá FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18102.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Maringá HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Maringá HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Maringá HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Maringá HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18103.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Maringá SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Maringá SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Maringá SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Maringá SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18104.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Paranavaí FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Paranavaí FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Paranavaí FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Paranavaí FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18105.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Paranavaí HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Paranavaí HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Paranavaí HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Paranavaí HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18106.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Paranavaí SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Paranavaí SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Paranavaí SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Paranavaí SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18107.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Ponta Grossa FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Ponta Grossa FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Ponta Grossa FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Ponta Grossa FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18108.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Ponta Grossa HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Ponta Grossa HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Ponta Grossa HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Ponta Grossa HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18109.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC Ponta Grossa SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Ponta Grossa SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RPC Ponta Grossa SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RPC Ponta Grossa SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18110.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Alvorada do Sul FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Alvorada do Sul FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Alvorada do Sul FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Alvorada do Sul FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18111.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Alvorada do Sul HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Alvorada do Sul HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Alvorada do Sul HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Alvorada do Sul HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18112.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Alvorada do Sul SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Alvorada do Sul SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Alvorada do Sul SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Alvorada do Sul SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18113.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Goiânia FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Anhanguera Goiânia FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Goiânia FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18114.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Goiânia HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Anhanguera Goiânia HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Goiânia HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18115.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Goiânia SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Anhanguera Goiânia SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Goiânia SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18116.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Asa Branca FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Asa Branca FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18117.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Asa Branca HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Asa Branca HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18118.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Asa Branca SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Asa Branca SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18119.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Bahia FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Bahia FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Bahia FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Bahia FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18120.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Bahia HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Bahia HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Bahia HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Bahia HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18121.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Bahia SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Bahia SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Bahia SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Bahia SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18122.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Cabo Branco FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Cabo Branco FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Cabo Branco FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Cabo Branco FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18123.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Cabo Branco HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Cabo Branco HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Cabo Branco HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Cabo Branco HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18124.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Cabo Branco SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Cabo Branco SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Cabo Branco SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Cabo Branco SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18125.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-américa Cuiabá FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Centro-américa Cuiabá FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-américa Cuiabá FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18126.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-américa Cuiabá HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Centro-américa Cuiabá HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-américa Cuiabá HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18127.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-américa Cuiabá SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Centro-américa Cuiabá SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-américa Cuiabá SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18128.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Clube FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Clube FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Clube FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Clube FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18129.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Clube HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Clube HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Clube HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Clube HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18130.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Clube SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Clube SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Clube SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Clube SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18131.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Fronteira FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Fronteira FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Fronteira FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Fronteira FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18132.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Fronteira HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Fronteira HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Fronteira HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Fronteira HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18133.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Fronteira SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Fronteira SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Fronteira SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Fronteira SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18134.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Vitória FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Vitória FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Gazeta Vitória FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Vitória FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18135.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Vitória HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Vitória HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Gazeta Vitória HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Vitória HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18136.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Vitória SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Vitória SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Gazeta Vitória SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Vitória SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18137.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Grande Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Grande Rio FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Grande Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Grande Rio FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18138.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Grande Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Grande Rio HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Grande Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Grande Rio HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18139.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Grande Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Grande Rio SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Grande Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Grande Rio SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18140.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Ituiutaba FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Ituiutaba FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Ituiutaba FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Ituiutaba FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18141.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Ituiutaba HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Ituiutaba HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Ituiutaba HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Ituiutaba HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18142.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Ituiutaba SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Ituiutaba SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Ituiutaba SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Ituiutaba SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18143.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberlândia FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Uberlândia FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberlândia FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18144.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberlândia HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Uberlândia HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberlândia HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18145.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberlândia SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Uberlândia SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberlândia SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18146.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Liberal Belém FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Liberal Belém FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Liberal Belém FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18147.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Liberal Belém HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Liberal Belém HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Liberal Belém HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18148.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Liberal Belém SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Liberal Belém SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Liberal Belém SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18149.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Balsas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Balsas FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Mirante Balsas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Balsas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18150.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Balsas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Balsas HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Mirante Balsas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Balsas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18151.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Balsas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Balsas SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Mirante Balsas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Balsas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18152.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Cocais FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Mirante Cocais FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Cocais FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18153.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Cocais HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Mirante Cocais HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Cocais HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18154.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Cocais SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Mirante Cocais SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Cocais SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18155.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Imperatriz FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Mirante Imperatriz FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Imperatriz FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18156.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Imperatriz HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Mirante Imperatriz HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Imperatriz HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18157.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Imperatriz SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Mirante Imperatriz SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Imperatriz SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18158.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luís FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante São Luís FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Mirante São Luís FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante São Luís FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18159.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luís HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante São Luís HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Mirante São Luís HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante São Luís HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18160.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luís SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante São Luís SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Mirante São Luís SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante São Luís SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18161.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Campo Grande FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Morena Campo Grande FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Campo Grande FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18162.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Campo Grande HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Morena Campo Grande HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Campo Grande HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18163.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Campo Grande SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Morena Campo Grande SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Campo Grande SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18164.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Oeste FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Oeste FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Oeste FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Oeste FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18165.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Oeste HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Oeste HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Oeste HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Oeste HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18166.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Oeste SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Oeste SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Oeste SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Oeste SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18167.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Paraíba FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Paraíba FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Paraíba FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Paraíba FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18168.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Paraíba HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Paraíba HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Paraíba HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Paraíba HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18169.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Paraíba SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Paraíba SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Paraíba SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Paraíba SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18170.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Rio Sul FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Rio Sul FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Rio Sul FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18171.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Rio Sul HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Rio Sul HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Rio Sul HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18172.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Rio Sul SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Rio Sul SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Rio Sul SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18173.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Santa Cruz FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Santa Cruz FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Santa Cruz FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18174.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Santa Cruz HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Santa Cruz HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Santa Cruz HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18175.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Santa Cruz SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Santa Cruz SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Santa Cruz SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18176.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV São Francisco FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV São Francisco FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV São Francisco FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV São Francisco FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18177.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV São Francisco HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV São Francisco HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV São Francisco HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV São Francisco HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18178.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV São Francisco SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV São Francisco SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV São Francisco SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV São Francisco SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18179.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Sergipe FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Sergipe FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Sergipe FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18180.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Sergipe HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Sergipe HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Sergipe HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18181.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Sergipe SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Sergipe SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Sergipe SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18182.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Subaé FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Subaé FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Subaé FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Subaé FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18183.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Subaé HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Subaé HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Subaé HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Subaé HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18184.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Subaé SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Subaé SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Subaé SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Subaé SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18185.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Sudoeste FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Sudoeste FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Sudoeste FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Sudoeste FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18186.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Sudoeste HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Sudoeste HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Sudoeste HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Sudoeste HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18187.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Sudoeste SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Sudoeste SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Sudoeste SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Sudoeste SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18188.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Bauru FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV TEM Bauru FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Bauru FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18189.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Bauru HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV TEM Bauru HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Bauru HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18190.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Bauru SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV TEM Bauru SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Bauru SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18191.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Itapetininga FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV TEM Itapetininga FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Itapetininga FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18192.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Itapetininga HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV TEM Itapetininga HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Itapetininga HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18193.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Itapetininga SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV TEM Itapetininga SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Itapetininga SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18194.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM São José do Rio Preto FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV TEM São José do Rio Preto FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM São José do Rio Preto FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18195.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM São José do Rio Preto HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV TEM São José do Rio Preto HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM São José do Rio Preto HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18196.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM São José do Rio Preto SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV TEM São José do Rio Preto SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM São José do Rio Preto SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18197.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba  FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Sorocaba  FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV TEM Sorocaba  FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Sorocaba  FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18198.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba  HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Sorocaba  HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV TEM Sorocaba  HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Sorocaba  HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18199.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba  SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Sorocaba  SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV TEM Sorocaba  SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Sorocaba  SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18200.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Tribuna FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Tribuna FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Tribuna FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18201.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Tribuna HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Tribuna HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Tribuna HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18202.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Tribuna SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Tribuna SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Tribuna SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18203.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Cariri FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Verdes Mares Cariri FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Cariri FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18204.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Cariri HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Verdes Mares Cariri HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Cariri HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18205.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Cariri SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Verdes Mares Cariri SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Cariri SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18206.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Fortaleza FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Verdes Mares Fortaleza FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Fortaleza FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18207.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Fortaleza HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Verdes Mares Fortaleza HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Fortaleza HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18208.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Fortaleza SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Verdes Mares Fortaleza SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Fortaleza SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18209.ts
-#EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda São José dos Campos FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Vanguarda São José dos Campos FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda São José dos Campos FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18210.ts
-#EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda São José dos Campos HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Vanguarda São José dos Campos HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda São José dos Campos HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18211.ts
-#EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda São José dos Campos SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Vanguarda São José dos Campos SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda São José dos Campos SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18212.ts
-#EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda Taubaté FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Vanguarda Taubaté FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda Taubaté FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18213.ts
-#EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda Taubaté HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Vanguarda Taubaté HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda Taubaté HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18214.ts
-#EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda Taubaté SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Vanguarda Taubaté SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda Taubaté SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18215.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Passo Fundo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Passo Fundo FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Passo Fundo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Passo Fundo FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18216.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Passo Fundo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Passo Fundo HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Passo Fundo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Passo Fundo HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18217.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Passo Fundo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Passo Fundo HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Passo Fundo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Passo Fundo HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18218.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Maria FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Maria FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Santa Maria FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Maria FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18219.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Maria HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Maria HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Santa Maria HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Maria HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18220.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Maria SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Maria SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Santa Maria SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Maria SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18221.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Asa Branca de Alagoas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca de Alagoas FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Asa Branca de Alagoas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca de Alagoas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18222.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Asa Branca de Alagoas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca de Alagoas HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Asa Branca de Alagoas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca de Alagoas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18223.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Asa Branca de Alagoas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca de Alagoas SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Asa Branca de Alagoas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca de Alagoas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18224.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Centro-América Sinop FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Sinop FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Centro-América Sinop FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Sinop FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18225.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Centro-América Sinop HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Sinop HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Centro-América Sinop HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Sinop HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18226.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Centro-América Sinop SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Sinop SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Centro-América Sinop SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Sinop SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18227.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Centro-América Rondonópolis FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Rondonópolis FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Centro-América Rondonópolis FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Rondonópolis FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18228.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Centro-América Rondonópolis HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Rondonópolis HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Centro-América Rondonópolis HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Rondonópolis HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18229.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Centro-América Rondonópolis SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Rondonópolis SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Centro-América Rondonópolis SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Rondonópolis SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18230.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Morena Corumbá FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Corumbá FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Morena Corumbá FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Corumbá FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18231.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Morena Corumbá HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Corumbá HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Morena Corumbá HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Corumbá HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18232.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Morena Corumbá SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Corumbá SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Morena Corumbá SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Corumbá SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18233.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Morena Ponta Porã FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Ponta Porã FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Morena Ponta Porã FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Ponta Porã FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18234.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Morena Ponta Porã HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Ponta Porã HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Morena Ponta Porã HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Ponta Porã HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18235.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Morena Ponta Porã SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Ponta Porã SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Morena Ponta Porã SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Ponta Porã SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18236.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Araxá FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Araxá FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Araxá FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Araxá FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18237.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Araxá HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Araxá HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Araxá HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Araxá HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18238.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Araxá SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Araxá SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Araxá SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Araxá SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18239.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberaba FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberaba FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Uberaba FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberaba FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18240.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberaba HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberaba HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Uberaba HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberaba HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18241.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberaba SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberaba SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Uberaba SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberaba SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18242.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Juiz de Fora FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Juiz de Fora FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Juiz de Fora FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Juiz de Fora FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18243.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Juiz de Fora HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Juiz de Fora HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Juiz de Fora HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Juiz de Fora HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18244.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Integração Juiz de Fora SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Juiz de Fora SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Integração Juiz de Fora SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Juiz de Fora SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18245.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Pelotas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Pelotas FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Pelotas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Pelotas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18246.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Pelotas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Pelotas HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Pelotas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Pelotas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18247.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Pelotas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Pelotas SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Pelotas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Pelotas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18248.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Blumenau FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Blumenau FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Blumenau FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Blumenau FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18249.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Blumenau HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Blumenau HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Blumenau HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Blumenau HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18250.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Blumenau SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Blumenau SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Blumenau SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Blumenau SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18251.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Sul FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Sul FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Gazeta Sul FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Sul FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18252.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Sul HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Sul HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Gazeta Sul HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Sul HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18253.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Sul SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Sul SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Gazeta Sul SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Sul SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18254.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Palmas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Anhanguera Palmas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18255.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Palmas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Anhanguera Palmas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18256.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Palmas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="TV Anhanguera Palmas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18257.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Cruz FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Cruz FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Santa Cruz FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Cruz FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18258.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Cruz HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Cruz HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Santa Cruz HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Cruz HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18259.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Cruz SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Cruz SD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="RBS TV Santa Cruz SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Cruz SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18260.ts
 #EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19000.ts
