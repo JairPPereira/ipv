@@ -1231,7 +1231,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19001.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19068.ts
 #EXTINF:-1 tvg-id="Cazé tv 2 HD³" tvg-name="Cazé tv 2 HD³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcEW3aDL9cgg-lIhjByb9TyXD1ZutrcNyPyzoeMMjd2vTvt1c81HZdwz0LmJtbbgH-3VpeEkjYpsLHLPzwo7VZZNWjzg7LNQyTKVo0GBBNhoVREslCqKsYXy64tXD8ISaYwW8lh-9TWFs8i6TQFOGxP0O_yViHWu8U2h7Y55Q77DRhz4eQSGNYUWxVTQk/s1600/cazetv.jpg" group-title="CANAIS | ESPORTES PPV",Cazé tv 2 HD³
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19069.ts
-#EXTINF:-1 tvg-id="Rede TV³" tvg-name="Rede TV³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCiYEA2lxX23L2C87ImgSSDpK9maUywIthnTaqp1vzDBq3z7pavhXyau4x6pI-4zqV-UxlwfWtvh9AC3pGf4Ef_XCR_4kpApOZ2QlRQYlH4ns63pVs1sbmemcJcFa5ogHFB1lddJL0iBWWGJsAMQ6bZVux3q_Fb2h9zZdMjs6EiQm3Vx83L8qJV9gd6N4/s1600/tves.webp" group-title="CANAIS | ESPORTES PPV",Rede TV³
+#EXTINF:-1 tvg-id="REDE TV! HD" tvg-name="Rede TV³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCiYEA2lxX23L2C87ImgSSDpK9maUywIthnTaqp1vzDBq3z7pavhXyau4x6pI-4zqV-UxlwfWtvh9AC3pGf4Ef_XCR_4kpApOZ2QlRQYlH4ns63pVs1sbmemcJcFa5ogHFB1lddJL0iBWWGJsAMQ6bZVux3q_Fb2h9zZdMjs6EiQm3Vx83L8qJV9gd6N4/s1600/tves.webp" group-title="CANAIS | ESPORTES PPV",Rede TV³
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="Paramount+ 1" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="CANAIS | ESPORTES PPV",Paramount+ 1
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19071.ts
@@ -1687,7 +1687,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17045.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17046.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Senado" tvg-logo="https://www.fontedecanais.tv/logos/canais/tvsenado.png" group-title="Canais | Abertos",TV Senado
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17047.ts
-#EXTINF:-1 tvg-id="53" tvg-name="TV Gazeta" tvg-logo="http://www.fontedecanais.tv/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta
+#EXTINF:-1 tvg-id="GAZETA" tvg-name="TV Gazeta" tvg-logo="http://www.fontedecanais.tv/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17048.ts
 #EXTINF:-1 tvg-id="AGROMAIS" tvg-name="Agro+" tvg-logo="http://www.fontedecanais.tv/logos/canais/agromais.png" group-title="Canais | Abertos",Agro+
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17049.ts
