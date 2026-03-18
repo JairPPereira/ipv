@@ -189,6 +189,8 @@ https://acesso.ecast.site:3104/hybrid/play.m3u8
 https://video01.kshost.com.br/eberson6273/eberson6273/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 01
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/11000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01 ALT" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 01 ALT
+http://nymcsus.autos:80/live/010794/FXz1sY/238718.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 02
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/11001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB",BBB 03
