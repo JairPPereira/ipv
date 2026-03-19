@@ -1467,7 +1467,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13005.m3u8
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13006.m3u8
 #EXTINF:-1 tvg-id="CANAL BRASIL HD" tvg-name="Canal Brasil HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13007.m3u8
-#EXTINF:-1 tvg-id=""CANAL BRASIL HD" tvg-name="Canal Brasil HD ALT" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD ALT
+#EXTINF:-1 tvg-id="CANAL BRASIL HD" tvg-name="Canal Brasil HD ALT" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD ALT
 http://pernalonga.cc:80/live/454266/gU8vEr/71818.m3u8
 #EXTINF:-1 tvg-id="CANAL BRASIL HD" tvg-name="Canal Brasil SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13008.m3u8
