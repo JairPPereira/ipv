@@ -1339,9 +1339,9 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22013.m3u8
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22016.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 HD" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN 6 HD
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
-#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Canais | Variedades",A&E FHD
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Canais | Variedades",A&E FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12000.m3u8
-#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Canais | Variedades",A&E HD
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&amp;E" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Canais | Variedades",A&E HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12001.m3u8
 #EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Canais | Variedades",A&E SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12002.m3u8
