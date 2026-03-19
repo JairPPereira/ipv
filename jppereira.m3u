@@ -1467,7 +1467,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13005.m3u8
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13006.m3u8
 #EXTINF:-1 tvg-id="CANAL BRASIL HD" tvg-name="Canal Brasil HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13007.m3u8
-#EXTINF:-1 tvg-id="CANAL BRASIL HD ALT" tvg-name="Canal Brasil HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD ALT
+#EXTINF:-1 tvg-id=""CANAL BRASIL HD" tvg-name="Canal Brasil HD ALT" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD ALT
 http://pernalonga.cc:80/live/454266/gU8vEr/71818.m3u8
 #EXTINF:-1 tvg-id="CANAL BRASIL HD" tvg-name="Canal Brasil SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13008.m3u8
@@ -1573,11 +1573,11 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13055.m3u8
 http://2025easy.lat:80/live/Dbdjsk/leo334/61003.m3u8
 #EXTINF:-1 tvg-id="TCM BR" tvg-name="TCM SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13056.m3u8
-#EXTINF:-1 tvg-id="FILM &amp; ARTS" tvg-name="Film & Arts FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts FHD
+#EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="Film & Arts FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13057.m3u8
-#EXTINF:-1 tvg-id="FILM &amp; ARTS" tvg-name="Film & Arts HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts HD
+#EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="Film & Arts HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13058.m3u8
-#EXTINF:-1 tvg-id="FILM &amp; ARTS" tvg-name="Film & Arts SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts SD
+#EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="Film & Arts SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13059.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14000.m3u8
