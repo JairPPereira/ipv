@@ -1,48 +1,4 @@
 
-
-
-#EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo FHD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12015.ts
-#EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo HD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12016.ts
-#EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo SD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12017.ts
-#EXTINF:-1 tvg-id="87" tvg-name="E! FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/e.png" group-title="Canais | Variedades",E! FHD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12018.ts
-#EXTINF:-1 tvg-id="87" tvg-name="E! HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/e.png" group-title="Canais | Variedades",E! HD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12019.ts
-#EXTINF:-1 tvg-id="87" tvg-name="E! SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/e.png" group-title="Canais | Variedades",E! SD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12020.ts
-#EXTINF:-1 tvg-id="40" tvg-name="FishTV FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/fishtv.png" group-title="Canais | Variedades",FishTV FHD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12021.ts
-#EXTINF:-1 tvg-id="40" tvg-name="FishTV HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/fishtv.png" group-title="Canais | Variedades",FishTV HD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12022.ts
-#EXTINF:-1 tvg-id="40" tvg-name="FishTV SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/fishtv.png" group-title="Canais | Variedades",FishTV SD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12023.ts
-#EXTINF:-1 tvg-id="52" tvg-name="Food Network FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/foodnetwork.png" group-title="Canais | Variedades",Food Network FHD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12024.ts
-#EXTINF:-1 tvg-id="52" tvg-name="Food Network HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/foodnetwork.png" group-title="Canais | Variedades",Food Network HD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12025.ts
-#EXTINF:-1 tvg-id="52" tvg-name="Food Network SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/foodnetwork.png" group-title="Canais | Variedades",Food Network SD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12026.ts
-#EXTINF:-1 tvg-id="97" tvg-name="GNT FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/gnt.png" group-title="Canais | Variedades",GNT FHD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12027.ts
-#EXTINF:-1 tvg-id="97" tvg-name="GNT HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12028.ts
-#EXTINF:-1 tvg-id="97" tvg-name="GNT SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/gnt.png" group-title="Canais | Variedades",GNT SD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12029.ts
-#EXTINF:-1 tvg-id="88" tvg-name="Lifetime FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime FHD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12030.ts
-#EXTINF:-1 tvg-id="88" tvg-name="Lifetime HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime HD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12031.ts
-#EXTINF:-1 tvg-id="88" tvg-name="Lifetime SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime SD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12032.ts
-#EXTINF:-1 tvg-id="100" tvg-name="Modo Viagem FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/modoviagem.png" group-title="Canais | Variedades",Modo Viagem FHD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12033.ts
-#EXTINF:-1 tvg-id="100" tvg-name="Modo Viagem HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/modoviagem.png" group-title="Canais | Variedades",Modo Viagem HD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12034.ts
-#EXTINF:-1 tvg-id="100" tvg-name="Modo Viagem SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/modoviagem.png" group-title="Canais | Variedades",Modo Viagem SD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12035.ts
 #EXTINF:-1 tvg-id="64" tvg-name="Trace Brasil FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tracebrasil.png" group-title="Canais | Variedades",Trace Brasil FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12039.ts
 #EXTINF:-1 tvg-id="64" tvg-name="Trace Brasil HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tracebrasil.png" group-title="Canais | Variedades",Trace Brasil HD
