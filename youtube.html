@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>YouTube TV Lite</title>
+
+<style>
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    overflow: hidden;
+}
+
+#youtubeFrame {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+#status {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    color: white;
+    background: rgba(0,0,0,.7);
+    padding: 8px;
+    border-radius: 5px;
+    z-index: 9999;
+    font-family: Arial, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<div id="status">Android TV Ready</div>
+
+<iframe
+    id="youtubeFrame"
+    src="https://m.youtube.com/?persist_app=1&app=m"
+    allow="fullscreen; autoplay; encrypted-media"
+    allowfullscreen>
+</iframe>
+
+<script>
+
+const frame = document.getElementById("youtubeFrame");
+
+function enterFullscreen() {
+
+    const elem = document.documentElement;
+
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen();
+    }
+
+}
+
+document.addEventListener("keydown", function(e) {
+
+    switch(e.keyCode) {
+
+        // ENTER
+        case 13:
+            frame.focus();
+            break;
+
+        // PLAY/PAUSE (alguns controles)
+        case 179:
+            frame.focus();
+            break;
+
+        // F
+        case 70:
+            enterFullscreen();
+            break;
+
+    }
+
+});
+
+// Botão duplo clique
+document.addEventListener("dblclick", function() {
+    enterFullscreen();
+});
+
+// Tenta fullscreen automático
+window.onload = function() {
+
+    setTimeout(function() {
+
+        try {
+            enterFullscreen();
+        } catch(err) {}
+
+    }, 2000);
+
+};
+
+</script>
+
+</body>
+</html>
