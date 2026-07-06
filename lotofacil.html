@@ -1,67 +1,125 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+
 <meta charset="UTF-8">
-<title>Gerador Lotofácil</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+<title>Lotofácil</title>
 
 <style>
+
+*{
+    box-sizing:border-box;
+}
+
 body{
-    font-family:Arial, sans-serif;
+    margin:0;
+    padding:15px;
+    font-family:Arial,sans-serif;
     background:#f2f2f2;
     text-align:center;
-    margin:20px;
 }
 
 h2{
+    margin-top:5px;
     color:#6A1B9A;
+    font-size:7vw;
 }
 
 button{
-    padding:12px 18px;
-    margin:8px;
-    font-size:17px;
+    width:95%;
+    max-width:500px;
+    padding:15px;
+    margin:8px auto;
+    display:block;
     border:none;
-    border-radius:8px;
+    border-radius:10px;
     background:#6A1B9A;
-    color:white;
-    cursor:pointer;
-}
-
-button:hover{
-    background:#4A148C;
+    color:#FFF;
+    font-size:5vw;
+    font-weight:bold;
 }
 
 #cartela{
-    width:330px;
-    margin:25px auto;
+
+    width:100%;
+    max-width:520px;
+
+    margin:20px auto;
+
     display:grid;
-    grid-template-columns:repeat(5,60px);
-    gap:6px;
+
+    grid-template-columns:repeat(5,1fr);
+
+    gap:8px;
+
 }
 
 .numero{
-    width:55px;
-    height:55px;
-    line-height:55px;
+
+    aspect-ratio:1/1;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
     border:2px solid #999;
-    border-radius:10px;
+
+    border-radius:12px;
+
     background:white;
-    font-size:20px;
+
+    font-size:6vw;
+
     font-weight:bold;
+
+}
+
+@media(min-width:600px){
+
+.numero{
+font-size:30px;
+}
+
+button{
+font-size:22px;
+}
+
+h2{
+font-size:34px;
+}
+
 }
 
 .selecionado{
+
     background:#8E24AA;
+
     color:white;
+
     border-color:#4A148C;
+
 }
 
 #resultado{
+
     margin-top:20px;
-    font-size:20px;
+
+    font-size:5vw;
+
     font-weight:bold;
+
+    line-height:1.7;
+
+    word-wrap:break-word;
+
 }
+
 </style>
+
 </head>
 
 <body>
@@ -69,6 +127,7 @@ button:hover{
 <h2>Gerador Lotofácil</h2>
 
 <button onclick="gerar(7,8)">7 Pares + 8 Ímpares</button>
+
 <button onclick="gerar(8,7)">8 Pares + 7 Ímpares</button>
 
 <div id="cartela"></div>
@@ -86,7 +145,7 @@ let html="";
 
 for(let i=1;i<=25;i++){
 
-html+=`<div class="numero" id="n${i}">${String(i).padStart(2,'0')}</div>`;
+html+=`<div class="numero" id="n${i}">${String(i).padStart(2,"0")}</div>`;
 
 }
 
@@ -98,38 +157,39 @@ criarCartela();
 
 function embaralhar(lista){
 
-let copia=[...lista];
+let a=[...lista];
 
-for(let i=copia.length-1;i>0;i--){
+for(let i=a.length-1;i>0;i--){
 
 let j=Math.floor(Math.random()*(i+1));
 
-[copia[i],copia[j]]=[copia[j],copia[i]];
+[a[i],a[j]]=[a[j],a[i]];
 
 }
 
-return copia;
+return a;
 
 }
 
-function gerar(qtdPares,qtdImpares){
+function gerar(qP,qI){
 
-document.querySelectorAll(".numero").forEach(x=>x.classList.remove("selecionado"));
+document.querySelectorAll(".numero").forEach(e=>e.classList.remove("selecionado"));
 
 let jogo=[];
 
-jogo=jogo.concat(embaralhar(pares).slice(0,qtdPares));
+jogo=jogo.concat(embaralhar(pares).slice(0,qP));
 
-jogo=jogo.concat(embaralhar(impares).slice(0,qtdImpares));
+jogo=jogo.concat(embaralhar(impares).slice(0,qI));
 
 jogo.sort((a,b)=>a-b);
 
 jogo.forEach(n=>{
+
 document.getElementById("n"+n).classList.add("selecionado");
+
 });
 
-document.getElementById("resultado").innerHTML=
-"<b>Jogo:</b><br>"+jogo.map(x=>String(x).padStart(2,'0')).join(" - ");
+document.getElementById("resultado").innerHTML="<b>Jogo</b><br><br>"+jogo.map(x=>String(x).padStart(2,"0")).join(" - ");
 
 }
 
