@@ -39,8 +39,20 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV NBT" tvg-name="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="CANAIS | ESTADO DO PARÁ",TV NBT
 https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 18" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda 18",A Fazenda 18 Aquecimento
-http://imugosi.online/live/861970655/687908312/9114c351-91bc-4f58-a104-f23246de7fd2.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 18 Aquecimento" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda",A Fazenda 18 Aquecimento
+http://nicunu.online/live/861970655/687908312/9114c351-91bc-4f58-a104-f23246de7fd2.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda Camera 01" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda",A Fazenda Camera 01
+http://nicunu.online/live/861970655/687908312/fa01044d-1675-4af1-876d-c7c15e39de3a.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda Camera 02" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda",A Fazenda Camera 02
+http://nicunu.online/live/861970655/687908312/d256ca48-6e4b-4ac8-b406-b14bb73c3dca.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda Camera 03" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda",A Fazenda Camera 03
+http://nicunu.online/live/861970655/687908312/816cbc4d-45f2-440e-8c2a-a37305411ead.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda Camera 04" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda",A Fazenda Camera 04
+http://nicunu.online/live/861970655/687908312/e9a10212-aeb8-4cfe-9bfa-e812bd33c13a.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda Camera 05" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda",A Fazenda Camera 05
+http://nicunu.online/live/861970655/687908312/2f37cd6d-1799-4c00-8ac3-252a86333c33.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda Camera 06" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda",A Fazenda Camera 06
+http://nicunu.online/live/861970655/687908312/f9b59495-a0a3-46ba-8ec4-86b83ac58249.ts
 #EXTINF:-1 tvg-id="HALLO! Brasil" tvg-name="HALLO! Brasil" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqAyhXMv29dnAH1Tbdl7BPbFLmFOakWJIDRY2KqGSSAkU514xVU3jmHu2YbU7r8aJf9hXQ2ZwNJUA5bs5dqYx4Qb-j4hpQm97gIlgKHoWvNeMGn8tjQhi4QsEYKZoB3AehRLLzyUd2-jElE9X2Tcopc1wNHe3zJUNJwqFBu4SgZ4YeUj3kPhz1w99kaOQ/s1600/hallobrasil.png" group-title="CANAIS | FILMES E SERIES",HALLO! Brasil
 https://origin2.epgbr.com.br/live/HALLO_BRASIL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HALLO! Movies" tvg-name="HALLO! Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEherNQkntedV6D4nncPvhapwZV9Vm3F9bE77ZoE7eOl5Y1B6wCggfjBMMdsvuN_OGQD5HnYJOkkkaUHnKGA55AFKA19PpsWPqUK9BWAYKnYi7qM064o1dN8Qj3XA0vV-q9MfFN3Q00zyql3fH7KD4Ld7wDdaVkiLKx_jGq6lqlsyDKNxkWnQNPxY6tia_c/s1600/hallomovies.png" group-title="CANAIS | FILMES E SERIES",HALLO! Movies
