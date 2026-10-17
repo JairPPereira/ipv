@@ -3859,746 +3859,484 @@ http://imugosi.online/live/861970655/687908312/3a33b318-26f7-4c4f-a7c6-e37701f77
 http://imugosi.online/live/861970655/687908312/1eb3fa01-a789-49aa-b31b-d618b149a2dc.ts
 #EXTINF:-1 tvg-id="" tvg-name="FlamengoTV" tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="Canais PPV",FlamengoTV
 http://imugosi.online/live/861970655/687908312/2fe34965-7f99-486e-bb63-28bd1575423f.ts
-#EXTINF:-1 tvg-name="Sobrevivência" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62vtHEyzKhFRuEOLLiQfPi60mSs.jpg" group-title="Filmes | Novidades",Sobrevivência
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306392.mp4
+#EXTINF:-1 tvg-name="Gato de Botas 2: O Último Pedido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atJxZfCaQ7kXRFSfbm8cqAKkns7.jpg" group-title="Filmes | Novidades",Gato de Botas 2: O Último Pedido
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307783.mp4
+#EXTINF:-1 tvg-name="Gato de Botas 2: O Último Pedido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atJxZfCaQ7kXRFSfbm8cqAKkns7.jpg" group-title="Filmes | Animacao",Gato de Botas 2: O Último Pedido
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307783.mp4
+#EXTINF:-1 tvg-name="Maze Runner 3 A Cura Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2J51QUSWfoNKW5JcTY44Xuw4UeU.jpg" group-title="Filmes | Novidades",Maze Runner 3 A Cura Mortal
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307784.mp4
+#EXTINF:-1 tvg-name="Maze Runner 3 A Cura Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2J51QUSWfoNKW5JcTY44Xuw4UeU.jpg" group-title="Filmes | Ficcao e Fantasia",Maze Runner 3 A Cura Mortal
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307784.mp4
+#EXTINF:-1 tvg-name="A Milícia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rQ71qs5zgevc241I8riBGiWrwr.jpg" group-title="Filmes | Novidades",A Milícia
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307785.mp4
+#EXTINF:-1 tvg-name="A Milícia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rQ71qs5zgevc241I8riBGiWrwr.jpg" group-title="Filmes | Lancamentos",A Milícia
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307785.mp4
+#EXTINF:-1 tvg-name="Os Domingos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV4gHKJ7MobAuttdg7gztQ7znTd.jpg" group-title="Filmes | Novidades",Os Domingos
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307786.mp4
+#EXTINF:-1 tvg-name="Os Domingos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV4gHKJ7MobAuttdg7gztQ7znTd.jpg" group-title="Filmes | Drama",Os Domingos
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307786.mp4
+#EXTINF:-1 tvg-name="A Terapia Certa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qt2rU1B9lSQlrCnioYG7kk2sE1P.jpg" group-title="Filmes | Novidades",A Terapia Certa
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307787.mp4
+#EXTINF:-1 tvg-name="A Terapia Certa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qt2rU1B9lSQlrCnioYG7kk2sE1P.jpg" group-title="Filmes | Lancamentos",A Terapia Certa
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307787.mp4
+#EXTINF:-1 tvg-name="Solteiramente Juntas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg15Y9qSxMwXULRSO5vNLtTBNeK.jpg" group-title="Filmes | Novidades",Solteiramente Juntas
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307788.mp4
+#EXTINF:-1 tvg-name="Solteiramente Juntas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg15Y9qSxMwXULRSO5vNLtTBNeK.jpg" group-title="Filmes | Lancamentos",Solteiramente Juntas
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307788.mp4
+#EXTINF:-1 tvg-name="O Beijo da Mulher Aranha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AoOcnoRdBvr2GHyPiCMrZVzRVT.jpg" group-title="Filmes | Novidades",O Beijo da Mulher Aranha
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307789.mp4
+#EXTINF:-1 tvg-name="O Beijo da Mulher Aranha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AoOcnoRdBvr2GHyPiCMrZVzRVT.jpg" group-title="Filmes | Lancamentos",O Beijo da Mulher Aranha
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307789.mp4
+#EXTINF:-1 tvg-name="Tenzing" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg" group-title="Filmes | Novidades",Tenzing
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307790.mp4
+#EXTINF:-1 tvg-name="Tenzing" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg" group-title="Filmes | Lancamentos",Tenzing
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307790.mp4
+#EXTINF:-1 tvg-name="Masterplan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xmXVd7nCK3tAo34XkO58SxUCip.jpg" group-title="Filmes | Novidades",Masterplan
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307791.mp4
+#EXTINF:-1 tvg-name="Masterplan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xmXVd7nCK3tAo34XkO58SxUCip.jpg" group-title="Filmes | Lancamentos",Masterplan
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307791.mp4
+#EXTINF:-1 tvg-name="People Magazine: A Promessa da Cura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MXkp5etW8S7YBhFvTNavZiqTem.jpg" group-title="Filmes | Novidades",People Magazine: A Promessa da Cura
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307572.mp4
+#EXTINF:-1 tvg-name="People Magazine: A Promessa da Cura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MXkp5etW8S7YBhFvTNavZiqTem.jpg" group-title="Filmes | Lancamentos",People Magazine: A Promessa da Cura
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307572.mp4
+#EXTINF:-1 tvg-name="ONE PIECE HEROINES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbRXvcckbdKMhCea1JalPnSQQge.jpg" group-title="Filmes | Novidades",ONE PIECE HEROINES
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307573.mp4
+#EXTINF:-1 tvg-name="ONE PIECE HEROINES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbRXvcckbdKMhCea1JalPnSQQge.jpg" group-title="Filmes | Lancamentos",ONE PIECE HEROINES
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307573.mp4
+#EXTINF:-1 tvg-name="O Temporal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WtydpYLH5FbPsF6rB6nKf0ZSqx.jpg" group-title="Filmes | Novidades",O Temporal
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307489.mp4
+#EXTINF:-1 tvg-name="O Temporal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WtydpYLH5FbPsF6rB6nKf0ZSqx.jpg" group-title="Filmes | Lancamentos",O Temporal
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307489.mp4
+#EXTINF:-1 tvg-name="Perdida no Ártico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaKbGsLkF24AZZJxjBJ7Isd3ToK.jpg" group-title="Filmes | Novidades",Perdida no Ártico
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307490.mp4
+#EXTINF:-1 tvg-name="Perdida no Ártico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaKbGsLkF24AZZJxjBJ7Isd3ToK.jpg" group-title="Filmes | Lancamentos",Perdida no Ártico
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307490.mp4
+#EXTINF:-1 tvg-name="Fragmentada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQwwRB0WbaLYVxERuWP0QOJXD5q.jpg" group-title="Filmes | Novidades",Fragmentada
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307491.mp4
+#EXTINF:-1 tvg-name="Fragmentada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQwwRB0WbaLYVxERuWP0QOJXD5q.jpg" group-title="Filmes | Drama",Fragmentada
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307491.mp4
+#EXTINF:-1 tvg-name="O Diabo na Rua no Meio do Redemunho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iD1gkcjqbMq8E0O2JldS3v8QSkK.jpg" group-title="Filmes | Novidades",O Diabo na Rua no Meio do Redemunho
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307492.mp4
+#EXTINF:-1 tvg-name="O Diabo na Rua no Meio do Redemunho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iD1gkcjqbMq8E0O2JldS3v8QSkK.jpg" group-title="Filmes | Drama",O Diabo na Rua no Meio do Redemunho
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307492.mp4
+#EXTINF:-1 tvg-name="O Amor de Sua Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/noVjD52nAvgPK2XtVZSej1nFzin.jpg" group-title="Filmes | Novidades",O Amor de Sua Vida
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307374.mp4
+#EXTINF:-1 tvg-name="O Amor de Sua Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/noVjD52nAvgPK2XtVZSej1nFzin.jpg" group-title="Filmes | Lancamentos",O Amor de Sua Vida
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307374.mp4
+#EXTINF:-1 tvg-name="Velvet Lounge: Noites de Caça" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRufUkj6gttzpKpHVhdtey6FKSt.jpg" group-title="Filmes | Novidades",Velvet Lounge: Noites de Caça
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307375.mp4
+#EXTINF:-1 tvg-name="Velvet Lounge: Noites de Caça" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRufUkj6gttzpKpHVhdtey6FKSt.jpg" group-title="Filmes | Lancamentos",Velvet Lounge: Noites de Caça
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307375.mp4
+#EXTINF:-1 tvg-name="A Um Passo da Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjFYJ642S8O3mfG4Hxn5xGBL4kY.jpg" group-title="Filmes | Novidades",A Um Passo da Guerra
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307376.mp4
+#EXTINF:-1 tvg-name="A Um Passo da Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjFYJ642S8O3mfG4Hxn5xGBL4kY.jpg" group-title="Filmes | Lancamentos",A Um Passo da Guerra
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307376.mp4
+#EXTINF:-1 tvg-name="Da Magia à Sedução: Feitiço de Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg" group-title="Filmes | Novidades",Da Magia à Sedução: Feitiço de Amor
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307024.mp4
+#EXTINF:-1 tvg-name="Da Magia à Sedução: Feitiço de Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg" group-title="Filmes | Lancamentos",Da Magia à Sedução: Feitiço de Amor
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307024.mp4
+#EXTINF:-1 tvg-name="Território do Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD2JIK2NdZaFnyYRMn2EuFR5KPu.jpg" group-title="Filmes | Novidades",Território do Crime
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307025.mp4
+#EXTINF:-1 tvg-name="Território do Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD2JIK2NdZaFnyYRMn2EuFR5KPu.jpg" group-title="Filmes | Lancamentos",Território do Crime
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307025.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Tadeo e a Lâmpada Mágica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TYvITZ5spd4Z0LE74XrKAsInb6.jpg" group-title="Filmes | Novidades",As Aventuras de Tadeo e a Lâmpada Mágica
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307026.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Tadeo e a Lâmpada Mágica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TYvITZ5spd4Z0LE74XrKAsInb6.jpg" group-title="Filmes | Lancamentos",As Aventuras de Tadeo e a Lâmpada Mágica
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307026.mp4
+#EXTINF:-1 tvg-name="Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jT3NbEB4gZAct1FmLNVKyuj1DcW.jpg" group-title="Filmes | Novidades",Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307027.mp4
+#EXTINF:-1 tvg-name="Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jT3NbEB4gZAct1FmLNVKyuj1DcW.jpg" group-title="Filmes | Animacao",Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307027.mp4
+#EXTINF:-1 tvg-name="Instadocs: IA Rebelde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SiWmbjNLD2H0Xt9Cdjisrdku27.jpg" group-title="Filmes | Novidades",Instadocs: IA Rebelde
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307028.mp4
+#EXTINF:-1 tvg-name="Instadocs: IA Rebelde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SiWmbjNLD2H0Xt9Cdjisrdku27.jpg" group-title="Filmes | Lancamentos",Instadocs: IA Rebelde
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307028.mp4
+#EXTINF:-1 tvg-name="Carlos Lacerda - A Voz que Abalou o Brasil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dRbWAcoeGWLAmL5reK9cGHpP14.jpg" group-title="Filmes | Novidades",Carlos Lacerda - A Voz que Abalou o Brasil
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307029.mp4
+#EXTINF:-1 tvg-name="Carlos Lacerda - A Voz que Abalou o Brasil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dRbWAcoeGWLAmL5reK9cGHpP14.jpg" group-title="Filmes | Lancamentos",Carlos Lacerda - A Voz que Abalou o Brasil
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307029.mp4
+#EXTINF:-1 tvg-name="Fim de Festa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XSH44fblcyV1SpdRJb6PCcE8jN.jpg" group-title="Filmes | Novidades",Fim de Festa
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307030.mp4
+#EXTINF:-1 tvg-name="Fim de Festa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XSH44fblcyV1SpdRJb6PCcE8jN.jpg" group-title="Filmes | Drama",Fim de Festa
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307030.mp4
+#EXTINF:-1 tvg-name="Código: Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVZgjKIsXZOT3cNZm5PJZBtQRaG.jpg" group-title="Filmes | Novidades",Código: Vingança
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307031.mp4
+#EXTINF:-1 tvg-name="Código: Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVZgjKIsXZOT3cNZm5PJZBtQRaG.jpg" group-title="Filmes | Lancamentos",Código: Vingança
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307031.mp4
+#EXTINF:-1 tvg-name="Raio-X Lula 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdfBGRBphX73nvY7xiWO24nUYou.jpg" group-title="Filmes | Novidades",Raio-X Lula 3
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307032.mp4
+#EXTINF:-1 tvg-name="Raio-X Lula 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdfBGRBphX73nvY7xiWO24nUYou.jpg" group-title="Filmes | Lancamentos",Raio-X Lula 3
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307032.mp4
 #EXTINF:-1 tvg-name="Sobrevivência" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62vtHEyzKhFRuEOLLiQfPi60mSs.jpg" group-title="Filmes | Lancamentos",Sobrevivência
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306392.mp4
-#EXTINF:-1 tvg-name="O Pai da Rainha de Angola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3P3K3FHuZEIJspXGmo9DEPnsXYI.jpg" group-title="Filmes | Novidades",O Pai da Rainha de Angola
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306393.mp4
 #EXTINF:-1 tvg-name="O Pai da Rainha de Angola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3P3K3FHuZEIJspXGmo9DEPnsXYI.jpg" group-title="Filmes | Drama",O Pai da Rainha de Angola
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306393.mp4
-#EXTINF:-1 tvg-name="Terra à Deriva 2: Destino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOfM6jkPjLFKNyGsGLAAuiWAa8e.jpg" group-title="Filmes | Novidades",Terra à Deriva 2: Destino
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306394.mp4
 #EXTINF:-1 tvg-name="Terra à Deriva 2: Destino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOfM6jkPjLFKNyGsGLAAuiWAa8e.jpg" group-title="Filmes | Ficcao e Fantasia",Terra à Deriva 2: Destino
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306394.mp4
-#EXTINF:-1 tvg-name="Lo único que te Pido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iXp0vlK5f8br4NTTgptLojPVz6.jpg" group-title="Filmes | Novidades",Lo único que te Pido
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306395.mp4
 #EXTINF:-1 tvg-name="Lo único que te Pido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iXp0vlK5f8br4NTTgptLojPVz6.jpg" group-title="Filmes | Lancamentos",Lo único que te Pido
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306395.mp4
-#EXTINF:-1 tvg-name="De Repente Adolescente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7fcIDSLdxyudf8BznjIrQqVawl.jpg" group-title="Filmes | Novidades",De Repente Adolescente
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306396.mp4
 #EXTINF:-1 tvg-name="De Repente Adolescente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7fcIDSLdxyudf8BznjIrQqVawl.jpg" group-title="Filmes | Lancamentos",De Repente Adolescente
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306396.mp4
-#EXTINF:-1 tvg-name="Notícias em Perigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg" group-title="Filmes | Novidades",Notícias em Perigo
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306397.mp4
 #EXTINF:-1 tvg-name="Notícias em Perigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg" group-title="Filmes | Lancamentos",Notícias em Perigo
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306397.mp4
-#EXTINF:-1 tvg-name="Cosmion: A Guerra do Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KfizVHHqo0QfjNNS5f8qUsQeqi.jpg" group-title="Filmes | Novidades",Cosmion: A Guerra do Tempo
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306398.mp4
 #EXTINF:-1 tvg-name="Cosmion: A Guerra do Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KfizVHHqo0QfjNNS5f8qUsQeqi.jpg" group-title="Filmes | Ficcao e Fantasia",Cosmion: A Guerra do Tempo
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306398.mp4
-#EXTINF:-1 tvg-name="Matchbox - O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg" group-title="Filmes | Novidades",Matchbox - O Filme
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306399.mp4
 #EXTINF:-1 tvg-name="Matchbox - O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg" group-title="Filmes | Lancamentos",Matchbox - O Filme
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306399.mp4
-#EXTINF:-1 tvg-name="A Indústria do Vício" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jytXj7LMo5JHZqhDeUy1o0xrJKr.jpg" group-title="Filmes | Novidades",A Indústria do Vício
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306400.mp4
 #EXTINF:-1 tvg-name="A Indústria do Vício" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jytXj7LMo5JHZqhDeUy1o0xrJKr.jpg" group-title="Filmes | Drama",A Indústria do Vício
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306400.mp4
-#EXTINF:-1 tvg-name="Você Só Precisa Matar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8oj9m4bsFh275akCoE2NQ5Cbdf.jpg" group-title="Filmes | Novidades",Você Só Precisa Matar
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306401.mp4
 #EXTINF:-1 tvg-name="Você Só Precisa Matar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8oj9m4bsFh275akCoE2NQ5Cbdf.jpg" group-title="Filmes | Lancamentos",Você Só Precisa Matar
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306401.mp4
-#EXTINF:-1 tvg-name="Grenal: O Maior Clássico das Américas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7QEpxg7PxLx7tLI65wxw81MFTT.jpg" group-title="Filmes | Novidades",Grenal: O Maior Clássico das Américas
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306402.mp4
 #EXTINF:-1 tvg-name="Grenal: O Maior Clássico das Américas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7QEpxg7PxLx7tLI65wxw81MFTT.jpg" group-title="Filmes | Lancamentos",Grenal: O Maior Clássico das Américas
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306402.mp4
-#EXTINF:-1 tvg-name="Sobrevivência" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62vtHEyzKhFRuEOLLiQfPi60mSs.jpg" group-title="Filmes | Novidades",Sobrevivência
+#EXTINF:-1 tvg-name="Sobrevivência" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62vtHEyzKhFRuEOLLiQfPi60mSs.jpg" group-title="Filmes | Lancamentos",Sobrevivência
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306403.mp4
-#EXTINF:-1 tvg-name="Sobrevivência" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62vtHEyzKhFRuEOLLiQfPi60mSs.jpg" group-title="Filmes | Comedia",Sobrevivência
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306403.mp4
-#EXTINF:-1 tvg-name="Coração Partido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ec5lmreCEd7yK2OzGMBgSROJhW.jpg" group-title="Filmes | Novidades",Coração Partido
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306253.mp4
 #EXTINF:-1 tvg-name="Coração Partido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ec5lmreCEd7yK2OzGMBgSROJhW.jpg" group-title="Filmes | Lancamentos",Coração Partido
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306253.mp4
-#EXTINF:-1 tvg-name="Operação Panda: A Tribo Mágica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9J2vW7mVwObkY4oMSQcIc3g6hz.jpg" group-title="Filmes | Novidades",Operação Panda: A Tribo Mágica
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306254.mp4
 #EXTINF:-1 tvg-name="Operação Panda: A Tribo Mágica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9J2vW7mVwObkY4oMSQcIc3g6hz.jpg" group-title="Filmes | Lancamentos",Operação Panda: A Tribo Mágica
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306254.mp4
-#EXTINF:-1 tvg-name="O Golpista Russo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1htTohutnLXKUU30ylv6Hi8jcuT.jpg" group-title="Filmes | Novidades",O Golpista Russo
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306255.mp4
 #EXTINF:-1 tvg-name="O Golpista Russo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1htTohutnLXKUU30ylv6Hi8jcuT.jpg" group-title="Filmes | Lancamentos",O Golpista Russo
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306255.mp4
-#EXTINF:-1 tvg-name="Amigas Sem Filtro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjYD7jrrkyrPo3ITTQFMjLH2OOI.jpg" group-title="Filmes | Novidades",Amigas Sem Filtro
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306256.mp4
 #EXTINF:-1 tvg-name="Amigas Sem Filtro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjYD7jrrkyrPo3ITTQFMjLH2OOI.jpg" group-title="Filmes | Lancamentos",Amigas Sem Filtro
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306256.mp4
-#EXTINF:-1 tvg-name="Escalada de Violência" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6BKVACegc07mbBWoo6MKNC17Mf.jpg" group-title="Filmes | Novidades",Escalada de Violência
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306257.mp4
 #EXTINF:-1 tvg-name="Escalada de Violência" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6BKVACegc07mbBWoo6MKNC17Mf.jpg" group-title="Filmes | Terror",Escalada de Violência
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306257.mp4
-#EXTINF:-1 tvg-name="A Magnifica Vida De Marcel Pagnol" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfZwUzNL7VR0rFdedROFzbkASgN.jpg" group-title="Filmes | Novidades",A Magnifica Vida De Marcel Pagnol
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306258.mp4
 #EXTINF:-1 tvg-name="A Magnifica Vida De Marcel Pagnol" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfZwUzNL7VR0rFdedROFzbkASgN.jpg" group-title="Filmes | Animacao",A Magnifica Vida De Marcel Pagnol
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306258.mp4
-#EXTINF:-1 tvg-name="Licença para Enlouquecer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZm10714HjUUbpkCzAclxg9zY0m.jpg" group-title="Filmes | Novidades",Licença para Enlouquecer
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306224.mp4
 #EXTINF:-1 tvg-name="Licença para Enlouquecer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZm10714HjUUbpkCzAclxg9zY0m.jpg" group-title="Filmes | Comedia",Licença para Enlouquecer
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306224.mp4
-#EXTINF:-1 tvg-name="Lampo: O Cão Viajante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsVelaWRcxb1mM5uAqAz1DeVoev.jpg" group-title="Filmes | Novidades",Lampo: O Cão Viajante
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306225.mp4
 #EXTINF:-1 tvg-name="Lampo: O Cão Viajante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsVelaWRcxb1mM5uAqAz1DeVoev.jpg" group-title="Filmes | Drama",Lampo: O Cão Viajante
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306225.mp4
-#EXTINF:-1 tvg-name="Hammarskjöld: Luta pela Paz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mESJd1Uxi9oGMM918FLX8r34oad.jpg" group-title="Filmes | Novidades",Hammarskjöld: Luta pela Paz
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306226.mp4
 #EXTINF:-1 tvg-name="Hammarskjöld: Luta pela Paz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mESJd1Uxi9oGMM918FLX8r34oad.jpg" group-title="Filmes | Drama",Hammarskjöld: Luta pela Paz
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306226.mp4
-#EXTINF:-1 tvg-name="As Correntes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAj4i60OwX8c1PIdRbci3udOAN.jpg" group-title="Filmes | Novidades",As Correntes
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306227.mp4
 #EXTINF:-1 tvg-name="As Correntes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAj4i60OwX8c1PIdRbci3udOAN.jpg" group-title="Filmes | Drama",As Correntes
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306227.mp4
-#EXTINF:-1 tvg-name="Less of a Stranger" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRMpDyyJxDtJdwtCNd3AO4HWCrd.jpg" group-title="Filmes | Novidades",Less of a Stranger
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306228.mp4
 #EXTINF:-1 tvg-name="Less of a Stranger" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRMpDyyJxDtJdwtCNd3AO4HWCrd.jpg" group-title="Filmes | Lancamentos",Less of a Stranger
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306228.mp4
-#EXTINF:-1 tvg-name="Fabulosos João e Maria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jrUTMpGk8k2i7djywahU3mtQZp.jpg" group-title="Filmes | Novidades",Fabulosos João e Maria
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306229.mp4
 #EXTINF:-1 tvg-name="Fabulosos João e Maria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jrUTMpGk8k2i7djywahU3mtQZp.jpg" group-title="Filmes | Animacao",Fabulosos João e Maria
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306229.mp4
-#EXTINF:-1 tvg-name="Em Nome do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3ZJo7pcPDFb3qwHP4TBJPPw5KY.jpg" group-title="Filmes | Novidades",Em Nome do Mal
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306230.mp4
 #EXTINF:-1 tvg-name="Em Nome do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3ZJo7pcPDFb3qwHP4TBJPPw5KY.jpg" group-title="Filmes | Drama",Em Nome do Mal
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306230.mp4
-#EXTINF:-1 tvg-name="Lispectorante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sc9oZsNepk2woXMfJs97tH6M7W.jpg" group-title="Filmes | Novidades",Lispectorante
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306231.mp4
 #EXTINF:-1 tvg-name="Lispectorante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sc9oZsNepk2woXMfJs97tH6M7W.jpg" group-title="Filmes | Drama",Lispectorante
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306231.mp4
-#EXTINF:-1 tvg-name="É Tempo de Amoras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdvdmqmluqZjos4G3UqQ7PospzA.jpg" group-title="Filmes | Novidades",É Tempo de Amoras
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306232.mp4
 #EXTINF:-1 tvg-name="É Tempo de Amoras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdvdmqmluqZjos4G3UqQ7PospzA.jpg" group-title="Filmes | Lancamentos",É Tempo de Amoras
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306232.mp4
-#EXTINF:-1 tvg-name="O Bebê Maldito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLcst3alQSCQfEN6IPf0pZZdW8t.jpg" group-title="Filmes | Novidades",O Bebê Maldito
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306233.mp4
 #EXTINF:-1 tvg-name="O Bebê Maldito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLcst3alQSCQfEN6IPf0pZZdW8t.jpg" group-title="Filmes | Terror",O Bebê Maldito
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306233.mp4
-#EXTINF:-1 tvg-name="Ainda Não é Amanhã" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQkWhubozrPHU4kpgXsKgfAVBi.jpg" group-title="Filmes | Novidades",Ainda Não é Amanhã
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306234.mp4
 #EXTINF:-1 tvg-name="Ainda Não é Amanhã" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQkWhubozrPHU4kpgXsKgfAVBi.jpg" group-title="Filmes | Terror",Ainda Não é Amanhã
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306234.mp4
-#EXTINF:-1 tvg-name="Quem Tem com Que Me Pague, Não Me Deve Nada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1weQr5FPbzPABJMl69aFaq3kZLG.jpg" group-title="Filmes | Novidades",Quem Tem com Que Me Pague, Não Me Deve Nada
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306235.mp4
 #EXTINF:-1 tvg-name="Quem Tem com Que Me Pague, Não Me Deve Nada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1weQr5FPbzPABJMl69aFaq3kZLG.jpg" group-title="Filmes | Lancamentos",Quem Tem com Que Me Pague, Não Me Deve Nada
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306235.mp4
-#EXTINF:-1 tvg-name="Ataques Psicotrônicos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0L7U5dDHE3N1yGihvzZlwON9Bv.jpg" group-title="Filmes | Novidades",Ataques Psicotrônicos
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306236.mp4
 #EXTINF:-1 tvg-name="Ataques Psicotrônicos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0L7U5dDHE3N1yGihvzZlwON9Bv.jpg" group-title="Filmes | Ficcao e Fantasia",Ataques Psicotrônicos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306236.mp4
-#EXTINF:-1 tvg-name="Alternativos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saWtbgjfUPvYYYSGJWnI5JmI6up.jpg" group-title="Filmes | Novidades",Alternativos
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306237.mp4
 #EXTINF:-1 tvg-name="Alternativos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saWtbgjfUPvYYYSGJWnI5JmI6up.jpg" group-title="Filmes | Documentarios",Alternativos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306237.mp4
-#EXTINF:-1 tvg-name="1798 - Revolta dos Búzios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slz0qmRgs1HfaNKGIgmoeRAcA4.jpg" group-title="Filmes | Novidades",1798 - Revolta dos Búzios
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306238.mp4
 #EXTINF:-1 tvg-name="1798 - Revolta dos Búzios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slz0qmRgs1HfaNKGIgmoeRAcA4.jpg" group-title="Filmes | Documentarios",1798 - Revolta dos Búzios
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306238.mp4
-#EXTINF:-1 tvg-name="Trago Notícias de Fernando" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eesKzgvpR5mM7j6wzcTFlj50zbC.jpg" group-title="Filmes | Novidades",Trago Notícias de Fernando
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306239.mp4
 #EXTINF:-1 tvg-name="Trago Notícias de Fernando" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eesKzgvpR5mM7j6wzcTFlj50zbC.jpg" group-title="Filmes | Documentarios",Trago Notícias de Fernando
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306239.mp4
-#EXTINF:-1 tvg-name="Ainda escuto o céu embaixo d'água" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUSBGnRLdPRsn3xmcTeisnZi4WF.jpg" group-title="Filmes | Novidades",Ainda escuto o céu embaixo d'água
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306240.mp4
 #EXTINF:-1 tvg-name="Ainda escuto o céu embaixo d'água" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUSBGnRLdPRsn3xmcTeisnZi4WF.jpg" group-title="Filmes | Documentarios",Ainda escuto o céu embaixo d'água
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306240.mp4
-#EXTINF:-1 tvg-name="No Silêncio da Floresta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCIc5B53Af9w0JP9FDqMJZtxkaL.jpg" group-title="Filmes | Novidades",No Silêncio da Floresta
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306241.mp4
 #EXTINF:-1 tvg-name="No Silêncio da Floresta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCIc5B53Af9w0JP9FDqMJZtxkaL.jpg" group-title="Filmes | Terror",No Silêncio da Floresta
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306241.mp4
-#EXTINF:-1 tvg-name="Perto do Sol é Mais Claro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rziHxZaSXC4cqQrTsVwL5w9OEAL.jpg" group-title="Filmes | Novidades",Perto do Sol é Mais Claro
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306242.mp4
 #EXTINF:-1 tvg-name="Perto do Sol é Mais Claro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rziHxZaSXC4cqQrTsVwL5w9OEAL.jpg" group-title="Filmes | Lancamentos",Perto do Sol é Mais Claro
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306242.mp4
-#EXTINF:-1 tvg-name="Mamãe Querida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIRPwjKqJy0cQkT0ur4cOHtBwzi.jpg" group-title="Filmes | Novidades",Mamãe Querida
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306243.mp4
 #EXTINF:-1 tvg-name="Mamãe Querida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIRPwjKqJy0cQkT0ur4cOHtBwzi.jpg" group-title="Filmes | Drama",Mamãe Querida
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306243.mp4
-#EXTINF:-1 tvg-name="Concebido em Mentira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qK21d7a2cWWEPqbi88hv2ObgJcE.jpg" group-title="Filmes | Novidades",Concebido em Mentira
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306084.mp4
 #EXTINF:-1 tvg-name="Concebido em Mentira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qK21d7a2cWWEPqbi88hv2ObgJcE.jpg" group-title="Filmes | Drama",Concebido em Mentira
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306084.mp4
-#EXTINF:-1 tvg-name="Mononoke - O Filme: Capítulo 3 - A Maldição da Serpente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OYkUub7EAJp34nCmybBneCT1NC.jpg" group-title="Filmes | Novidades",Mononoke - O Filme: Capítulo 3 - A Maldição da Serpente
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306085.mp4
 #EXTINF:-1 tvg-name="Mononoke - O Filme: Capítulo 3 - A Maldição da Serpente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OYkUub7EAJp34nCmybBneCT1NC.jpg" group-title="Filmes | Lancamentos",Mononoke - O Filme: Capítulo 3 - A Maldição da Serpente
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306085.mp4
-#EXTINF:-1 tvg-name="After House - O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDqOfVfKa0CEfq8abzACeRwLcBL.jpg" group-title="Filmes | Novidades",After House - O Filme
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306086.mp4
 #EXTINF:-1 tvg-name="After House - O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDqOfVfKa0CEfq8abzACeRwLcBL.jpg" group-title="Filmes | Drama",After House - O Filme
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306086.mp4
-#EXTINF:-1 tvg-name="Aprendendo a Amar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZaG0CiHeyHc5lRIAD3jeDHcyEg.jpg" group-title="Filmes | Novidades",Aprendendo a Amar
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306087.mp4
 #EXTINF:-1 tvg-name="Aprendendo a Amar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZaG0CiHeyHc5lRIAD3jeDHcyEg.jpg" group-title="Filmes | Romance",Aprendendo a Amar
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306087.mp4
-#EXTINF:-1 tvg-name="Hashtag Pedido de Casamento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fEav6LMHVCkQSmcONPTFzI4g1d.jpg" group-title="Filmes | Novidades",Hashtag Pedido de Casamento
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306088.mp4
 #EXTINF:-1 tvg-name="Hashtag Pedido de Casamento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fEav6LMHVCkQSmcONPTFzI4g1d.jpg" group-title="Filmes | Comedia",Hashtag Pedido de Casamento
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306088.mp4
-#EXTINF:-1 tvg-name="Kamen Rider Zero-One: Real×Time" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3CfiZFnzMN6CEw0M5GWQW47Y0x.jpg" group-title="Filmes | Novidades",Kamen Rider Zero-One: Real×Time
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306089.mp4
 #EXTINF:-1 tvg-name="Kamen Rider Zero-One: Real×Time" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3CfiZFnzMN6CEw0M5GWQW47Y0x.jpg" group-title="Filmes | Acao",Kamen Rider Zero-One: Real×Time
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306089.mp4
-#EXTINF:-1 tvg-name="Homem-Aranha: Um Novo Dia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg" group-title="Filmes | Novidades",Homem-Aranha: Um Novo Dia
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306079.mp4
 #EXTINF:-1 tvg-name="Homem-Aranha: Um Novo Dia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg" group-title="Filmes | Lancamentos",Homem-Aranha: Um Novo Dia
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306079.mp4
-#EXTINF:-1 tvg-name="Sobrenatural: Agora Entre Nós" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IEzyoBOCbKIvJ9DMwHgceJkNsP.jpg" group-title="Filmes | Novidades",Sobrenatural: Agora Entre Nós
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306080.mp4
 #EXTINF:-1 tvg-name="Sobrenatural: Agora Entre Nós" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IEzyoBOCbKIvJ9DMwHgceJkNsP.jpg" group-title="Filmes | Lancamentos",Sobrenatural: Agora Entre Nós
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306080.mp4
-#EXTINF:-1 tvg-name="DSI: Departamento Secreto de Intervenção" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mev1rnC2Cb3MD0oevXGnSjd1LP.jpg" group-title="Filmes | Novidades",DSI: Departamento Secreto de Intervenção
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306081.mp4
 #EXTINF:-1 tvg-name="DSI: Departamento Secreto de Intervenção" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mev1rnC2Cb3MD0oevXGnSjd1LP.jpg" group-title="Filmes | Lancamentos",DSI: Departamento Secreto de Intervenção
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306081.mp4
-#EXTINF:-1 tvg-name="O Crime Não Descansa: A Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLZ764QvaA2yRNcD3cgE23oNtYx.jpg" group-title="Filmes | Novidades",O Crime Não Descansa: A Vingança
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306082.mp4
 #EXTINF:-1 tvg-name="O Crime Não Descansa: A Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLZ764QvaA2yRNcD3cgE23oNtYx.jpg" group-title="Filmes | Crime",O Crime Não Descansa: A Vingança
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306082.mp4
-#EXTINF:-1 tvg-name="Pressão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlio7zxQ3Z3QhXHGHVAQZCjLNG0.jpg" group-title="Filmes | Novidades",Pressão
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306083.mp4
 #EXTINF:-1 tvg-name="Pressão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlio7zxQ3Z3QhXHGHVAQZCjLNG0.jpg" group-title="Filmes | Lancamentos",Pressão
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306083.mp4
-#EXTINF:-1 tvg-name="Cartas de Redenção" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg" group-title="Filmes | Novidades",Cartas de Redenção
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305945.mp4
 #EXTINF:-1 tvg-name="Cartas de Redenção" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg" group-title="Filmes | Lancamentos",Cartas de Redenção
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305945.mp4
-#EXTINF:-1 tvg-name="Schumacher 94: Nasce Uma Lenda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAhjUysLbHyzOPbvtczuvYCbA7O.jpg" group-title="Filmes | Novidades",Schumacher 94: Nasce Uma Lenda
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305946.mp4
 #EXTINF:-1 tvg-name="Schumacher 94: Nasce Uma Lenda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAhjUysLbHyzOPbvtczuvYCbA7O.jpg" group-title="Filmes | Lancamentos",Schumacher 94: Nasce Uma Lenda
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305946.mp4
-#EXTINF:-1 tvg-name="O Bolo do Presidente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwxoDB6zD11cSeWdE5pEXpDfyoV.jpg" group-title="Filmes | Novidades",O Bolo do Presidente
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305947.mp4
 #EXTINF:-1 tvg-name="O Bolo do Presidente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwxoDB6zD11cSeWdE5pEXpDfyoV.jpg" group-title="Filmes | Lancamentos",O Bolo do Presidente
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305947.mp4
-#EXTINF:-1 tvg-name="Velha Louca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGoHAtxw8ICaQq82Ef0o1KHKxcr.jpg" group-title="Filmes | Novidades",Velha Louca
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305948.mp4
 #EXTINF:-1 tvg-name="Velha Louca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGoHAtxw8ICaQq82Ef0o1KHKxcr.jpg" group-title="Filmes | Terror",Velha Louca
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305948.mp4
-#EXTINF:-1 tvg-name="Hora do Recreio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfch3jiDphN2G53px3ICGZogtXb.jpg" group-title="Filmes | Novidades",Hora do Recreio
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305949.mp4
 #EXTINF:-1 tvg-name="Hora do Recreio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfch3jiDphN2G53px3ICGZogtXb.jpg" group-title="Filmes | Lancamentos",Hora do Recreio
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305949.mp4
-#EXTINF:-1 tvg-name="Soulm8te" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNErActDctl6cdUGw9pnjSCmyhQ.jpg" group-title="Filmes | Novidades",Soulm8te
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305950.mp4
 #EXTINF:-1 tvg-name="Soulm8te" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNErActDctl6cdUGw9pnjSCmyhQ.jpg" group-title="Filmes | Lancamentos",Soulm8te
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305950.mp4
-#EXTINF:-1 tvg-name="Refém Por Um Fio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ln9Uf8cfbRImDn6K8xguCbNiQQe.jpg" group-title="Filmes | Novidades",Refém Por Um Fio
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305951.mp4
 #EXTINF:-1 tvg-name="Refém Por Um Fio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ln9Uf8cfbRImDn6K8xguCbNiQQe.jpg" group-title="Filmes | Lancamentos",Refém Por Um Fio
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305951.mp4
-#EXTINF:-1 tvg-name="Ricos Sem Dinheiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5n4Po7mgGQKxGQav9tO4A390A6O.jpg" group-title="Filmes | Novidades",Ricos Sem Dinheiro
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305952.mp4
 #EXTINF:-1 tvg-name="Ricos Sem Dinheiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5n4Po7mgGQKxGQav9tO4A390A6O.jpg" group-title="Filmes | Lancamentos",Ricos Sem Dinheiro
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305952.mp4
-#EXTINF:-1 tvg-name="A Colecionadora: Mundos Paralelos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzmuP4YlFuFc7jhTYIhEXnFXU2C.jpg" group-title="Filmes | Novidades",A Colecionadora: Mundos Paralelos
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305953.mp4
 #EXTINF:-1 tvg-name="A Colecionadora: Mundos Paralelos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzmuP4YlFuFc7jhTYIhEXnFXU2C.jpg" group-title="Filmes | Terror",A Colecionadora: Mundos Paralelos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305953.mp4
-#EXTINF:-1 tvg-name="Sete Atiradores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4lRmVcqLch4cqMfSDuBolpl3l9.jpg" group-title="Filmes | Novidades",Sete Atiradores
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305954.mp4
 #EXTINF:-1 tvg-name="Sete Atiradores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4lRmVcqLch4cqMfSDuBolpl3l9.jpg" group-title="Filmes | Lancamentos",Sete Atiradores
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305954.mp4
-#EXTINF:-1 tvg-name="Ninja Wars: BlackFox vs Shogun's Ninja" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lkVoZZiZ6LIKCEeCojblCf8eYP.jpg" group-title="Filmes | Novidades",Ninja Wars: BlackFox vs Shogun's Ninja
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305955.mp4
 #EXTINF:-1 tvg-name="Ninja Wars: BlackFox vs Shogun's Ninja" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lkVoZZiZ6LIKCEeCojblCf8eYP.jpg" group-title="Filmes | Lancamentos",Ninja Wars: BlackFox vs Shogun's Ninja
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305955.mp4
-#EXTINF:-1 tvg-name="O Amor Mata" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2mZwTtQ2KhrxIfocBFeAnqk1sE.jpg" group-title="Filmes | Novidades",O Amor Mata
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305956.mp4
 #EXTINF:-1 tvg-name="O Amor Mata" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2mZwTtQ2KhrxIfocBFeAnqk1sE.jpg" group-title="Filmes | Lancamentos",O Amor Mata
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305956.mp4
-#EXTINF:-1 tvg-name="O Viúvo: Até Que a Morte nos Separe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaqcTQ5X2HGmB3z7BdyJWqi5jnD.jpg" group-title="Filmes | Novidades",O Viúvo: Até Que a Morte nos Separe
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305695.mp4
 #EXTINF:-1 tvg-name="O Viúvo: Até Que a Morte nos Separe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaqcTQ5X2HGmB3z7BdyJWqi5jnD.jpg" group-title="Filmes | Lancamentos",O Viúvo: Até Que a Morte nos Separe
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305695.mp4
-#EXTINF:-1 tvg-name="Live dos Infernos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bK88wukSx3FAhYEjH2p8RRkyH9.jpg" group-title="Filmes | Novidades",Live dos Infernos
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305696.mp4
 #EXTINF:-1 tvg-name="Live dos Infernos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bK88wukSx3FAhYEjH2p8RRkyH9.jpg" group-title="Filmes | Lancamentos",Live dos Infernos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305696.mp4
-#EXTINF:-1 tvg-name="Fuga para a Liberdade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHfnJDFiaRsdHYbABD4TxjFEURm.jpg" group-title="Filmes | Novidades",Fuga para a Liberdade
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305697.mp4
 #EXTINF:-1 tvg-name="Fuga para a Liberdade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHfnJDFiaRsdHYbABD4TxjFEURm.jpg" group-title="Filmes | Acao",Fuga para a Liberdade
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305697.mp4
-#EXTINF:-1 tvg-name="Cidade; Campo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqgUsfFEkwajme4CzbSNQpCfdNT.jpg" group-title="Filmes | Novidades",Cidade; Campo
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305698.mp4
 #EXTINF:-1 tvg-name="Cidade; Campo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqgUsfFEkwajme4CzbSNQpCfdNT.jpg" group-title="Filmes | Drama",Cidade; Campo
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305698.mp4
-#EXTINF:-1 tvg-name="Regras do Amor na Cidade Grande" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxfQjaLaEjF9IuJMMy66oskfUwx.jpg" group-title="Filmes | Novidades",Regras do Amor na Cidade Grande
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305699.mp4
 #EXTINF:-1 tvg-name="Regras do Amor na Cidade Grande" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxfQjaLaEjF9IuJMMy66oskfUwx.jpg" group-title="Filmes | Romance",Regras do Amor na Cidade Grande
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305699.mp4
-#EXTINF:-1 tvg-name="Batman: A Queda do Morcego - Parte 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOeLi6uIhAlWchS7ZkgDwWSavYT.jpg" group-title="Filmes | Novidades",Batman: A Queda do Morcego - Parte 1
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305700.mp4
 #EXTINF:-1 tvg-name="Batman: A Queda do Morcego - Parte 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOeLi6uIhAlWchS7ZkgDwWSavYT.jpg" group-title="Filmes | Lancamentos",Batman: A Queda do Morcego - Parte 1
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305700.mp4
-#EXTINF:-1 tvg-name="Detetive Chinatown" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CfaPrA292lqfFzaFVxUMOBSXRT.jpg" group-title="Filmes | Novidades",Detetive Chinatown
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305701.mp4
 #EXTINF:-1 tvg-name="Detetive Chinatown" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CfaPrA292lqfFzaFVxUMOBSXRT.jpg" group-title="Filmes | Acao",Detetive Chinatown
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305701.mp4
-#EXTINF:-1 tvg-name="Um Sentimento Chamado Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eCwW8438cBtiPCYoD8ujERa2Mo.jpg" group-title="Filmes | Novidades",Um Sentimento Chamado Amor
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305067.mp4
 #EXTINF:-1 tvg-name="Um Sentimento Chamado Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eCwW8438cBtiPCYoD8ujERa2Mo.jpg" group-title="Filmes | Comedia",Um Sentimento Chamado Amor
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305067.mp4
-#EXTINF:-1 tvg-name="Unabomber" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVRIUBkQvapWRjYwCbPvb0NfH37.jpg" group-title="Filmes | Novidades",Unabomber
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305068.mp4
 #EXTINF:-1 tvg-name="Unabomber" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVRIUBkQvapWRjYwCbPvb0NfH37.jpg" group-title="Filmes | Lancamentos",Unabomber
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305068.mp4
-#EXTINF:-1 tvg-name="Socorro! Minha Babá Tirou Férias!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmUHSmxdtziMndnz0ArbHCxMibG.jpg" group-title="Filmes | Novidades",Socorro! Minha Babá Tirou Férias!
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305069.mp4
 #EXTINF:-1 tvg-name="Socorro! Minha Babá Tirou Férias!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmUHSmxdtziMndnz0ArbHCxMibG.jpg" group-title="Filmes | Lancamentos",Socorro! Minha Babá Tirou Férias!
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305069.mp4
-#EXTINF:-1 tvg-name="Só Termina Quando Acaba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyv1IEDPTUrAtw4DJKL7MImlLyx.jpg" group-title="Filmes | Novidades",Só Termina Quando Acaba
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305070.mp4
 #EXTINF:-1 tvg-name="Só Termina Quando Acaba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyv1IEDPTUrAtw4DJKL7MImlLyx.jpg" group-title="Filmes | Comedia",Só Termina Quando Acaba
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305070.mp4
-#EXTINF:-1 tvg-name="Conexão Perigosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aBIocnMHvb7b6yBT1tYTYvV430.jpg" group-title="Filmes | Novidades",Conexão Perigosa
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305071.mp4
 #EXTINF:-1 tvg-name="Conexão Perigosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aBIocnMHvb7b6yBT1tYTYvV430.jpg" group-title="Filmes | Lancamentos",Conexão Perigosa
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305071.mp4
-#EXTINF:-1 tvg-name="A Morte de Robin Hood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0QndnepFPWget2kdKpzh26RBYt.jpg" group-title="Filmes | Novidades",A Morte de Robin Hood
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305072.mp4
 #EXTINF:-1 tvg-name="A Morte de Robin Hood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0QndnepFPWget2kdKpzh26RBYt.jpg" group-title="Filmes | Lancamentos",A Morte de Robin Hood
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305072.mp4
-#EXTINF:-1 tvg-name="Como Perder Sua Popularidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dClmfjS3cMam0NDfThWeeJMioJM.jpg" group-title="Filmes | Novidades",Como Perder Sua Popularidade
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305073.mp4
 #EXTINF:-1 tvg-name="Como Perder Sua Popularidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dClmfjS3cMam0NDfThWeeJMioJM.jpg" group-title="Filmes | Lancamentos",Como Perder Sua Popularidade
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305073.mp4
-#EXTINF:-1 tvg-name="Sem Cortes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVCpljwYNJhGCBR9DzqiGV0jxAe.jpg" group-title="Filmes | Novidades",Sem Cortes
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305074.mp4
 #EXTINF:-1 tvg-name="Sem Cortes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVCpljwYNJhGCBR9DzqiGV0jxAe.jpg" group-title="Filmes | Lancamentos",Sem Cortes
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305074.mp4
-#EXTINF:-1 tvg-name="Inteligência Hostil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsMP7ieKkaPUqxcqhLNXXvngRLx.jpg" group-title="Filmes | Novidades",Inteligência Hostil
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305075.mp4
 #EXTINF:-1 tvg-name="Inteligência Hostil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsMP7ieKkaPUqxcqhLNXXvngRLx.jpg" group-title="Filmes | Lancamentos",Inteligência Hostil
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305075.mp4
-#EXTINF:-1 tvg-name="Insaciável" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxkFhIg6a2yilee5A7mZrv2GXWi.jpg" group-title="Filmes | Novidades",Insaciável
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305076.mp4
 #EXTINF:-1 tvg-name="Insaciável" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxkFhIg6a2yilee5A7mZrv2GXWi.jpg" group-title="Filmes | Lancamentos",Insaciável
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305076.mp4
-#EXTINF:-1 tvg-name="Inferno na Torre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAaLcbMlqqwNEmiPH4ucTo9xQsA.jpg" group-title="Filmes | Novidades",Inferno na Torre
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305077.mp4
 #EXTINF:-1 tvg-name="Inferno na Torre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAaLcbMlqqwNEmiPH4ucTo9xQsA.jpg" group-title="Filmes | Terror",Inferno na Torre
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305077.mp4
-#EXTINF:-1 tvg-name="Nossa Mãe era Atriz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2P3BAqT8vDZTojdG8pzwCvy7lec.jpg" group-title="Filmes | Novidades",Nossa Mãe era Atriz
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305078.mp4
 #EXTINF:-1 tvg-name="Nossa Mãe era Atriz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2P3BAqT8vDZTojdG8pzwCvy7lec.jpg" group-title="Filmes | Documentarios",Nossa Mãe era Atriz
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305078.mp4
-#EXTINF:-1 tvg-name="A Hipótese do Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TQyjZ9PHCiPR8eylF8dulUFreu.jpg" group-title="Filmes | Novidades",A Hipótese do Amor
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305079.mp4
 #EXTINF:-1 tvg-name="A Hipótese do Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TQyjZ9PHCiPR8eylF8dulUFreu.jpg" group-title="Filmes | Lancamentos",A Hipótese do Amor
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305079.mp4
-#EXTINF:-1 tvg-name="Criadas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee0RFg0A4d7t8X5lQvlELLcFFds.jpg" group-title="Filmes | Novidades",Criadas
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305080.mp4
 #EXTINF:-1 tvg-name="Criadas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee0RFg0A4d7t8X5lQvlELLcFFds.jpg" group-title="Filmes | Lancamentos",Criadas
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305080.mp4
-#EXTINF:-1 tvg-name="Na Onda da Maré" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWoCQANFIVCuhCzxBImPilzfv6f.jpg" group-title="Filmes | Novidades",Na Onda da Maré
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305081.mp4
 #EXTINF:-1 tvg-name="Na Onda da Maré" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWoCQANFIVCuhCzxBImPilzfv6f.jpg" group-title="Filmes | Documentarios",Na Onda da Maré
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305081.mp4
-#EXTINF:-1 tvg-name="Espírito Materno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmvn3QAtcQleXMJOTy6pT86aHi4.jpg" group-title="Filmes | Novidades",Espírito Materno
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305082.mp4
 #EXTINF:-1 tvg-name="Espírito Materno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmvn3QAtcQleXMJOTy6pT86aHi4.jpg" group-title="Filmes | Terror",Espírito Materno
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305082.mp4
-#EXTINF:-1 tvg-name="Atriz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZD0bGhWBY6SRjxISECHYO8PAuj.jpg" group-title="Filmes | Novidades",Atriz
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305083.mp4
 #EXTINF:-1 tvg-name="Atriz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZD0bGhWBY6SRjxISECHYO8PAuj.jpg" group-title="Filmes | Drama",Atriz
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305083.mp4
-#EXTINF:-1 tvg-name="O Último Tiro Certo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owdiTFWuWq4UxPth6nXNsO6x74Q.jpg" group-title="Filmes | Novidades",O Último Tiro Certo
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305084.mp4
 #EXTINF:-1 tvg-name="O Último Tiro Certo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owdiTFWuWq4UxPth6nXNsO6x74Q.jpg" group-title="Filmes | Lancamentos",O Último Tiro Certo
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305084.mp4
-#EXTINF:-1 tvg-name="Só por Uma Noite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg" group-title="Filmes | Novidades",Só por Uma Noite
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305085.mp4
 #EXTINF:-1 tvg-name="Só por Uma Noite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg" group-title="Filmes | Lancamentos",Só por Uma Noite
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2305085.mp4
-#EXTINF:-1 tvg-name="Toy Story 5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg" group-title="Filmes | Novidades",Toy Story 5
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304724.mp4
 #EXTINF:-1 tvg-name="Toy Story 5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg" group-title="Filmes | Lancamentos",Toy Story 5
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304724.mp4
-#EXTINF:-1 tvg-name="A Conspiração Condor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAUpfmmFhQAWeO5f7joqEwL28nv.jpg" group-title="Filmes | Novidades",A Conspiração Condor
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304100.mp4
 #EXTINF:-1 tvg-name="A Conspiração Condor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAUpfmmFhQAWeO5f7joqEwL28nv.jpg" group-title="Filmes | Lancamentos",A Conspiração Condor
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304100.mp4
-#EXTINF:-1 tvg-name="Amigos Até a Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkmpODg4OaSXzjvbehLrozQipsG.jpg" group-title="Filmes | Novidades",Amigos Até a Morte
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304101.mp4
 #EXTINF:-1 tvg-name="Amigos Até a Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkmpODg4OaSXzjvbehLrozQipsG.jpg" group-title="Filmes | Comedia",Amigos Até a Morte
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304101.mp4
-#EXTINF:-1 tvg-name="Darkgame: O Jogo Da Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHnCIBjk4KmGbFDc3jmraAoVED.jpg" group-title="Filmes | Novidades",Darkgame: O Jogo Da Morte
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304102.mp4
 #EXTINF:-1 tvg-name="Darkgame: O Jogo Da Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHnCIBjk4KmGbFDc3jmraAoVED.jpg" group-title="Filmes | Terror",Darkgame: O Jogo Da Morte
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304102.mp4
-#EXTINF:-1 tvg-name="Um Esquadrão Muito Louco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJnYHFCPm8JYvXxe6iR7eUxjLFW.jpg" group-title="Filmes | Novidades",Um Esquadrão Muito Louco
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304103.mp4
 #EXTINF:-1 tvg-name="Um Esquadrão Muito Louco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJnYHFCPm8JYvXxe6iR7eUxjLFW.jpg" group-title="Filmes | Comedia",Um Esquadrão Muito Louco
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304103.mp4
-#EXTINF:-1 tvg-name="Tubarão de Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRyae43AYHR4Gus0FmqA1HavYvK.jpg" group-title="Filmes | Novidades",Tubarão de Guerra
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304104.mp4
 #EXTINF:-1 tvg-name="Tubarão de Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRyae43AYHR4Gus0FmqA1HavYvK.jpg" group-title="Filmes | Lancamentos",Tubarão de Guerra
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304104.mp4
-#EXTINF:-1 tvg-name="A Restauração" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zr7D7QyeyzqypDKrcZrvLsJvmb.jpg" group-title="Filmes | Novidades",A Restauração
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304105.mp4
 #EXTINF:-1 tvg-name="A Restauração" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zr7D7QyeyzqypDKrcZrvLsJvmb.jpg" group-title="Filmes | Drama",A Restauração
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304105.mp4
-#EXTINF:-1 tvg-name="Você+Eu - Contra o Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg" group-title="Filmes | Novidades",Você+Eu - Contra o Mundo
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304041.mp4
 #EXTINF:-1 tvg-name="Você+Eu - Contra o Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg" group-title="Filmes | Lancamentos",Você+Eu - Contra o Mundo
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304041.mp4
-#EXTINF:-1 tvg-name="Sem Perdão no Velho Oeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hH8EtWSYS7CwVsE4IXPGQtm7rsf.jpg" group-title="Filmes | Novidades",Sem Perdão no Velho Oeste
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304042.mp4
 #EXTINF:-1 tvg-name="Sem Perdão no Velho Oeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hH8EtWSYS7CwVsE4IXPGQtm7rsf.jpg" group-title="Filmes | Lancamentos",Sem Perdão no Velho Oeste
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304042.mp4
-#EXTINF:-1 tvg-name="Quatro Histórias de Desejo 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rYl0kaBlxsDNJtkn4msRIidBvM.jpg" group-title="Filmes | Novidades",Quatro Histórias de Desejo 3
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304043.mp4
 #EXTINF:-1 tvg-name="Quatro Histórias de Desejo 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rYl0kaBlxsDNJtkn4msRIidBvM.jpg" group-title="Filmes | Lancamentos",Quatro Histórias de Desejo 3
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304043.mp4
-#EXTINF:-1 tvg-name="Conforme a Música" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg" group-title="Filmes | Novidades",Conforme a Música
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304044.mp4
 #EXTINF:-1 tvg-name="Conforme a Música" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg" group-title="Filmes | Lancamentos",Conforme a Música
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304044.mp4
-#EXTINF:-1 tvg-name="Acampamento Miasma: Adolescência, Sexo e Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAwGTx2EOdiY6AiWauGICPUrELg.jpg" group-title="Filmes | Novidades",Acampamento Miasma: Adolescência, Sexo e Morte
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304045.mp4
 #EXTINF:-1 tvg-name="Acampamento Miasma: Adolescência, Sexo e Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAwGTx2EOdiY6AiWauGICPUrELg.jpg" group-title="Filmes | Lancamentos",Acampamento Miasma: Adolescência, Sexo e Morte
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304045.mp4
-#EXTINF:-1 tvg-name="Acampamento de Verão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QgqXnQqVTVS4vCI269a1QPHi3z.jpg" group-title="Filmes | Novidades",Acampamento de Verão
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304046.mp4
 #EXTINF:-1 tvg-name="Acampamento de Verão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QgqXnQqVTVS4vCI269a1QPHi3z.jpg" group-title="Filmes | Romance",Acampamento de Verão
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304046.mp4
-#EXTINF:-1 tvg-name="Céu em Fúria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vovjeqrfA15EDsDhGtqDI0dLg7I.jpg" group-title="Filmes | Novidades",Céu em Fúria
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304047.mp4
 #EXTINF:-1 tvg-name="Céu em Fúria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vovjeqrfA15EDsDhGtqDI0dLg7I.jpg" group-title="Filmes | Lancamentos",Céu em Fúria
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304047.mp4
-#EXTINF:-1 tvg-name="O Coreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPp3yL0oVdG3BDk6FqJAkBkxJOF.jpg" group-title="Filmes | Novidades",O Coreto
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304048.mp4
 #EXTINF:-1 tvg-name="O Coreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPp3yL0oVdG3BDk6FqJAkBkxJOF.jpg" group-title="Filmes | Lancamentos",O Coreto
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304048.mp4
-#EXTINF:-1 tvg-name="Sultana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0fFR4TGDpG42tSP3RlWpTGKXgR.jpg" group-title="Filmes | Novidades",Sultana
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303795.mp4
 #EXTINF:-1 tvg-name="Sultana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0fFR4TGDpG42tSP3RlWpTGKXgR.jpg" group-title="Filmes | Lancamentos",Sultana
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303795.mp4
-#EXTINF:-1 tvg-name="Herança de Narcisa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNoY7eA4qmE5Ym2RtB90MtFwg4t.jpg" group-title="Filmes | Novidades",Herança de Narcisa
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303796.mp4
 #EXTINF:-1 tvg-name="Herança de Narcisa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNoY7eA4qmE5Ym2RtB90MtFwg4t.jpg" group-title="Filmes | Lancamentos",Herança de Narcisa
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303796.mp4
-#EXTINF:-1 tvg-name="Alma Negra, do Quilombo ao Baile" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68EiPIZ3SFuoMBt6yXprcaPap44.jpg" group-title="Filmes | Novidades",Alma Negra, do Quilombo ao Baile
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303798.mp4
 #EXTINF:-1 tvg-name="Alma Negra, do Quilombo ao Baile" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68EiPIZ3SFuoMBt6yXprcaPap44.jpg" group-title="Filmes | Lancamentos",Alma Negra, do Quilombo ao Baile
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303798.mp4
-#EXTINF:-1 tvg-name="Aposta de Alto Risco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDG29YNELpmXSKgVKTbP6zUm11S.jpg" group-title="Filmes | Novidades",Aposta de Alto Risco
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303799.mp4
 #EXTINF:-1 tvg-name="Aposta de Alto Risco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDG29YNELpmXSKgVKTbP6zUm11S.jpg" group-title="Filmes | Lancamentos",Aposta de Alto Risco
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303799.mp4
-#EXTINF:-1 tvg-name="O Fim da Rua" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYCyUeNA6SN3zYS66FVp3gnfzBN.jpg" group-title="Filmes | Novidades",O Fim da Rua
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303800.mp4
 #EXTINF:-1 tvg-name="O Fim da Rua" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYCyUeNA6SN3zYS66FVp3gnfzBN.jpg" group-title="Filmes | Lancamentos",O Fim da Rua
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303800.mp4
-#EXTINF:-1 tvg-name="Helena de Guaratiba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRxCJpmbltsBadtctqaGr5ZzQKW.jpg" group-title="Filmes | Novidades",Helena de Guaratiba
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303801.mp4
 #EXTINF:-1 tvg-name="Helena de Guaratiba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRxCJpmbltsBadtctqaGr5ZzQKW.jpg" group-title="Filmes | Romance",Helena de Guaratiba
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303801.mp4
-#EXTINF:-1 tvg-name="Eu Fui Assistente do Eduardo Coutinho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73IAuaXl61tftsDKAOkgWEtmm8V.jpg" group-title="Filmes | Novidades",Eu Fui Assistente do Eduardo Coutinho
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303802.mp4
 #EXTINF:-1 tvg-name="Eu Fui Assistente do Eduardo Coutinho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73IAuaXl61tftsDKAOkgWEtmm8V.jpg" group-title="Filmes | Documentarios",Eu Fui Assistente do Eduardo Coutinho
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303802.mp4
-#EXTINF:-1 tvg-name="Cavaram Uma Cova No Meu Coração" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfmX7zGOou1RsePnWQJazAI8Ync.jpg" group-title="Filmes | Novidades",Cavaram Uma Cova No Meu Coração
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303803.mp4
 #EXTINF:-1 tvg-name="Cavaram Uma Cova No Meu Coração" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfmX7zGOou1RsePnWQJazAI8Ync.jpg" group-title="Filmes | Drama",Cavaram Uma Cova No Meu Coração
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303803.mp4
-#EXTINF:-1 tvg-name="A Edição do Nordeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCY5jx25RLZT9HeI5fxOFoQhhl5.jpg" group-title="Filmes | Novidades",A Edição do Nordeste
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303804.mp4
 #EXTINF:-1 tvg-name="A Edição do Nordeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCY5jx25RLZT9HeI5fxOFoQhhl5.jpg" group-title="Filmes | Documentarios",A Edição do Nordeste
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303804.mp4
-#EXTINF:-1 tvg-name="O Doce Sal dos Seus Fadigosos Lábios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCbXnMlsmG0ts1tOBHfRmsNxO1a.jpg" group-title="Filmes | Novidades",O Doce Sal dos Seus Fadigosos Lábios
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303805.mp4
 #EXTINF:-1 tvg-name="O Doce Sal dos Seus Fadigosos Lábios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCbXnMlsmG0ts1tOBHfRmsNxO1a.jpg" group-title="Filmes | Lancamentos",O Doce Sal dos Seus Fadigosos Lábios
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303805.mp4
-#EXTINF:-1 tvg-name="Guerra Primitiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJc0Ej0mAIpNPoQh46oOnUQCqxE.jpg" group-title="Filmes | Novidades",Guerra Primitiva
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303806.mp4
 #EXTINF:-1 tvg-name="Guerra Primitiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJc0Ej0mAIpNPoQh46oOnUQCqxE.jpg" group-title="Filmes | Lancamentos",Guerra Primitiva
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303806.mp4
-#EXTINF:-1 tvg-name="Abismos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izhO1ThIlxgfKqC5D7Fligb8Ha3.jpg" group-title="Filmes | Novidades",Abismos
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303807.mp4
 #EXTINF:-1 tvg-name="Abismos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izhO1ThIlxgfKqC5D7Fligb8Ha3.jpg" group-title="Filmes | Crime",Abismos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303807.mp4
-#EXTINF:-1 tvg-name="Atraídos Pelo Destino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99OB0p7ah8wyTphLHrghSJXtmr5.jpg" group-title="Filmes | Novidades",Atraídos Pelo Destino
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303204.mp4
 #EXTINF:-1 tvg-name="Atraídos Pelo Destino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99OB0p7ah8wyTphLHrghSJXtmr5.jpg" group-title="Filmes | Lancamentos",Atraídos Pelo Destino
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303204.mp4
-#EXTINF:-1 tvg-name="O Documentário da IA: Ou Como Me Tornei Otimista Diante do Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RUcIektEM9ozTUPy1O2arNetgy.jpg" group-title="Filmes | Novidades",O Documentário da IA: Ou Como Me Tornei Otimista Diante do Apocalipse
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303205.mp4
 #EXTINF:-1 tvg-name="O Documentário da IA: Ou Como Me Tornei Otimista Diante do Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RUcIektEM9ozTUPy1O2arNetgy.jpg" group-title="Filmes | Lancamentos",O Documentário da IA: Ou Como Me Tornei Otimista Diante do Apocalipse
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303205.mp4
-#EXTINF:-1 tvg-name="3 Obás de Xangô" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ecdYVdJqeIWgCPr74LAEhj5JQI.jpg" group-title="Filmes | Novidades",3 Obás de Xangô
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303206.mp4
 #EXTINF:-1 tvg-name="3 Obás de Xangô" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ecdYVdJqeIWgCPr74LAEhj5JQI.jpg" group-title="Filmes | Lancamentos",3 Obás de Xangô
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303206.mp4
-#EXTINF:-1 tvg-name="Sofia Foi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRryW2JOpCHDlFLV50r2FqHbfQF.jpg" group-title="Filmes | Novidades",Sofia Foi
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303207.mp4
 #EXTINF:-1 tvg-name="Sofia Foi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRryW2JOpCHDlFLV50r2FqHbfQF.jpg" group-title="Filmes | Drama",Sofia Foi
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303207.mp4
-#EXTINF:-1 tvg-name="Aqui Não Entra Luz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDGWHfVkjRCFNZe67mF3OiGfj3F.jpg" group-title="Filmes | Novidades",Aqui Não Entra Luz
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303208.mp4
 #EXTINF:-1 tvg-name="Aqui Não Entra Luz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDGWHfVkjRCFNZe67mF3OiGfj3F.jpg" group-title="Filmes | Lancamentos",Aqui Não Entra Luz
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303208.mp4
-#EXTINF:-1 tvg-name="Pulmão de Pedra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUj5Djtpddog2E5xIsncjUQxUeC.jpg" group-title="Filmes | Novidades",Pulmão de Pedra
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303209.mp4
 #EXTINF:-1 tvg-name="Pulmão de Pedra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUj5Djtpddog2E5xIsncjUQxUeC.jpg" group-title="Filmes | Drama",Pulmão de Pedra
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303209.mp4
-#EXTINF:-1 tvg-name="Marco: A Verdade Inventada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytNzWOWFWAastAdgdbWptQDnqn4.jpg" group-title="Filmes | Novidades",Marco: A Verdade Inventada
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303210.mp4
 #EXTINF:-1 tvg-name="Marco: A Verdade Inventada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytNzWOWFWAastAdgdbWptQDnqn4.jpg" group-title="Filmes | Drama",Marco: A Verdade Inventada
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303210.mp4
-#EXTINF:-1 tvg-name="Vamos, Time!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJzfmcJLqML17sh7jlKV70D6y66.jpg" group-title="Filmes | Novidades",Vamos, Time!
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303211.mp4
 #EXTINF:-1 tvg-name="Vamos, Time!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJzfmcJLqML17sh7jlKV70D6y66.jpg" group-title="Filmes | Lancamentos",Vamos, Time!
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303211.mp4
-#EXTINF:-1 tvg-name="Jovens e Perdidos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzGNZiUgihaGWb2tLOfHZmBPZVy.jpg" group-title="Filmes | Novidades",Jovens e Perdidos
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303212.mp4
 #EXTINF:-1 tvg-name="Jovens e Perdidos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzGNZiUgihaGWb2tLOfHZmBPZVy.jpg" group-title="Filmes | Romance",Jovens e Perdidos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303212.mp4
-#EXTINF:-1 tvg-name="Dix pour cent: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41Yezvy8Kxr9bcwQsPR3teq4EvX.jpg" group-title="Filmes | Novidades",Dix pour cent: O Filme
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303213.mp4
 #EXTINF:-1 tvg-name="Dix pour cent: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41Yezvy8Kxr9bcwQsPR3teq4EvX.jpg" group-title="Filmes | Lancamentos",Dix pour cent: O Filme
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303213.mp4
-#EXTINF:-1 tvg-name="A Garota que Chorava Pérolas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyVycBz6RuwOsXTywIYP03Lzrca.jpg" group-title="Filmes | Novidades",A Garota que Chorava Pérolas
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303214.mp4
 #EXTINF:-1 tvg-name="A Garota que Chorava Pérolas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyVycBz6RuwOsXTywIYP03Lzrca.jpg" group-title="Filmes | Lancamentos",A Garota que Chorava Pérolas
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303214.mp4
-#EXTINF:-1 tvg-name="Águas Mortais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWsw0X420R6ngEcVCkNlZ189Amr.jpg" group-title="Filmes | Novidades",Águas Mortais
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303215.mp4
 #EXTINF:-1 tvg-name="Águas Mortais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWsw0X420R6ngEcVCkNlZ189Amr.jpg" group-title="Filmes | Lancamentos",Águas Mortais
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303215.mp4
-#EXTINF:-1 tvg-name="Speed Faster: Velocidade Sem Limites" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzK9X310uch35VFy7X9uwi8foPj.jpg" group-title="Filmes | Novidades",Speed Faster: Velocidade Sem Limites
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303216.mp4
 #EXTINF:-1 tvg-name="Speed Faster: Velocidade Sem Limites" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzK9X310uch35VFy7X9uwi8foPj.jpg" group-title="Filmes | Lancamentos",Speed Faster: Velocidade Sem Limites
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303216.mp4
-#EXTINF:-1 tvg-name="Baleia Assassina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgSfoqcfG8lVxnBuvXOC17tWqTe.jpg" group-title="Filmes | Novidades",Baleia Assassina
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303217.mp4
 #EXTINF:-1 tvg-name="Baleia Assassina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgSfoqcfG8lVxnBuvXOC17tWqTe.jpg" group-title="Filmes | Lancamentos",Baleia Assassina
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303217.mp4
-#EXTINF:-1 tvg-name="Karla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qslE9Hembg7rlPhPpNO7cAkF47.jpg" group-title="Filmes | Novidades",Karla
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303218.mp4
 #EXTINF:-1 tvg-name="Karla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qslE9Hembg7rlPhPpNO7cAkF47.jpg" group-title="Filmes | Lancamentos",Karla
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303218.mp4
-#EXTINF:-1 tvg-name="Meus Dias com Ela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0b2j6sCvgC6Aa4683WF6Vc9QZj.jpg" group-title="Filmes | Novidades",Meus Dias com Ela
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303219.mp4
 #EXTINF:-1 tvg-name="Meus Dias com Ela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0b2j6sCvgC6Aa4683WF6Vc9QZj.jpg" group-title="Filmes | Lancamentos",Meus Dias com Ela
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303219.mp4
-#EXTINF:-1 tvg-name="Copan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSgcjkUf0MJkD0rAkCfcCO1v4iv.jpg" group-title="Filmes | Novidades",Copan
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303220.mp4
 #EXTINF:-1 tvg-name="Copan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSgcjkUf0MJkD0rAkCfcCO1v4iv.jpg" group-title="Filmes | Lancamentos",Copan
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303220.mp4
-#EXTINF:-1 tvg-name="Patrulha Canina: Uma Aventura Dino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyQ0KOfyuTyBYHAQ7wl7XrrOBH2.jpg" group-title="Filmes | Novidades",Patrulha Canina: Uma Aventura Dino
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303221.mp4
 #EXTINF:-1 tvg-name="Patrulha Canina: Uma Aventura Dino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyQ0KOfyuTyBYHAQ7wl7XrrOBH2.jpg" group-title="Filmes | Lancamentos",Patrulha Canina: Uma Aventura Dino
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303221.mp4
-#EXTINF:-1 tvg-name="Por Que Eu Me Casei de Novo?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg" group-title="Filmes | Novidades",Por Que Eu Me Casei de Novo?
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303222.mp4
 #EXTINF:-1 tvg-name="Por Que Eu Me Casei de Novo?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg" group-title="Filmes | Lancamentos",Por Que Eu Me Casei de Novo?
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303222.mp4
-#EXTINF:-1 tvg-name="Juvenal e o Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swOOaq4Qp3dChOXk60uWkKUKQif.jpg" group-title="Filmes | Novidades",Juvenal e o Dragão
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303223.mp4
 #EXTINF:-1 tvg-name="Juvenal e o Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swOOaq4Qp3dChOXk60uWkKUKQif.jpg" group-title="Filmes | Animacao",Juvenal e o Dragão
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303223.mp4
 #EXTINF:-1 tvg-name="Nu Entre Lobos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3Rp1139ZzLrwYkS4STfFCmxMwh.jpg" group-title="Filmes | Guerra",Nu Entre Lobos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303224.mp4
-#EXTINF:-1 tvg-name="Vamos Falar de Menopausa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFuSIXs9umwKtqZLQjUUDiLRUiZ.jpg" group-title="Filmes | Novidades",Vamos Falar de Menopausa
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303225.mp4
 #EXTINF:-1 tvg-name="Vamos Falar de Menopausa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFuSIXs9umwKtqZLQjUUDiLRUiZ.jpg" group-title="Filmes | Documentarios",Vamos Falar de Menopausa
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2303225.mp4
-#EXTINF:-1 tvg-name="Untold: Mr. T: I Pity the Fool" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAbqySXexjVnPIxLAn29VWx2aZS.jpg" group-title="Filmes | Novidades",Untold: Mr. T: I Pity the Fool
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302244.mp4
 #EXTINF:-1 tvg-name="Untold: Mr. T: I Pity the Fool" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAbqySXexjVnPIxLAn29VWx2aZS.jpg" group-title="Filmes | Lancamentos",Untold: Mr. T: I Pity the Fool
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302244.mp4
-#EXTINF:-1 tvg-name="As Cores e Amores de Lore" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWCu3bkOb3ufzMqhfJcrl5LmVD8.jpg" group-title="Filmes | Novidades",As Cores e Amores de Lore
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302245.mp4
 #EXTINF:-1 tvg-name="As Cores e Amores de Lore" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWCu3bkOb3ufzMqhfJcrl5LmVD8.jpg" group-title="Filmes | Lancamentos",As Cores e Amores de Lore
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302245.mp4
-#EXTINF:-1 tvg-name="Greice" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfWuMW9fAq54Q25DYSWlApuMWzE.jpg" group-title="Filmes | Novidades",Greice
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302246.mp4
 #EXTINF:-1 tvg-name="Greice" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfWuMW9fAq54Q25DYSWlApuMWzE.jpg" group-title="Filmes | Romance",Greice
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302246.mp4
-#EXTINF:-1 tvg-name="Technocracia: O Algoritmo do Poder" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unwbaCbSaszQlic1Tc5DcsF5hYB.jpg" group-title="Filmes | Novidades",Technocracia: O Algoritmo do Poder
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302247.mp4
 #EXTINF:-1 tvg-name="Technocracia: O Algoritmo do Poder" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unwbaCbSaszQlic1Tc5DcsF5hYB.jpg" group-title="Filmes | Lancamentos",Technocracia: O Algoritmo do Poder
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302247.mp4
-#EXTINF:-1 tvg-name="Kangaroo: Uma Aventura na Austrália" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMXGSk1sOqEynzHHWnJ4VyhSyKy.jpg" group-title="Filmes | Novidades",Kangaroo: Uma Aventura na Austrália
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302248.mp4
 #EXTINF:-1 tvg-name="Kangaroo: Uma Aventura na Austrália" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMXGSk1sOqEynzHHWnJ4VyhSyKy.jpg" group-title="Filmes | Lancamentos",Kangaroo: Uma Aventura na Austrália
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302248.mp4
-#EXTINF:-1 tvg-name="Deuses da Peste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cJbu8IOzvRCo0jWnbK4IllzcSe.jpg" group-title="Filmes | Novidades",Deuses da Peste
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302249.mp4
 #EXTINF:-1 tvg-name="Deuses da Peste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cJbu8IOzvRCo0jWnbK4IllzcSe.jpg" group-title="Filmes | Lancamentos",Deuses da Peste
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302249.mp4
-#EXTINF:-1 tvg-name="O Estranho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuV9eprDTTyBvMtuYaZQ4BY4ldw.jpg" group-title="Filmes | Novidades",O Estranho
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302250.mp4
 #EXTINF:-1 tvg-name="O Estranho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuV9eprDTTyBvMtuYaZQ4BY4ldw.jpg" group-title="Filmes | Drama",O Estranho
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302250.mp4
-#EXTINF:-1 tvg-name="Praia Formosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29SNRUTcgrtfsnrfnSRgRVB2QZm.jpg" group-title="Filmes | Novidades",Praia Formosa
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302251.mp4
 #EXTINF:-1 tvg-name="Praia Formosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29SNRUTcgrtfsnrfnSRgRVB2QZm.jpg" group-title="Filmes | Drama",Praia Formosa
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302251.mp4
-#EXTINF:-1 tvg-name="Termodielétrico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlj3bZSAl4d4aJsbQXgKApA5Mpa.jpg" group-title="Filmes | Novidades",Termodielétrico
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302252.mp4
 #EXTINF:-1 tvg-name="Termodielétrico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlj3bZSAl4d4aJsbQXgKApA5Mpa.jpg" group-title="Filmes | Documentarios",Termodielétrico
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302252.mp4
-#EXTINF:-1 tvg-name="Felicidade em Dobro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFCfFSPdD0N9xzHEB9iVYu4H0jH.jpg" group-title="Filmes | Novidades",Felicidade em Dobro
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302253.mp4
 #EXTINF:-1 tvg-name="Felicidade em Dobro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFCfFSPdD0N9xzHEB9iVYu4H0jH.jpg" group-title="Filmes | Lancamentos",Felicidade em Dobro
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302253.mp4
-#EXTINF:-1 tvg-name="Quando Eu Me Encontrar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuWuyVOPjttUBgUAth8MI1KcJrR.jpg" group-title="Filmes | Novidades",Quando Eu Me Encontrar
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302254.mp4
 #EXTINF:-1 tvg-name="Quando Eu Me Encontrar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuWuyVOPjttUBgUAth8MI1KcJrR.jpg" group-title="Filmes | Drama",Quando Eu Me Encontrar
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302254.mp4
-#EXTINF:-1 tvg-name="O Solar dos Prazeres Noturnos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/463w8tVTsqxqkDcmxlqvksbOBAH.jpg" group-title="Filmes | Novidades",O Solar dos Prazeres Noturnos
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302255.mp4
 #EXTINF:-1 tvg-name="O Solar dos Prazeres Noturnos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/463w8tVTsqxqkDcmxlqvksbOBAH.jpg" group-title="Filmes | Terror",O Solar dos Prazeres Noturnos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302255.mp4
-#EXTINF:-1 tvg-name="Ferro's Bar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXekzNaqJXOV9xZk2XP0zEI2vmj.jpg" group-title="Filmes | Novidades",Ferro's Bar
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302256.mp4
 #EXTINF:-1 tvg-name="Ferro's Bar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXekzNaqJXOV9xZk2XP0zEI2vmj.jpg" group-title="Filmes | Documentarios",Ferro's Bar
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302256.mp4
-#EXTINF:-1 tvg-name="Quinze Quase Dezesseis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6U49qgczvZQYt1KpfQSK7olsXU4.jpg" group-title="Filmes | Novidades",Quinze Quase Dezesseis
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302257.mp4
 #EXTINF:-1 tvg-name="Quinze Quase Dezesseis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6U49qgczvZQYt1KpfQSK7olsXU4.jpg" group-title="Filmes | Drama",Quinze Quase Dezesseis
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302257.mp4
-#EXTINF:-1 tvg-name="Instadocs: The Decoy Plane" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg" group-title="Filmes | Novidades",Instadocs: The Decoy Plane
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302258.mp4
 #EXTINF:-1 tvg-name="Instadocs: The Decoy Plane" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg" group-title="Filmes | Lancamentos",Instadocs: The Decoy Plane
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302258.mp4
-#EXTINF:-1 tvg-name="Eu Sou Nevenka" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEIMnGFeRpyKMHSycH0AK770I77.jpg" group-title="Filmes | Novidades",Eu Sou Nevenka
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302259.mp4
 #EXTINF:-1 tvg-name="Eu Sou Nevenka" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEIMnGFeRpyKMHSycH0AK770I77.jpg" group-title="Filmes | Drama",Eu Sou Nevenka
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302259.mp4
-#EXTINF:-1 tvg-name="A Vigilante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCxP52aGzgan8RXCAAqyjRRJT6p.jpg" group-title="Filmes | Novidades",A Vigilante
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302260.mp4
 #EXTINF:-1 tvg-name="A Vigilante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCxP52aGzgan8RXCAAqyjRRJT6p.jpg" group-title="Filmes | Acao",A Vigilante
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302260.mp4
-#EXTINF:-1 tvg-name="Kraken: O Terror das Profundezas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lb8lEHDWRAflGr0daGsmJVoey2d.jpg" group-title="Filmes | Novidades",Kraken: O Terror das Profundezas
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301934.mp4
 #EXTINF:-1 tvg-name="Kraken: O Terror das Profundezas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lb8lEHDWRAflGr0daGsmJVoey2d.jpg" group-title="Filmes | Lancamentos",Kraken: O Terror das Profundezas
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301934.mp4
-#EXTINF:-1 tvg-name="O Confronto dos Thundermans" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg" group-title="Filmes | Novidades",O Confronto dos Thundermans
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301935.mp4
 #EXTINF:-1 tvg-name="O Confronto dos Thundermans" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg" group-title="Filmes | Lancamentos",O Confronto dos Thundermans
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301935.mp4
-#EXTINF:-1 tvg-name="Um Retrato de Esperança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWckl9hilVTIum7P0OSkwCeoBEh.jpg" group-title="Filmes | Novidades",Um Retrato de Esperança
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301936.mp4
 #EXTINF:-1 tvg-name="Um Retrato de Esperança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWckl9hilVTIum7P0OSkwCeoBEh.jpg" group-title="Filmes | Lancamentos",Um Retrato de Esperança
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301936.mp4
-#EXTINF:-1 tvg-name="No Caminho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnm5tEehblXxcgWmgatqSxLKvDb.jpg" group-title="Filmes | Novidades",No Caminho
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301937.mp4
 #EXTINF:-1 tvg-name="No Caminho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnm5tEehblXxcgWmgatqSxLKvDb.jpg" group-title="Filmes | Lancamentos",No Caminho
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301937.mp4
-#EXTINF:-1 tvg-name="Mayday" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg" group-title="Filmes | Novidades",Mayday
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301938.mp4
 #EXTINF:-1 tvg-name="Mayday" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg" group-title="Filmes | Lancamentos",Mayday
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301938.mp4
-#EXTINF:-1 tvg-name="Você Me Deixa Louca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggrMFhEc50M2OmpxBeXNPOadpsZ.jpg" group-title="Filmes | Novidades",Você Me Deixa Louca
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301939.mp4
 #EXTINF:-1 tvg-name="Você Me Deixa Louca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggrMFhEc50M2OmpxBeXNPOadpsZ.jpg" group-title="Filmes | Lancamentos",Você Me Deixa Louca
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301939.mp4
-#EXTINF:-1 tvg-name="Gandhari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHei97aPYCCsh4vicz9X0wmdFV.jpg" group-title="Filmes | Novidades",Gandhari
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301940.mp4
 #EXTINF:-1 tvg-name="Gandhari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHei97aPYCCsh4vicz9X0wmdFV.jpg" group-title="Filmes | Lancamentos",Gandhari
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301940.mp4
-#EXTINF:-1 tvg-name="Na Frieza da Realidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqLiFabD1D7CewL8bKibUXQxcsm.jpg" group-title="Filmes | Novidades",Na Frieza da Realidade
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301941.mp4
 #EXTINF:-1 tvg-name="Na Frieza da Realidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqLiFabD1D7CewL8bKibUXQxcsm.jpg" group-title="Filmes | Lancamentos",Na Frieza da Realidade
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301941.mp4
-#EXTINF:-1 tvg-name="Visões de um Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dlXexLn0PJzzsqVRlxaREBNTJ4.jpg" group-title="Filmes | Novidades",Visões de um Amor
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301942.mp4
 #EXTINF:-1 tvg-name="Visões de um Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dlXexLn0PJzzsqVRlxaREBNTJ4.jpg" group-title="Filmes | Lancamentos",Visões de um Amor
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301942.mp4
-#EXTINF:-1 tvg-name="Star Wars: O Mandaloriano e Grogu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNwaS0tnwgQRaQFPY5MbGxdmYXr.jpg" group-title="Filmes | Novidades",Star Wars: O Mandaloriano e Grogu
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301872.mp4
 #EXTINF:-1 tvg-name="Star Wars: O Mandaloriano e Grogu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNwaS0tnwgQRaQFPY5MbGxdmYXr.jpg" group-title="Filmes | Lancamentos",Star Wars: O Mandaloriano e Grogu
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301872.mp4
-#EXTINF:-1 tvg-name="Kraken" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlNRCWGoFFvmRZERUgNUbntO5EU.jpg" group-title="Filmes | Novidades",Kraken
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301873.mp4
 #EXTINF:-1 tvg-name="Kraken" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlNRCWGoFFvmRZERUgNUbntO5EU.jpg" group-title="Filmes | Lancamentos",Kraken
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301873.mp4
-#EXTINF:-1 tvg-name="O Confronto dos Thundermans" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg" group-title="Filmes | Novidades",O Confronto dos Thundermans
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301874.mp4
 #EXTINF:-1 tvg-name="O Confronto dos Thundermans" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg" group-title="Filmes | Lancamentos",O Confronto dos Thundermans
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301874.mp4
-#EXTINF:-1 tvg-name="LEGO Star Wars: The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg" group-title="Filmes | Novidades",LEGO Star Wars: The Mandalorian
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301875.mp4
 #EXTINF:-1 tvg-name="LEGO Star Wars: The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg" group-title="Filmes | Lancamentos",LEGO Star Wars: The Mandalorian
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301875.mp4
-#EXTINF:-1 tvg-name="Ponto de Virada: Geração 11 de Setembro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2F1sqcKQ9BOFF3c88aIxIb6dcxE.jpg" group-title="Filmes | Novidades",Ponto de Virada: Geração 11 de Setembro
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301876.mp4
 #EXTINF:-1 tvg-name="Ponto de Virada: Geração 11 de Setembro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2F1sqcKQ9BOFF3c88aIxIb6dcxE.jpg" group-title="Filmes | Lancamentos",Ponto de Virada: Geração 11 de Setembro
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301876.mp4
-#EXTINF:-1 tvg-name="Corrida Contra o Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg" group-title="Filmes | Novidades",Corrida Contra o Tempo
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301877.mp4
 #EXTINF:-1 tvg-name="Corrida Contra o Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg" group-title="Filmes | Lancamentos",Corrida Contra o Tempo
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301877.mp4
-#EXTINF:-1 tvg-name="Sete Homens e uma Sentença" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AUo6zNOJQXfBSEnOEmCBSwRN3U.jpg" group-title="Filmes | Novidades",Sete Homens e uma Sentença
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301878.mp4
 #EXTINF:-1 tvg-name="Sete Homens e uma Sentença" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AUo6zNOJQXfBSEnOEmCBSwRN3U.jpg" group-title="Filmes | Lancamentos",Sete Homens e uma Sentença
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301878.mp4
-#EXTINF:-1 tvg-name="Universe Designed" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZwtApFloy9gY8ui2raBQDg3CfJ.jpg" group-title="Filmes | Novidades",Universe Designed
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301880.mp4
 #EXTINF:-1 tvg-name="Universe Designed" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZwtApFloy9gY8ui2raBQDg3CfJ.jpg" group-title="Filmes | Documentarios",Universe Designed
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301880.mp4
-#EXTINF:-1 tvg-name="Gintama: Yoshiwara em Chamas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sb41qo6yHw5GS2Tujd7H4NDP4ZH.jpg" group-title="Filmes | Novidades",Gintama: Yoshiwara em Chamas
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301881.mp4
 #EXTINF:-1 tvg-name="Gintama: Yoshiwara em Chamas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sb41qo6yHw5GS2Tujd7H4NDP4ZH.jpg" group-title="Filmes | Lancamentos",Gintama: Yoshiwara em Chamas
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301881.mp4
-#EXTINF:-1 tvg-name="Mestre Bhagat Singh" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUBQZNZTUDxoSHjk5KG9BLB0Jlk.jpg" group-title="Filmes | Novidades",Mestre Bhagat Singh
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301882.mp4
 #EXTINF:-1 tvg-name="Mestre Bhagat Singh" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUBQZNZTUDxoSHjk5KG9BLB0Jlk.jpg" group-title="Filmes | Lancamentos",Mestre Bhagat Singh
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301882.mp4
-#EXTINF:-1 tvg-name="Ustad Bhagat Singh" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg" group-title="Filmes | Novidades",Ustad Bhagat Singh
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300926.mp4
 #EXTINF:-1 tvg-name="Ustad Bhagat Singh" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg" group-title="Filmes | Lancamentos",Ustad Bhagat Singh
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300926.mp4
-#EXTINF:-1 tvg-name="O Homem que Sussurra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg" group-title="Filmes | Novidades",O Homem que Sussurra
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300928.mp4
 #EXTINF:-1 tvg-name="O Homem que Sussurra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg" group-title="Filmes | Lancamentos",O Homem que Sussurra
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300928.mp4
-#EXTINF:-1 tvg-name="A Mulher Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg" group-title="Filmes | Novidades",A Mulher Secreta
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300929.mp4
 #EXTINF:-1 tvg-name="A Mulher Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg" group-title="Filmes | Lancamentos",A Mulher Secreta
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300929.mp4
-#EXTINF:-1 tvg-name="Rendel 2: Ciclo da Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im48m1dWTdSTYo7Ue8SxvfUd6iq.jpg" group-title="Filmes | Novidades",Rendel 2: Ciclo da Vingança
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300930.mp4
 #EXTINF:-1 tvg-name="Rendel 2: Ciclo da Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im48m1dWTdSTYo7Ue8SxvfUd6iq.jpg" group-title="Filmes | Acao",Rendel 2: Ciclo da Vingança
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300930.mp4
-#EXTINF:-1 tvg-name="O Rei da Internet" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XwnN6bGkJWY9SYGZslciMs7QTW.jpg" group-title="Filmes | Novidades",O Rei da Internet
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300931.mp4
 #EXTINF:-1 tvg-name="O Rei da Internet" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XwnN6bGkJWY9SYGZslciMs7QTW.jpg" group-title="Filmes | Lancamentos",O Rei da Internet
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300931.mp4
-#EXTINF:-1 tvg-name="Cidade Rabat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTWRFouxdOu7CWeSl9bRSY4wUay.jpg" group-title="Filmes | Novidades",Cidade Rabat
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300932.mp4
 #EXTINF:-1 tvg-name="Cidade Rabat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTWRFouxdOu7CWeSl9bRSY4wUay.jpg" group-title="Filmes | Drama",Cidade Rabat
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300932.mp4
-#EXTINF:-1 tvg-name="Acerto de Sangue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTB9PZ3Yax3KuHry3OHsN7oaktO.jpg" group-title="Filmes | Novidades",Acerto de Sangue
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300933.mp4
 #EXTINF:-1 tvg-name="Acerto de Sangue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTB9PZ3Yax3KuHry3OHsN7oaktO.jpg" group-title="Filmes | Crime",Acerto de Sangue
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300933.mp4
-#EXTINF:-1 tvg-name="Isto Não é um Teste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ps2jm2lacM2l2AHzSw2EUOoSON.jpg" group-title="Filmes | Novidades",Isto Não é um Teste
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300934.mp4
 #EXTINF:-1 tvg-name="Isto Não é um Teste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ps2jm2lacM2l2AHzSw2EUOoSON.jpg" group-title="Filmes | Lancamentos",Isto Não é um Teste
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300934.mp4
-#EXTINF:-1 tvg-name="The Mortuary Assistant" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mc3nj2DI1MZeFoAR08zSRDxezzf.jpg" group-title="Filmes | Novidades",The Mortuary Assistant
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300935.mp4
 #EXTINF:-1 tvg-name="The Mortuary Assistant" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mc3nj2DI1MZeFoAR08zSRDxezzf.jpg" group-title="Filmes | Lancamentos",The Mortuary Assistant
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300935.mp4
-#EXTINF:-1 tvg-name="O Convite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXLx87GoPrM1ofZyIdFJOaqCjKP.jpg" group-title="Filmes | Novidades",O Convite
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300936.mp4
 #EXTINF:-1 tvg-name="O Convite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXLx87GoPrM1ofZyIdFJOaqCjKP.jpg" group-title="Filmes | Lancamentos",O Convite
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300936.mp4
-#EXTINF:-1 tvg-name="Meu Nome é Enéas: Muito Além dos 15 Segundos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nz7DNjZ7wtsuxktqLHij6Af7x0M.jpg" group-title="Filmes | Novidades",Meu Nome é Enéas: Muito Além dos 15 Segundos
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300937.mp4
 #EXTINF:-1 tvg-name="Meu Nome é Enéas: Muito Além dos 15 Segundos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nz7DNjZ7wtsuxktqLHij6Af7x0M.jpg" group-title="Filmes | Lancamentos",Meu Nome é Enéas: Muito Além dos 15 Segundos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300937.mp4
-#EXTINF:-1 tvg-name="Ana Cecília" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m00WOXxwivew7lAB4PKeCAca951.jpg" group-title="Filmes | Novidades",Ana Cecília
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300938.mp4
 #EXTINF:-1 tvg-name="Ana Cecília" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m00WOXxwivew7lAB4PKeCAca951.jpg" group-title="Filmes | Drama",Ana Cecília
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300938.mp4
-#EXTINF:-1 tvg-name="Yellow Mirror: A Realidade Paralela de Homer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg" group-title="Filmes | Novidades",Yellow Mirror: A Realidade Paralela de Homer
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300939.mp4
 #EXTINF:-1 tvg-name="Yellow Mirror: A Realidade Paralela de Homer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg" group-title="Filmes | Lancamentos",Yellow Mirror: A Realidade Paralela de Homer
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300939.mp4
-#EXTINF:-1 tvg-name="Relatos de um Assassino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czgoPOZbgT03sCuRIjV6HkLwFUx.jpg" group-title="Filmes | Novidades",Relatos de um Assassino
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300940.mp4
 #EXTINF:-1 tvg-name="Relatos de um Assassino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czgoPOZbgT03sCuRIjV6HkLwFUx.jpg" group-title="Filmes | Drama",Relatos de um Assassino
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300940.mp4
 #EXTINF:-1 tvg-name="A Lista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLb9q09TBBEOgaxQRhOQtP17HT9.jpg" group-title="Filmes | Acao",A Lista
@@ -4615,350 +4353,180 @@ http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300406.mp4
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300073.mp4
 #EXTINF:-1 tvg-name="O Duende" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7OPiAEyp2arKrKnQPL3EByo74D.jpg" group-title="Filmes | Terror",O Duende
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300400.mp4
-#EXTINF:-1 tvg-name="A Morte do Demônio: Em Chamas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fteLdvfRnltfLjAEnsl5E3vImnW.jpg" group-title="Filmes | Novidades",A Morte do Demônio: Em Chamas
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300391.mp4
 #EXTINF:-1 tvg-name="A Morte do Demônio: Em Chamas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fteLdvfRnltfLjAEnsl5E3vImnW.jpg" group-title="Filmes | Lancamentos",A Morte do Demônio: Em Chamas
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300391.mp4
-#EXTINF:-1 tvg-name="O Último Nascer do Sol" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg" group-title="Filmes | Novidades",O Último Nascer do Sol
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300392.mp4
 #EXTINF:-1 tvg-name="O Último Nascer do Sol" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg" group-title="Filmes | Lancamentos",O Último Nascer do Sol
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300392.mp4
-#EXTINF:-1 tvg-name="Elis & Eu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D02TZJ2Tpnu3HNmFNZC7wPzxu8.jpg" group-title="Filmes | Novidades",Elis & Eu
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300393.mp4
 #EXTINF:-1 tvg-name="Elis & Eu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D02TZJ2Tpnu3HNmFNZC7wPzxu8.jpg" group-title="Filmes | Lancamentos",Elis & Eu
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300393.mp4
-#EXTINF:-1 tvg-name="Meu Amigo Dino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54rWYTW1kmAhv4aSLVE94nfXVuJ.jpg" group-title="Filmes | Novidades",Meu Amigo Dino
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300394.mp4
 #EXTINF:-1 tvg-name="Meu Amigo Dino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54rWYTW1kmAhv4aSLVE94nfXVuJ.jpg" group-title="Filmes | Ficcao e Fantasia",Meu Amigo Dino
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300394.mp4
-#EXTINF:-1 tvg-name="Meu Amigo Dino: Retorno ao Mundo Perdido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Uo2baDjwhkCW265GGrlMOW29y8.jpg" group-title="Filmes | Novidades",Meu Amigo Dino: Retorno ao Mundo Perdido
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300395.mp4
 #EXTINF:-1 tvg-name="Meu Amigo Dino: Retorno ao Mundo Perdido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Uo2baDjwhkCW265GGrlMOW29y8.jpg" group-title="Filmes | Ficcao e Fantasia",Meu Amigo Dino: Retorno ao Mundo Perdido
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300395.mp4
-#EXTINF:-1 tvg-name="Cara de Um, Focinho de Outro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftPFJBGbldoWiiPrmesW96zBzdH.jpg" group-title="Filmes | Novidades",Cara de Um, Focinho de Outro
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300055.mp4
 #EXTINF:-1 tvg-name="Cara de Um, Focinho de Outro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftPFJBGbldoWiiPrmesW96zBzdH.jpg" group-title="Filmes | Lancamentos",Cara de Um, Focinho de Outro
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300055.mp4
-#EXTINF:-1 tvg-name="Iracema" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pel0rDZJm0f52hcenAqgSrcWn9s.jpg" group-title="Filmes | Novidades",Iracema
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300063.mp4
 #EXTINF:-1 tvg-name="Iracema" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pel0rDZJm0f52hcenAqgSrcWn9s.jpg" group-title="Filmes | Terror",Iracema
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300063.mp4
-#EXTINF:-1 tvg-name="Voltei na Foto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dnHNzYDXouqR6IYzm9Tipyr5rf.jpg" group-title="Filmes | Novidades",Voltei na Foto
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300064.mp4
 #EXTINF:-1 tvg-name="Voltei na Foto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dnHNzYDXouqR6IYzm9Tipyr5rf.jpg" group-title="Filmes | Lancamentos",Voltei na Foto
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300064.mp4
-#EXTINF:-1 tvg-name="Diamante Negro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aPn0pXvkMoTzeNI6uw2KgvCEK3.jpg" group-title="Filmes | Novidades",Diamante Negro
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300065.mp4
 #EXTINF:-1 tvg-name="Diamante Negro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aPn0pXvkMoTzeNI6uw2KgvCEK3.jpg" group-title="Filmes | Acao",Diamante Negro
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300065.mp4
-#EXTINF:-1 tvg-name="Plantão Noturno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIpCUiVn0G8neLbWOtdkrAnYnA.jpg" group-title="Filmes | Novidades",Plantão Noturno
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300066.mp4
 #EXTINF:-1 tvg-name="Plantão Noturno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIpCUiVn0G8neLbWOtdkrAnYnA.jpg" group-title="Filmes | Terror",Plantão Noturno
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300066.mp4
-#EXTINF:-1 tvg-name="Lego Disney Princesa: Bagunça Mágica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNA3Ub2MsAvbyg1GlDrrUQI2Kru.jpg" group-title="Filmes | Novidades",Lego Disney Princesa: Bagunça Mágica
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300067.mp4
 #EXTINF:-1 tvg-name="Lego Disney Princesa: Bagunça Mágica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNA3Ub2MsAvbyg1GlDrrUQI2Kru.jpg" group-title="Filmes | Lancamentos",Lego Disney Princesa: Bagunça Mágica
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300067.mp4
-#EXTINF:-1 tvg-name="Amor, Romance, Casamento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFARF1GDM13XkOi4TpIHddbEbXK.jpg" group-title="Filmes | Novidades",Amor, Romance, Casamento
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300068.mp4
 #EXTINF:-1 tvg-name="Amor, Romance, Casamento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFARF1GDM13XkOi4TpIHddbEbXK.jpg" group-title="Filmes | Lancamentos",Amor, Romance, Casamento
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300068.mp4
-#EXTINF:-1 tvg-name="La Captura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JL52sl5g11JwNAqC6APVqNyNha.jpg" group-title="Filmes | Novidades",La Captura
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300069.mp4
 #EXTINF:-1 tvg-name="La Captura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JL52sl5g11JwNAqC6APVqNyNha.jpg" group-title="Filmes | Lancamentos",La Captura
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300069.mp4
-#EXTINF:-1 tvg-name="Possuída no Deserto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/id3E7PwXH073DrnruuH8Eec9fo9.jpg" group-title="Filmes | Novidades",Possuída no Deserto
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300070.mp4
 #EXTINF:-1 tvg-name="Possuída no Deserto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/id3E7PwXH073DrnruuH8Eec9fo9.jpg" group-title="Filmes | Faroeste",Possuída no Deserto
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300070.mp4
-#EXTINF:-1 tvg-name="A Solidão dos Lagartos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biSqWLYrgrsjmVPN55C0fK5wos4.jpg" group-title="Filmes | Novidades",A Solidão dos Lagartos
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300071.mp4
 #EXTINF:-1 tvg-name="A Solidão dos Lagartos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biSqWLYrgrsjmVPN55C0fK5wos4.jpg" group-title="Filmes | Drama",A Solidão dos Lagartos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300071.mp4
-#EXTINF:-1 tvg-name="De Volta Aos Anos 90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKgzdwNqFPKJNcibY37klP6ySqE.jpg" group-title="Filmes | Novidades",De Volta Aos Anos 90
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300072.mp4
 #EXTINF:-1 tvg-name="De Volta Aos Anos 90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKgzdwNqFPKJNcibY37klP6ySqE.jpg" group-title="Filmes | Lancamentos",De Volta Aos Anos 90
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300072.mp4
-#EXTINF:-1 tvg-name="Quem é seu Pai?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8oqxldyiCBdotYwtkU8IILgfZM.jpg" group-title="Filmes | Novidades",Quem é seu Pai?
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299970.mp4
 #EXTINF:-1 tvg-name="Quem é seu Pai?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8oqxldyiCBdotYwtkU8IILgfZM.jpg" group-title="Filmes | Comedia",Quem é seu Pai?
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299970.mp4
-#EXTINF:-1 tvg-name="Beijar é Fácil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kuUHuFiCIXGdZUfrFobiYulycU.jpg" group-title="Filmes | Novidades",Beijar é Fácil
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299971.mp4
 #EXTINF:-1 tvg-name="Beijar é Fácil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kuUHuFiCIXGdZUfrFobiYulycU.jpg" group-title="Filmes | Lancamentos",Beijar é Fácil
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299971.mp4
-#EXTINF:-1 tvg-name="Desaparecida e Esquecida: O Caso Chompoo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1F0ZkDmiVq31SFj2YnTINGVLUoz.jpg" group-title="Filmes | Novidades",Desaparecida e Esquecida: O Caso Chompoo
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299972.mp4
 #EXTINF:-1 tvg-name="Desaparecida e Esquecida: O Caso Chompoo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1F0ZkDmiVq31SFj2YnTINGVLUoz.jpg" group-title="Filmes | Lancamentos",Desaparecida e Esquecida: O Caso Chompoo
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299972.mp4
-#EXTINF:-1 tvg-name="Forjando Campeões 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujQLhp17eOpz9UsadZaogTuC1bd.jpg" group-title="Filmes | Novidades",Forjando Campeões 2
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299973.mp4
 #EXTINF:-1 tvg-name="Forjando Campeões 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujQLhp17eOpz9UsadZaogTuC1bd.jpg" group-title="Filmes | Comedia",Forjando Campeões 2
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299973.mp4
-#EXTINF:-1 tvg-name="O Filho da Escuridão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40156uwnmuDxVcmUXHq6tZxqteI.jpg" group-title="Filmes | Novidades",O Filho da Escuridão
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299974.mp4
 #EXTINF:-1 tvg-name="O Filho da Escuridão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40156uwnmuDxVcmUXHq6tZxqteI.jpg" group-title="Filmes | Lancamentos",O Filho da Escuridão
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299974.mp4
-#EXTINF:-1 tvg-name="Queda Livre: As Consequências do Caso Boeing" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4xTdrb3mCRFcv6iIKyyySLGD75.jpg" group-title="Filmes | Novidades",Queda Livre: As Consequências do Caso Boeing
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299975.mp4
 #EXTINF:-1 tvg-name="Queda Livre: As Consequências do Caso Boeing" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4xTdrb3mCRFcv6iIKyyySLGD75.jpg" group-title="Filmes | Lancamentos",Queda Livre: As Consequências do Caso Boeing
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299975.mp4
-#EXTINF:-1 tvg-name="Psycho Killer: Em Busca do Assassino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6sBLrsepqINbIpxH790DU6jdjP.jpg" group-title="Filmes | Novidades",Psycho Killer: Em Busca do Assassino
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299709.mp4
 #EXTINF:-1 tvg-name="Psycho Killer: Em Busca do Assassino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6sBLrsepqINbIpxH790DU6jdjP.jpg" group-title="Filmes | Lancamentos",Psycho Killer: Em Busca do Assassino
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299709.mp4
-#EXTINF:-1 tvg-name="Quinze Dias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg" group-title="Filmes | Novidades",Quinze Dias
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299711.mp4
 #EXTINF:-1 tvg-name="Quinze Dias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg" group-title="Filmes | Lancamentos",Quinze Dias
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299711.mp4
-#EXTINF:-1 tvg-name="Café, Pépi e Limão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lY5FB28guL8lgWEsd6DXNNqdcwK.jpg" group-title="Filmes | Novidades",Café, Pépi e Limão
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299712.mp4
 #EXTINF:-1 tvg-name="Café, Pépi e Limão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lY5FB28guL8lgWEsd6DXNNqdcwK.jpg" group-title="Filmes | Lancamentos",Café, Pépi e Limão
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299712.mp4
-#EXTINF:-1 tvg-name="A Vingança de Nina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUK3NL7Eb685dsvjIboxlm6FCkN.jpg" group-title="Filmes | Novidades",A Vingança de Nina
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299713.mp4
 #EXTINF:-1 tvg-name="A Vingança de Nina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUK3NL7Eb685dsvjIboxlm6FCkN.jpg" group-title="Filmes | Drama",A Vingança de Nina
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299713.mp4
-#EXTINF:-1 tvg-name="Tatame" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9SUL6wPDGfjX6cCBal0SmUcT47.jpg" group-title="Filmes | Novidades",Tatame
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299714.mp4
 #EXTINF:-1 tvg-name="Tatame" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9SUL6wPDGfjX6cCBal0SmUcT47.jpg" group-title="Filmes | Drama",Tatame
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299714.mp4
-#EXTINF:-1 tvg-name="O Céu Não Sabe Meu Nome" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNaYcuFw1RbMNvv3yB2R5rTuPj8.jpg" group-title="Filmes | Novidades",O Céu Não Sabe Meu Nome
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299715.mp4
 #EXTINF:-1 tvg-name="O Céu Não Sabe Meu Nome" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNaYcuFw1RbMNvv3yB2R5rTuPj8.jpg" group-title="Filmes | Drama",O Céu Não Sabe Meu Nome
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299715.mp4
-#EXTINF:-1 tvg-name="Os Segredos da Alimentação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUCgAF6P0lfSU9Q2VqVErXVowOf.jpg" group-title="Filmes | Novidades",Os Segredos da Alimentação
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299716.mp4
 #EXTINF:-1 tvg-name="Os Segredos da Alimentação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUCgAF6P0lfSU9Q2VqVErXVowOf.jpg" group-title="Filmes | Documentarios",Os Segredos da Alimentação
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299716.mp4
-#EXTINF:-1 tvg-name="Minions e Monstros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTowtXrkCY7FJyoj4p91JckrJSE.jpg" group-title="Filmes | Novidades",Minions e Monstros
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299699.mp4
 #EXTINF:-1 tvg-name="Minions e Monstros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTowtXrkCY7FJyoj4p91JckrJSE.jpg" group-title="Filmes | Lancamentos",Minions e Monstros
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299699.mp4
-#EXTINF:-1 tvg-name="O Exterminador de Seitas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZnx4jO0hzM528k4RCEniVJa8Uj.jpg" group-title="Filmes | Novidades",O Exterminador de Seitas
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299585.mp4
 #EXTINF:-1 tvg-name="O Exterminador de Seitas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZnx4jO0hzM528k4RCEniVJa8Uj.jpg" group-title="Filmes | Acao",O Exterminador de Seitas
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299585.mp4
-#EXTINF:-1 tvg-name="Não Deseje Boa Sorte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6cwkNbPIOdjvFwm7XZTI2EZhZu.jpg" group-title="Filmes | Novidades",Não Deseje Boa Sorte
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299586.mp4
 #EXTINF:-1 tvg-name="Não Deseje Boa Sorte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6cwkNbPIOdjvFwm7XZTI2EZhZu.jpg" group-title="Filmes | Lancamentos",Não Deseje Boa Sorte
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299586.mp4
-#EXTINF:-1 tvg-name="Feras no Limite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9kLAZDpvjKCkaESrRhpfuuWAQP.jpg" group-title="Filmes | Novidades",Feras no Limite
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299587.mp4
 #EXTINF:-1 tvg-name="Feras no Limite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9kLAZDpvjKCkaESrRhpfuuWAQP.jpg" group-title="Filmes | Lancamentos",Feras no Limite
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299587.mp4
-#EXTINF:-1 tvg-name="Meu Melhor Amigo, sua Namorada e Eu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyTqoS4eXC5vf3g61CuoxIr6Tyn.jpg" group-title="Filmes | Novidades",Meu Melhor Amigo, sua Namorada e Eu
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299588.mp4
 #EXTINF:-1 tvg-name="Meu Melhor Amigo, sua Namorada e Eu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyTqoS4eXC5vf3g61CuoxIr6Tyn.jpg" group-title="Filmes | Lancamentos",Meu Melhor Amigo, sua Namorada e Eu
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299588.mp4
-#EXTINF:-1 tvg-name="Asa Branca: A Voz da Arena" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaqnuVEqWNziEVcTX55hvU213Ch.jpg" group-title="Filmes | Novidades",Asa Branca: A Voz da Arena
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299589.mp4
 #EXTINF:-1 tvg-name="Asa Branca: A Voz da Arena" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaqnuVEqWNziEVcTX55hvU213Ch.jpg" group-title="Filmes | Lancamentos",Asa Branca: A Voz da Arena
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299589.mp4
-#EXTINF:-1 tvg-name="A Estação do Terror" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUgfk88uIvUMCMLQVybKX2N58pj.jpg" group-title="Filmes | Novidades",A Estação do Terror
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299590.mp4
 #EXTINF:-1 tvg-name="A Estação do Terror" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUgfk88uIvUMCMLQVybKX2N58pj.jpg" group-title="Filmes | Lancamentos",A Estação do Terror
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299590.mp4
-#EXTINF:-1 tvg-name="A Primeira Ministra - A História De Jacinda Ardern" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gKknFHT6mUpT5R8axbWAnZwJnB.jpg" group-title="Filmes | Novidades",A Primeira Ministra - A História De Jacinda Ardern
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299591.mp4
 #EXTINF:-1 tvg-name="A Primeira Ministra - A História De Jacinda Ardern" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gKknFHT6mUpT5R8axbWAnZwJnB.jpg" group-title="Filmes | Lancamentos",A Primeira Ministra - A História De Jacinda Ardern
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299591.mp4
-#EXTINF:-1 tvg-name="Presos em um Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cHcvKPWay62YPDXTqmB17C2Cvt.jpg" group-title="Filmes | Novidades",Presos em um Crime
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299592.mp4
 #EXTINF:-1 tvg-name="Presos em um Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cHcvKPWay62YPDXTqmB17C2Cvt.jpg" group-title="Filmes | Lancamentos",Presos em um Crime
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299592.mp4
-#EXTINF:-1 tvg-name="O Que Fica por Dizer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgr46OnroBUZLE1nGtJV6awB5Mv.jpg" group-title="Filmes | Novidades",O Que Fica por Dizer
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299593.mp4
 #EXTINF:-1 tvg-name="O Que Fica por Dizer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgr46OnroBUZLE1nGtJV6awB5Mv.jpg" group-title="Filmes | Lancamentos",O Que Fica por Dizer
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299593.mp4
-#EXTINF:-1 tvg-name="Leo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg" group-title="Filmes | Novidades",Leo
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299584.mp4
 #EXTINF:-1 tvg-name="Leo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg" group-title="Filmes | Animacao",Leo
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299584.mp4
-#EXTINF:-1 tvg-name="Projeto Harmony" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/intukgeK5NgPScg0GgjmKODbdr2.jpg" group-title="Filmes | Novidades",Projeto Harmony
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299578.mp4
 #EXTINF:-1 tvg-name="Projeto Harmony" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/intukgeK5NgPScg0GgjmKODbdr2.jpg" group-title="Filmes | Acao",Projeto Harmony
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299578.mp4
-#EXTINF:-1 tvg-name="Veteranos de Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Vs6Ke0ubn5MwI1JhGhukofDvyv.jpg" group-title="Filmes | Novidades",Veteranos de Guerra
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299579.mp4
 #EXTINF:-1 tvg-name="Veteranos de Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Vs6Ke0ubn5MwI1JhGhukofDvyv.jpg" group-title="Filmes | Guerra",Veteranos de Guerra
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299579.mp4
-#EXTINF:-1 tvg-name="Engajamento Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCLBCmOP8cfyqtU3F6X34I6uiVP.jpg" group-title="Filmes | Novidades",Engajamento Mortal
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299580.mp4
 #EXTINF:-1 tvg-name="Engajamento Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCLBCmOP8cfyqtU3F6X34I6uiVP.jpg" group-title="Filmes | Terror",Engajamento Mortal
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299580.mp4
-#EXTINF:-1 tvg-name="Dick Dinamite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z41VJsK2vpMjbryG5u5rjJsD9bQ.jpg" group-title="Filmes | Novidades",Dick Dinamite
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299581.mp4
 #EXTINF:-1 tvg-name="Dick Dinamite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z41VJsK2vpMjbryG5u5rjJsD9bQ.jpg" group-title="Filmes | Acao",Dick Dinamite
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299581.mp4
-#EXTINF:-1 tvg-name="Encontro Macabro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mab0O6nM3vgPi9XEbxNMn5Ey9h7.jpg" group-title="Filmes | Novidades",Encontro Macabro
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299582.mp4
 #EXTINF:-1 tvg-name="Encontro Macabro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mab0O6nM3vgPi9XEbxNMn5Ey9h7.jpg" group-title="Filmes | Terror",Encontro Macabro
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299582.mp4
-#EXTINF:-1 tvg-name="Mutação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ8EN7Vr8h7u1j19RdxIwp1JV45.jpg" group-title="Filmes | Novidades",Mutação
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299583.mp4
 #EXTINF:-1 tvg-name="Mutação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ8EN7Vr8h7u1j19RdxIwp1JV45.jpg" group-title="Filmes | Terror",Mutação
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299583.mp4
-#EXTINF:-1 tvg-name="Camp Rock 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg" group-title="Filmes | Novidades",Camp Rock 3
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299572.mp4
 #EXTINF:-1 tvg-name="Camp Rock 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg" group-title="Filmes | Lancamentos",Camp Rock 3
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299572.mp4
-#EXTINF:-1 tvg-name="Balística" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z96HiPvKX9ONbwHfKnnb3j9jp91.jpg" group-title="Filmes | Novidades",Balística
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299570.mp4
 #EXTINF:-1 tvg-name="Balística" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z96HiPvKX9ONbwHfKnnb3j9jp91.jpg" group-title="Filmes | Lancamentos",Balística
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299570.mp4
-#EXTINF:-1 tvg-name="O Parque" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7uaMTKGe1WbK0n7rcmcftbK23e.jpg" group-title="Filmes | Novidades",O Parque
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299571.mp4
 #EXTINF:-1 tvg-name="O Parque" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7uaMTKGe1WbK0n7rcmcftbK23e.jpg" group-title="Filmes | Acao",O Parque
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299571.mp4
-#EXTINF:-1 tvg-name="Ilha do Renascimento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubzMoVPMJyLvaRm1NxxlsayIfat.jpg" group-title="Filmes | Novidades",Ilha do Renascimento
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299573.mp4
 #EXTINF:-1 tvg-name="Ilha do Renascimento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubzMoVPMJyLvaRm1NxxlsayIfat.jpg" group-title="Filmes | Acao",Ilha do Renascimento
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299573.mp4
-#EXTINF:-1 tvg-name="Refúgio Macabro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhdzJv9R8uzExnnc3iPWuxjhlZi.jpg" group-title="Filmes | Novidades",Refúgio Macabro
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299574.mp4
 #EXTINF:-1 tvg-name="Refúgio Macabro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhdzJv9R8uzExnnc3iPWuxjhlZi.jpg" group-title="Filmes | Terror",Refúgio Macabro
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299574.mp4
-#EXTINF:-1 tvg-name="Luta Satânica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZe5gBct2i9JIAUlJNvQ099gpaK.jpg" group-title="Filmes | Novidades",Luta Satânica
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299575.mp4
 #EXTINF:-1 tvg-name="Luta Satânica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZe5gBct2i9JIAUlJNvQ099gpaK.jpg" group-title="Filmes | Acao",Luta Satânica
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299575.mp4
-#EXTINF:-1 tvg-name="Sentença de Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umXOSmakM7OINHh2kJFLaLFKb55.jpg" group-title="Filmes | Novidades",Sentença de Morte
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299576.mp4
 #EXTINF:-1 tvg-name="Sentença de Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umXOSmakM7OINHh2kJFLaLFKb55.jpg" group-title="Filmes | Ficcao e Fantasia",Sentença de Morte
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299576.mp4
-#EXTINF:-1 tvg-name="Ponte dos Condenados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP6OdvuKb9gNfkndXnrva5SxaiJ.jpg" group-title="Filmes | Novidades",Ponte dos Condenados
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299577.mp4
 #EXTINF:-1 tvg-name="Ponte dos Condenados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP6OdvuKb9gNfkndXnrva5SxaiJ.jpg" group-title="Filmes | Terror",Ponte dos Condenados
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299577.mp4
-#EXTINF:-1 tvg-name="O Destino de Layla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E36c1FffP7ZcLFKehekQrwmbAF.jpg" group-title="Filmes | Novidades",O Destino de Layla
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299445.mp4
 #EXTINF:-1 tvg-name="O Destino de Layla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E36c1FffP7ZcLFKehekQrwmbAF.jpg" group-title="Filmes | Drama",O Destino de Layla
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299445.mp4
-#EXTINF:-1 tvg-name="Renato Albani: Zona de Conforto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aiWj3jP11EaRI8PU31dLD2yOm7.jpg" group-title="Filmes | Novidades",Renato Albani: Zona de Conforto
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299446.mp4
 #EXTINF:-1 tvg-name="Renato Albani: Zona de Conforto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aiWj3jP11EaRI8PU31dLD2yOm7.jpg" group-title="Filmes | Lancamentos",Renato Albani: Zona de Conforto
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299446.mp4
-#EXTINF:-1 tvg-name="O Afinador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bq21NGxKqV6DgHfm5j48mscM7Ai.jpg" group-title="Filmes | Novidades",O Afinador
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299524.mp4
 #EXTINF:-1 tvg-name="O Afinador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bq21NGxKqV6DgHfm5j48mscM7Ai.jpg" group-title="Filmes | Lancamentos",O Afinador
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299524.mp4
-#EXTINF:-1 tvg-name="O Último Grande Assalto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIXLAdoyuNR8vhoOcei8FQePnzK.jpg" group-title="Filmes | Novidades",O Último Grande Assalto
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299525.mp4
 #EXTINF:-1 tvg-name="O Último Grande Assalto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIXLAdoyuNR8vhoOcei8FQePnzK.jpg" group-title="Filmes | Lancamentos",O Último Grande Assalto
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299525.mp4
-#EXTINF:-1 tvg-name="Segredo Obscuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzKHILuJULDUjDOmPfPZ9gPAcED.jpg" group-title="Filmes | Novidades",Segredo Obscuro
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299526.mp4
 #EXTINF:-1 tvg-name="Segredo Obscuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzKHILuJULDUjDOmPfPZ9gPAcED.jpg" group-title="Filmes | Lancamentos",Segredo Obscuro
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299526.mp4
-#EXTINF:-1 tvg-name="O Sol Nasce Para Todos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5hiqvH4lqSU4m83wkqGTiMvXpX.jpg" group-title="Filmes | Novidades",O Sol Nasce Para Todos
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299527.mp4
 #EXTINF:-1 tvg-name="O Sol Nasce Para Todos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5hiqvH4lqSU4m83wkqGTiMvXpX.jpg" group-title="Filmes | Lancamentos",O Sol Nasce Para Todos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299527.mp4
-#EXTINF:-1 tvg-name="O Que Fica por Dizer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgr46OnroBUZLE1nGtJV6awB5Mv.jpg" group-title="Filmes | Novidades",O Que Fica por Dizer
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299528.mp4
 #EXTINF:-1 tvg-name="O Que Fica por Dizer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgr46OnroBUZLE1nGtJV6awB5Mv.jpg" group-title="Filmes | Lancamentos",O Que Fica por Dizer
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299528.mp4
-#EXTINF:-1 tvg-name="A Maldição do Tubarão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dnJvqZ2e2C2MxfBlq0E9FjKPsY.jpg" group-title="Filmes | Novidades",A Maldição do Tubarão
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299529.mp4
 #EXTINF:-1 tvg-name="A Maldição do Tubarão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dnJvqZ2e2C2MxfBlq0E9FjKPsY.jpg" group-title="Filmes | Lancamentos",A Maldição do Tubarão
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299529.mp4
-#EXTINF:-1 tvg-name="Nando Entre Dois Mundos: Um Filme Sintonia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwnqhUeXO1vRgXH9zgyeeihpxqo.jpg" group-title="Filmes | Novidades",Nando Entre Dois Mundos: Um Filme Sintonia
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299441.mp4
 #EXTINF:-1 tvg-name="Nando Entre Dois Mundos: Um Filme Sintonia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwnqhUeXO1vRgXH9zgyeeihpxqo.jpg" group-title="Filmes | Lancamentos",Nando Entre Dois Mundos: Um Filme Sintonia
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299441.mp4
-#EXTINF:-1 tvg-name="Máfia de Mumbai: Polícia Contra o Crime Organizado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg" group-title="Filmes | Novidades",Máfia de Mumbai: Polícia Contra o Crime Organizado
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299378.mp4
 #EXTINF:-1 tvg-name="Máfia de Mumbai: Polícia Contra o Crime Organizado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg" group-title="Filmes | Documentarios",Máfia de Mumbai: Polícia Contra o Crime Organizado
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299378.mp4
-#EXTINF:-1 tvg-name="George Washington" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgi2dObKLcSeUeFIT2Gw3U6Ed9d.jpg" group-title="Filmes | Novidades",George Washington
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299379.mp4
 #EXTINF:-1 tvg-name="George Washington" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgi2dObKLcSeUeFIT2Gw3U6Ed9d.jpg" group-title="Filmes | Lancamentos",George Washington
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299379.mp4
-#EXTINF:-1 tvg-name="Trago Seu Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9GLwJEFcGAmMpdUPwALK2K7zTs.jpg" group-title="Filmes | Novidades",Trago Seu Amor
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299380.mp4
 #EXTINF:-1 tvg-name="Trago Seu Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9GLwJEFcGAmMpdUPwALK2K7zTs.jpg" group-title="Filmes | Lancamentos",Trago Seu Amor
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299380.mp4
-#EXTINF:-1 tvg-name="O Aspirante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KCWdkH58qfb748jGrVEygW9zMu.jpg" group-title="Filmes | Novidades",O Aspirante
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299381.mp4
 #EXTINF:-1 tvg-name="O Aspirante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KCWdkH58qfb748jGrVEygW9zMu.jpg" group-title="Filmes | Drama",O Aspirante
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299381.mp4
-#EXTINF:-1 tvg-name="Jackass: O Último é o Melhor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU9949BZVMUmZtiEiJyN76bFaLA.jpg" group-title="Filmes | Novidades",Jackass: O Último é o Melhor
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299097.mp4
 #EXTINF:-1 tvg-name="Jackass: O Último é o Melhor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU9949BZVMUmZtiEiJyN76bFaLA.jpg" group-title="Filmes | Lancamentos",Jackass: O Último é o Melhor
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299097.mp4
-#EXTINF:-1 tvg-name="A Heroína da Fita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLjm1n06TuQnwT0XJp9YcvIMq44.jpg" group-title="Filmes | Novidades",A Heroína da Fita
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299098.mp4
 #EXTINF:-1 tvg-name="A Heroína da Fita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLjm1n06TuQnwT0XJp9YcvIMq44.jpg" group-title="Filmes | Lancamentos",A Heroína da Fita
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299098.mp4
 #EXTINF:-1 tvg-name="Uma Lição de Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Pwx0E2xQAko1xmd8P9TKrzCnNk.jpg" group-title="Filmes | Drama",Uma Lição de Amor
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298328.mp4
-#EXTINF:-1 tvg-name="Muito Além do Lucro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3FmuAmjqkYGAKpNvUr38Yn1AQo.jpg" group-title="Filmes | Novidades",Muito Além do Lucro
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299018.mp4
 #EXTINF:-1 tvg-name="Muito Além do Lucro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3FmuAmjqkYGAKpNvUr38Yn1AQo.jpg" group-title="Filmes | Lancamentos",Muito Além do Lucro
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299018.mp4
-#EXTINF:-1 tvg-name="Lapua 1976" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1cQn3n7aPGsWbuoBlBfCxI772Z.jpg" group-title="Filmes | Novidades",Lapua 1976
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299019.mp4
 #EXTINF:-1 tvg-name="Lapua 1976" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1cQn3n7aPGsWbuoBlBfCxI772Z.jpg" group-title="Filmes | Drama",Lapua 1976
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299019.mp4
-#EXTINF:-1 tvg-name="A Última Casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSkzGimU25ncdKuMW1s1h4QsCbF.jpg" group-title="Filmes | Novidades",A Última Casa
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299020.mp4
 #EXTINF:-1 tvg-name="A Última Casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSkzGimU25ncdKuMW1s1h4QsCbF.jpg" group-title="Filmes | Lancamentos",A Última Casa
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299020.mp4
-#EXTINF:-1 tvg-name="Vida Privada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMObSFdPA5Y9gDysis7X2JVxIA5.jpg" group-title="Filmes | Novidades",Vida Privada
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299021.mp4
 #EXTINF:-1 tvg-name="Vida Privada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMObSFdPA5Y9gDysis7X2JVxIA5.jpg" group-title="Filmes | Lancamentos",Vida Privada
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299021.mp4
-#EXTINF:-1 tvg-name="Operação: Raqqa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22q38ZRTvjry2XjMBUBYXL6ZkSc.jpg" group-title="Filmes | Novidades",Operação: Raqqa
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299022.mp4
 #EXTINF:-1 tvg-name="Operação: Raqqa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22q38ZRTvjry2XjMBUBYXL6ZkSc.jpg" group-title="Filmes | Guerra",Operação: Raqqa
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299022.mp4
-#EXTINF:-1 tvg-name="Corrida dos Bichos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bzIygGnua4tlLo7qTyMSUsME3d.jpg" group-title="Filmes | Novidades",Corrida dos Bichos
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299023.mp4
 #EXTINF:-1 tvg-name="Corrida dos Bichos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bzIygGnua4tlLo7qTyMSUsME3d.jpg" group-title="Filmes | Lancamentos",Corrida dos Bichos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299023.mp4
-#EXTINF:-1 tvg-name="O Poder do Rosário" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4ijzBon0y4woXqHeCaHyNFIvHp.jpg" group-title="Filmes | Novidades",O Poder do Rosário
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299024.mp4
 #EXTINF:-1 tvg-name="O Poder do Rosário" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4ijzBon0y4woXqHeCaHyNFIvHp.jpg" group-title="Filmes | Lancamentos",O Poder do Rosário
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299024.mp4
-#EXTINF:-1 tvg-name="Hungria: A Escolha de um Sonho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg" group-title="Filmes | Novidades",Hungria: A Escolha de um Sonho
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299025.mp4
 #EXTINF:-1 tvg-name="Hungria: A Escolha de um Sonho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg" group-title="Filmes | Lancamentos",Hungria: A Escolha de um Sonho
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299025.mp4
-#EXTINF:-1 tvg-name="Apreensão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrULF6tc5ky5K5aLlNkxph8DVcB.jpg" group-title="Filmes | Novidades",Apreensão
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299026.mp4
 #EXTINF:-1 tvg-name="Apreensão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrULF6tc5ky5K5aLlNkxph8DVcB.jpg" group-title="Filmes | Lancamentos",Apreensão
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299026.mp4
 #EXTINF:-1 tvg-name="Sob a Pele" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJUqpXNitgPr8rrLBmlPfms3CSo.jpg" group-title="Filmes | Ficcao e Fantasia",Sob a Pele
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298769.mp4
 #EXTINF:-1 tvg-name="Robin Hood: A Origem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGkgDTOfgiXUIWC52tjFUZnzrWZ.jpg" group-title="Filmes | Aventuras",Robin Hood: A Origem
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298770.mp4
-#EXTINF:-1 tvg-name="Operação Sombra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKIrEUGazQ8w7AtqvohL8HzWGMb.jpg" group-title="Filmes | Novidades",Operação Sombra
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298869.mp4
 #EXTINF:-1 tvg-name="Operação Sombra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKIrEUGazQ8w7AtqvohL8HzWGMb.jpg" group-title="Filmes | Lancamentos",Operação Sombra
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298869.mp4
-#EXTINF:-1 tvg-name="Não Identificada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQ86EVv7eshFXktC5DFSKuT6K5v.jpg" group-title="Filmes | Novidades",Não Identificada
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298870.mp4
 #EXTINF:-1 tvg-name="Não Identificada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQ86EVv7eshFXktC5DFSKuT6K5v.jpg" group-title="Filmes | Lancamentos",Não Identificada
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298870.mp4
-#EXTINF:-1 tvg-name="Bom Garoto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0oeubuAQBV2RoXBSITSri5Amc3.jpg" group-title="Filmes | Novidades",Bom Garoto
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298871.mp4
 #EXTINF:-1 tvg-name="Bom Garoto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0oeubuAQBV2RoXBSITSri5Amc3.jpg" group-title="Filmes | Lancamentos",Bom Garoto
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298871.mp4
-#EXTINF:-1 tvg-name="Missão Majnu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNdWr0cLitHBjwsvj9w6r3D9HLm.jpg" group-title="Filmes | Novidades",Missão Majnu
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298872.mp4
 #EXTINF:-1 tvg-name="Missão Majnu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNdWr0cLitHBjwsvj9w6r3D9HLm.jpg" group-title="Filmes | Acao",Missão Majnu
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298872.mp4
-#EXTINF:-1 tvg-name="Trustor: Por Dentro do Escândalo Financeiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6NAnjrGV7BGrEIqpglQYshFHq9.jpg" group-title="Filmes | Novidades",Trustor: Por Dentro do Escândalo Financeiro
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298873.mp4
 #EXTINF:-1 tvg-name="Trustor: Por Dentro do Escândalo Financeiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6NAnjrGV7BGrEIqpglQYshFHq9.jpg" group-title="Filmes | Lancamentos",Trustor: Por Dentro do Escândalo Financeiro
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298873.mp4
-#EXTINF:-1 tvg-name="Frango: A Conspiração do Fast-Food" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZvfPX0FrUONMfYEaKZo1sXo4Js.jpg" group-title="Filmes | Novidades",Frango: A Conspiração do Fast-Food
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298874.mp4
 #EXTINF:-1 tvg-name="Frango: A Conspiração do Fast-Food" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZvfPX0FrUONMfYEaKZo1sXo4Js.jpg" group-title="Filmes | Lancamentos",Frango: A Conspiração do Fast-Food
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298874.mp4
-#EXTINF:-1 tvg-name="1968 - Um Ano Na Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2YDyCQqteWTGcqBcUGuaIXWAP.jpg" group-title="Filmes | Novidades",1968 - Um Ano Na Vida
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298875.mp4
 #EXTINF:-1 tvg-name="1968 - Um Ano Na Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2YDyCQqteWTGcqBcUGuaIXWAP.jpg" group-title="Filmes | Documentarios",1968 - Um Ano Na Vida
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2298875.mp4
 #EXTINF:-1 tvg-name="Authentic Games: No Império Desconectado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUwFOvlTyLQzagVcOs1EonMYCwj.jpg" group-title="Filmes | Lancamentos",Authentic Games: No Império Desconectado
@@ -5007,10 +4575,6 @@ http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2297087.mp4
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2297088.mp4
 #EXTINF:-1 tvg-name="Do Outro Lado do Pavilhão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtDYQbecaDKrng7DmhZQRxGGKmd.jpg" group-title="Filmes | Lancamentos",Do Outro Lado do Pavilhão
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2297089.mp4
-#EXTINF:-1 tvg-name="A Odisseia [Cinema]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg" group-title="Filmes | Cinema",A Odisseia [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2296499.mp4
-#EXTINF:-1 tvg-name="Motor City [Cinema]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGovcOtxugJPhfJjFKud9EbWtOA.jpg" group-title="Filmes | Cinema",Motor City [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2296500.mp4
 #EXTINF:-1 tvg-name="Supergirl" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg" group-title="Filmes | Lancamentos",Supergirl
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2296488.mp4
 #EXTINF:-1 tvg-name="Avatar Aang: O Último Mestre do Ar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0jCyR6FTvp6ULcPokfoXvV1t3O.jpg" group-title="Filmes | Lancamentos",Avatar Aang: O Último Mestre do Ar
@@ -5035,8 +4599,6 @@ http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2295987.mp4
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2295988.mp4
 #EXTINF:-1 tvg-name="72 Horas em Miami" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLSogm0b4KokW3qLKEjZ6JwyCJ0.jpg" group-title="Filmes | Lancamentos",72 Horas em Miami
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2295989.mp4
-#EXTINF:-1 tvg-name="Moana [Cinema]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUkilgOKAGjw9c7OsRPLa392MOw.jpg" group-title="Filmes | Cinema",Moana [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2295955.mp4
 #EXTINF:-1 tvg-name="Mestres do Universo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atpb7NKSyM4bJSUY8vQTunzK4Na.jpg" group-title="Filmes | Lancamentos",Mestres do Universo
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2295953.mp4
 #EXTINF:-1 tvg-name="A Revolução dos Bichos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2svEVdHI5QfmeXAbuPye5l6y0I.jpg" group-title="Filmes | Lancamentos",A Revolução dos Bichos
@@ -5209,8 +4771,6 @@ http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2294352.mp4
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2294353.mp4
 #EXTINF:-1 tvg-name="A Sociedade dos Assassinos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97dQxVBqcWmvZNVtriLP2n5YCsN.jpg" group-title="Filmes | Lancamentos",A Sociedade dos Assassinos
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2294354.mp4
-#EXTINF:-1 tvg-name="Minions e Monstros [Cinema]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTowtXrkCY7FJyoj4p91JckrJSE.jpg" group-title="Filmes | Cinema",Minions e Monstros [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2294355.mp4
 #EXTINF:-1 tvg-name="O Advogado de Deus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cznm4sLHV1bKqUNhiLvfItifnLG.jpg" group-title="Filmes | Lancamentos",O Advogado de Deus
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2294264.mp4
 #EXTINF:-1 tvg-name="Anjos da Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbYQM3LVXHFjdRcw4thB0SszV0X.jpg" group-title="Filmes | Lancamentos",Anjos da Guerra
@@ -5289,8 +4849,6 @@ http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2293150.mp4
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2293143.mp4
 #EXTINF:-1 tvg-name="O Velho Fusca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5b0YXx6fRlvj88SKcwLLS92595.jpg" group-title="Filmes | Lancamentos",O Velho Fusca
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2293083.mp4
-#EXTINF:-1 tvg-name="The Furious [Cinema]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg" group-title="Filmes | Cinema",The Furious [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2293086.mp4
 #EXTINF:-1 tvg-name="Sob o Código da Honra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2kJM9KPzOSBEYj0ZezIlCmOqMm.jpg" group-title="Filmes | Lancamentos",Sob o Código da Honra
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2293000.mp4
 #EXTINF:-1 tvg-name="Down: O Elevador da Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXr4fuU66RVFCevyrHaRspyCAYe.jpg" group-title="Filmes | Lancamentos",Down: O Elevador da Morte
@@ -5947,10 +5505,6 @@ http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2274604.mp4
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2274605.mp4
 #EXTINF:-1 tvg-name="Projeto Silêncio" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cBpeLbt1YM7Hg5DTrR54alhtZMA.jpg" group-title="Filmes | Acao",Projeto Silêncio
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2274606.mp4
-#EXTINF:-1 tvg-name="Bait [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rgvYPByEcOBAP3PLIFATQ3ApvaM.jpg" group-title="Filmes | Cinema",Bait [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2274608.mp4
-#EXTINF:-1 tvg-name="O Drama [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tM3hbeEwJZdQAjwwt5UjFn638AY.jpg" group-title="Filmes | Cinema",O Drama [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2274609.mp4
 #EXTINF:-1 tvg-name="Sedução" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hnftGfORrhOK6aq1JeOyyurDKPh.jpg" group-title="Filmes | Drama",Sedução
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2271635.mp4
 #EXTINF:-1 tvg-name="Missão Refúgio" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hSvhZRkbYD9crC4nqy8uCk9EdFH.jpg" group-title="Filmes | Lancamentos",Missão Refúgio
@@ -7533,32 +7087,6 @@ http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2163004.mp4
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2163005.mp4
 #EXTINF:-1 tvg-name="A Amizade Mora ao Lado" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zxxiT7WeMt4nI6ewCXzXePZixOs.jpg" group-title="Filmes | Lancamentos",A Amizade Mora ao Lado
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2163006.mp4
-#EXTINF:-1 tvg-name="O Beijo da Mulher Aranha [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i0ovcn9RwySVuK37qbx3EATgw9r.jpg" group-title="Filmes | Cinema",O Beijo da Mulher Aranha [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162065.mp4
-#EXTINF:-1 tvg-name="Red Static Rising [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cCtRgn3UDmjWFLb9Gvpj1hQoIZf.jpg" group-title="Filmes | Cinema",Red Static Rising [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162067.mp4
-#EXTINF:-1 tvg-name="TRON Ares [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/chpWmskl3aKm1aTZqUHRCtviwPy.jpg" group-title="Filmes | Cinema",TRON Ares [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162069.mp4
-#EXTINF:-1 tvg-name="A Desert [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vd194U3uHmxs5rZBV2QU7HNDdEf.jpg" group-title="Filmes | Cinema",A Desert [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162050.mp4
-#EXTINF:-1 tvg-name="Beneath [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Adk6AkuC9jZbR8xnusGcp9gXF7p.jpg" group-title="Filmes | Cinema",Beneath [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162051.mp4
-#EXTINF:-1 tvg-name="Mermaids Curse 2 Return of the Witch [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7Z0yN0zVCZOEutyJZoK40fjCof.jpg" group-title="Filmes | Cinema",Mermaids Curse 2 Return of the Witch [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162053.mp4
-#EXTINF:-1 tvg-name="Finding Nicole [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9HkxZrJK4GWM7TjJKt7E9OkWLjK.jpg" group-title="Filmes | Cinema",Finding Nicole [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162055.mp4
-#EXTINF:-1 tvg-name="Final Recovery [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oX4udyeV5ANslBfHXXlg4L0knUV.jpg" group-title="Filmes | Cinema",Final Recovery [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162056.mp4
-#EXTINF:-1 tvg-name="Bone Lake Jogo de mentiras [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bV9sEJiznCmZu5Gf35N8m7D7OpX.jpg" group-title="Filmes | Cinema",Bone Lake Jogo de mentiras [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162057.mp4
-#EXTINF:-1 tvg-name="Killing Faith [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bNHlTTdpdDv8xxrXF3krVghyCcj.jpg" group-title="Filmes | Cinema",Killing Faith [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162059.mp4
-#EXTINF:-1 tvg-name="Quando o Ceu se Engana [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h90ccrZZzwfSsOgvHTbB76MLw4b.jpg" group-title="Filmes | Cinema",Quando o Ceu se Engana [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162060.mp4
-#EXTINF:-1 tvg-name="96 Minutes [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5HefFZDvzHAR4qWEMExLfyM0qLs.jpg" group-title="Filmes | Cinema",96 Minutes [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162063.mp4
-#EXTINF:-1 tvg-name="Demon Slayer Kimetsu no Yaiba Castelo Infinito - 2 [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c55sXCaQBj3vuHqZe62tv90xCQS.jpg" group-title="Filmes | Cinema",Demon Slayer Kimetsu no Yaiba Castelo Infinito - 2 [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2162064.mp4
 #EXTINF:-1 tvg-name="A Mulher da Fila" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pBN7Ff8KRCsx9nExi4xIRqCWgYY.jpg" group-title="Filmes | Lancamentos",A Mulher da Fila
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2161998.mp4
 #EXTINF:-1 tvg-name="Os Estranhos: Capítulo 2" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bMrUruq2lT3b7xwC5y3vEidGYfZ.jpg" group-title="Filmes | Lancamentos",Os Estranhos: Capítulo 2
@@ -25623,20 +25151,6 @@ http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2075531.mp4
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2075435.mp4
 #EXTINF:-1 tvg-name="O Auto da Compadecida" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xWCKF7hgOicb3A0XiY13SdlwRcn.jpg" group-title="Filmes | Nacionais",O Auto da Compadecida
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2075443.mp4
-#EXTINF:-1 tvg-name="Serpentine Pink [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vSihHZdrQ3wHKvMwC3qbgBOUiFg.jpg" group-title="Filmes | Cinema",Serpentine Pink [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2144725.mp4
-#EXTINF:-1 tvg-name="Shakey Grounds [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gn9jzm3bSPOJyv0bDntgGM6g6SN.jpg" group-title="Filmes | Cinema",Shakey Grounds [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2144726.mp4
-#EXTINF:-1 tvg-name="The Nanny Sees All [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xJRpnylDUgUelvCcsg1QqRhTb8W.jpg" group-title="Filmes | Cinema",The Nanny Sees All [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2144727.mp4
-#EXTINF:-1 tvg-name="Zombies of the Third Reich [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hjrgOWoruk9ea0tXaN8l2gtmkeH.jpg" group-title="Filmes | Cinema",Zombies of the Third Reich [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2144728.mp4
-#EXTINF:-1 tvg-name="CIC Central de Inteligencia Cearense [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x3Tdt3yawUlNQfoBq8JIYxuNPpd.jpg" group-title="Filmes | Cinema",CIC Central de Inteligencia Cearense [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2144729.mp4
-#EXTINF:-1 tvg-name="Lilly Lives Alone [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w6aIZIGNlGqTvfRaRG1p2FlBXJl.jpg" group-title="Filmes | Cinema",Lilly Lives Alone [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2144730.mp4
-#EXTINF:-1 tvg-name="Os Roses Ate Que a Morte os Separe [Cinema]" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/JJOQF1c90qs35YNE3QLhBQQJJe.jpg" group-title="Filmes | Cinema",Os Roses Ate Que a Morte os Separe [Cinema]
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2144731.mp4
 #EXTINF:-1 tvg-name="A Experiência 4 - O Despertar" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v6liMsPS8l0P10gtkLcpC128Cdm.jpg" group-title="Filmes | Ficcao e Fantasia",A Experiência 4 - O Despertar
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2150477.mp4
 #EXTINF:-1 tvg-name="A Experiência" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uRssQeAvrXVYoCkgfQounfUQ1y1.jpg" group-title="Filmes | Ficcao e Fantasia",A Experiência
@@ -26911,7 +26425,7 @@ http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2258832.mp4
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2258976.mp4
 #EXTINF:-1 tvg-name="Jane Goodall: A Esperança" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tn7oWdDC541wX7jTJMaLf9aBZsZ.jpg" group-title="Filmes | Ficcao e Fantasia",Jane Goodall: A Esperança
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2258948.mp4
-#EXTINF:-1 tvg-name="Maze Runner 2" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tn7oWdDC541wX7jTJMaLf9aBZsZ.jpg" group-title="Filmes | Ficcao e Fantasia",Maze Runner 2
+#EXTINF:-1 tvg-name="Maze Runner 2 Prova de Fogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpb5p5hPU3Bkb0wXJQPmONjOejh.jpg" group-title="Filmes | Ficcao e Fantasia",Maze Runner 2 Prova de Fogo
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2258869.mp4
 #EXTINF:-1 tvg-name="A Escola do Bem e do Mal" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fbo6sHohCSQDOY6RYPQX3zO886y.jpg" group-title="Filmes | Ficcao e Fantasia",A Escola do Bem e do Mal
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2258881.mp4
@@ -34155,21 +33669,23 @@ http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2257883.mp4
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2257885.mp4
 #EXTINF:-1 tvg-name="Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aNC4ycThH4sLhM7D1JkraV3NZrZ.jpg" group-title="Coletânea  | DC Comics",Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2257892.mp4
-#EXTINF:-1 tvg-name="O Bar Luva Dourada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6l1GDwkeQ4haiKt1ZLB2TrFTRrI.jpg" group-title="Filmes | Cinema",O Bar Luva Dourada
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2302706.mp4
 #EXTINF:-1 tvg-name="Terror em Amityville 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJCkU5RnX28I2h1em2HVdfp406v.jpg" group-title="Filmes | Terror",Terror em Amityville 2 (2016)
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304015.mp4
 #EXTINF:-1 tvg-name="Horror em Amityville" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLjpuiEFUUVPGHRg5OPsfNDcHOK.jpg" group-title="Filmes | Terror",Horror em Amityville
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2304016.mp4
-#EXTINF:-1 tvg-name="Meu Próprio Filho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg" group-title="Filmes | Novidades",Meu Próprio Filho
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299523.mp4
+#EXTINF:-1 tvg-name="Tarzan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ce4mU4yyubjP1uXcz48fMndCZni.jpg" group-title="Filmes | Animacao",Tarzan
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2306955.mp4
+#EXTINF:-1 tvg-name="Miraculous World: Londres, Corrida Contra o Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcoHmWbTRNp0HSttto4faQL1MKG.jpg" group-title="Filmes | Animacao",Miraculous World: Londres, Corrida Contra o Tempo
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307493.mp4
+#EXTINF:-1 tvg-name="Miraculous World: Paris, As Aventuras de Shadybug e Claw Noir" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfmSz4LezJSHpitaT21ZASNor5T.jpg" group-title="Filmes | Animacao",Miraculous World: Paris, As Aventuras de Shadybug e Claw Noir
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307494.mp4
+#EXTINF:-1 tvg-name="O Paciente - O Caso Tancredo Neves" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZtAl68tBaZGX0FA3g8Pgzsw3k1.jpg" group-title="Filmes | Drama",O Paciente - O Caso Tancredo Neves
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307495.mp4
+#EXTINF:-1 tvg-name="O Retrato de Dorian Gray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lX88J47KuQtpMGd2p4ND0TDF171.jpg" group-title="Filmes | Drama",O Retrato de Dorian Gray
+http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2307496.mp4
 #EXTINF:-1 tvg-name="Meu Próprio Filho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg" group-title="Filmes | Lancamentos",Meu Próprio Filho
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2299523.mp4
-#EXTINF:-1 tvg-name="Saudades, Te Amo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82IHHlvPbDrsTXfMpabil0TM5UD.jpg" group-title="Filmes | Novidades",Saudades, Te Amo
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300927.mp4
 #EXTINF:-1 tvg-name="Saudades, Te Amo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82IHHlvPbDrsTXfMpabil0TM5UD.jpg" group-title="Filmes | Lancamentos",Saudades, Te Amo
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2300927.mp4
-#EXTINF:-1 tvg-name="AMIGAS PARA SEMPRE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNL01KL7cmXth41XmF6zEFE47Jv.jpg" group-title="Filmes | Novidades",AMIGAS PARA SEMPRE
-http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301879.mp4
 #EXTINF:-1 tvg-name="AMIGAS PARA SEMPRE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNL01KL7cmXth41XmF6zEFE47Jv.jpg" group-title="Filmes | Comedia",AMIGAS PARA SEMPRE
 http://kmtortu.co:80/movie/serverIZTV@../UvZkurT-YaF65456-20/2301879.mp4
