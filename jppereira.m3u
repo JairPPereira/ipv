@@ -38,17 +38,19 @@ https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV NBT" tvg-name="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="Canais | ESTADO DO PARÁ",TV NBT
 https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda Camera 01" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda ALT",A Fazenda Camera 01
-http://celoricdn.online:80/live/440091608/557495028/5605603.m3u8
+http://cdn.caterlune.top:80/live/28135330/41727867/6261214.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda Camera 02" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda ALT",A Fazenda Camera 02
-http://celoricdn.online:80/live/440091608/557495028/5605602.m3u8
+http://cdn.caterlune.top:80/live/28135330/41727867/6261215.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda Camera 03" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda ALT",A Fazenda Camera 03
-http://celoricdn.online:80/live/440091608/557495028/5605601.m3u8
+http://cdn.caterlune.top:80/live/28135330/41727867/6261216.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda Camera 04" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda ALT",A Fazenda Camera 04
-http://celoricdn.online:80/live/440091608/557495028/5605600.m3u8
+http://cdn.caterlune.top:80/live/28135330/41727867/6261217.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda Camera 05" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda ALT",A Fazenda Camera 05
-http://celoricdn.online:80/live/440091608/557495028/5605599.m3u8
+http://cdn.caterlune.top:80/live/28135330/41727867/6261218.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda Camera 06" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda ALT",A Fazenda Camera 06
-http://celoricdn.online:80/live/440091608/557495028/5605598.m3u8
+http://cdn.caterlune.top:80/live/28135330/41727867/6261219.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mosaico" tvg-logo="https://i.imgur.com/2QbQ78u.jpeg" group-title="A Fazenda ALT",Mosaico
+http://cdn.caterlune.top:80/live/28135330/41727867/6261220.ts
 #EXTINF:-1 tvg-id="HALLO! Brasil" tvg-name="HALLO! Brasil" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqAyhXMv29dnAH1Tbdl7BPbFLmFOakWJIDRY2KqGSSAkU514xVU3jmHu2YbU7r8aJf9hXQ2ZwNJUA5bs5dqYx4Qb-j4hpQm97gIlgKHoWvNeMGn8tjQhi4QsEYKZoB3AehRLLzyUd2-jElE9X2Tcopc1wNHe3zJUNJwqFBu4SgZ4YeUj3kPhz1w99kaOQ/s1600/hallobrasil.png" group-title="Canais | FILMES E SERIES",HALLO! Brasil
 https://origin2.epgbr.com.br/live/HALLO_BRASIL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HALLO! Movies" tvg-name="HALLO! Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEherNQkntedV6D4nncPvhapwZV9Vm3F9bE77ZoE7eOl5Y1B6wCggfjBMMdsvuN_OGQD5HnYJOkkkaUHnKGA55AFKA19PpsWPqUK9BWAYKnYi7qM064o1dN8Qj3XA0vV-q9MfFN3Q00zyql3fH7KD4Ld7wDdaVkiLKx_jGq6lqlsyDKNxkWnQNPxY6tia_c/s1600/hallomovies.png" group-title="Canais | FILMES E SERIES",HALLO! Movies
