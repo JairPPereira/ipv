@@ -8,13 +8,15 @@ http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="RBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqDyTK5SRE0eY1XqeWVzDSK4cfEnBomRIck78WhTxMd3IZj7idqYR5fGpR6KK2XYIqSNtwUyr1w44d_x27tiHxDnT435u_qFlkfDlVGYOV_M35IVpi_6NJcMG16hhYdPMXx1xk04RU83EDxl-Ory8wYEe-JgByX2rfIAE7EOww5gMYy3lK_LWizKs/s1600/rba200.jpg" group-title="Canais | ESTADO DO PARÁ",RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD TV BELEM FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGpxBOd5f_P7dMhcfNGWs4g8e1ExA8SSJmW_W6Fy1B3X4WW3lNj5cWOj7Quzeh4K8OkBizHFm78KhIJA5sOaqaGZ-Ja0wwobRcqrgILzo9gjt790KD_Hc3yOadLeNYFsrgMTseYaBZ4xI/s0/recordbelem200.png" group-title="Canais | ESTADO DO PARÁ",RECORD TV BELEM FHD
-http://dali-as.skin:80/live/728442553/408909078/5298107.ts
+http://celoricdn.online:80/live/kaliu01103/01103kaliu/2041515.ts
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD TV BELEM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGpxBOd5f_P7dMhcfNGWs4g8e1ExA8SSJmW_W6Fy1B3X4WW3lNj5cWOj7Quzeh4K8OkBizHFm78KhIJA5sOaqaGZ-Ja0wwobRcqrgILzo9gjt790KD_Hc3yOadLeNYFsrgMTseYaBZ4xI/s0/recordbelem200.png" group-title="Canais | ESTADO DO PARÁ",RECORD TV BELEM
-http://cdn.caterlune.top:80/live/28135330/41727867/127569.ts
+http://poptvcdn.online:80/live/ven11q3dgd02/55219969669/784752.ts
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD TV NACIONAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGpxBOd5f_P7dMhcfNGWs4g8e1ExA8SSJmW_W6Fy1B3X4WW3lNj5cWOj7Quzeh4K8OkBizHFm78KhIJA5sOaqaGZ-Ja0wwobRcqrgILzo9gjt790KD_Hc3yOadLeNYFsrgMTseYaBZ4xI/s0/recordbelem200.png" group-title="Canais | ESTADO DO PARÁ",RECORD TV NACIONAL
 http://168.205.87.198:8555/live/1354/123456/285.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT PARÁ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvRPUjJsgbRtN8pvfQ43QS8qF_uRHQHhzI7DRZbUifQm6UZBJqRqZmGzXKyuvSTDfbdqwYKsNEJgyKnxFiYAkU4YlUndDM1iAk23QfmpN_bzNQVI6Tmcu9Uu21jXqSx5JViHzdrkUF-eVRnVXj1uA04i6XnB4cg89aU7dBXb_mccGA1kDcZXvIJKkxLks/s1600/sbt.webp" group-title="Canais | ESTADO DO PARÁ",SBT PARÁ
 http://cdn.caterlune.top:80/live/28135330/41727867/6557010.ts
+#EXTINF:-1 tvg-id="Tv Guarajá - SBT" tvg-name="Tv Guarajá - SBT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisxR5Z9CcV_hGQ-iBmqI5lGTCwuHeBXM8jsrK_2He8UuHTMrWpl2r2tzQCPH4UzKQkmrs7vug6up5e8n3Ic_Q5EF-DxSOJ4yNLm1GOH7_6ropgObvkE5mMWaDjt9LA8A2VcuWEp_xISQiqerpItA634mC3L_7QmCMaETrHP2kiFQcHU_Uy5iv1nS43c2w/s1600/guaja.webp" group-title="Canais | ESTADO DO PARÁ",Tv Guarajá - SBT
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT nacional" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvRPUjJsgbRtN8pvfQ43QS8qF_uRHQHhzI7DRZbUifQm6UZBJqRqZmGzXKyuvSTDfbdqwYKsNEJgyKnxFiYAkU4YlUndDM1iAk23QfmpN_bzNQVI6Tmcu9Uu21jXqSx5JViHzdrkUF-eVRnVXj1uA04i6XnB4cg89aU7dBXb_mccGA1kDcZXvIJKkxLks/s1600/sbt.webp" group-title="Canais | ESTADO DO PARÁ",SBT Nacional
 https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-name="TV Marajoara" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqAnRJTsB67pr9kADaiiEh-IgbCQuEPQOwlUAV03D36IGm0LgK4hXrxJKT23ytk2sztVvwXqXgbZqkuJYq40bcEv_L9I8z7hjItd8qnIjSHUtLlGcLo_-ZCbi3Ut7Yti7dhqwjLVxIdbevNX6wloRxgp6Sxg5Fjh8bHmsN5TriOgFt8imKYPtYIC7QO9M/s1600/maraj.webp" group-title="Canais | ESTADO DO PARÁ",TV Marajoara
@@ -31,8 +33,6 @@ https://video09.logicahost.com.br/tvmpara/tvmpara/playlist.m3u8
 https://tv02.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
 #EXTINF:-1 tvg-id="Super Marajoara" tvg-name="Super Marajoara" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr7Xjo50h64Tkccvod2CcS9z1jfKl9XaMwSDT1jKPPtdpvOOOCBSK39KAUCgQCFlF0ZL8NQhLL34f4UgILYYjTVYHlD1zkbmpX5Y-sXMeHlY933-7snVdPF4XdMaRXkHovtOwgmG3UrWEcEMmUIFD_3A5XUNdwwgsxbOVIhwMrLyCY4kLvk0xIAHkw2po/s1600/marasu.webp" group-title="Canais | ESTADO DO PARÁ",Super Marajoara
 https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
-#EXTINF:-1 tvg-id="Tv Guarajá - SBT" tvg-name="Tv Guarajá - SBT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisxR5Z9CcV_hGQ-iBmqI5lGTCwuHeBXM8jsrK_2He8UuHTMrWpl2r2tzQCPH4UzKQkmrs7vug6up5e8n3Ic_Q5EF-DxSOJ4yNLm1GOH7_6ropgObvkE5mMWaDjt9LA8A2VcuWEp_xISQiqerpItA634mC3L_7QmCMaETrHP2kiFQcHU_Uy5iv1nS43c2w/s1600/guaja.webp" group-title="Canais | ESTADO DO PARÁ",Tv Guarajá - SBT
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="Redeclone.br" tvg-name="Rede Clouding" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaK6eSfFS63zXcjP2U0LeiSoA6ihHsxmL9lif8ZyuTxxMLjeAIMBeI86doSEP-d88x_Mp8Vv5pJip7Z18sPcS-63oo8jNyxruDRmFjNePiKMuVAXVstiw83s7LiX8xQ2GynmCxnRMbUlbvLAYMAKcWGLP7RIGdPEdA-DJ8MPaw_1CvnrFcj9peBJFArxs/s1600/redeclouding.png" group-title="Canais | ESTADO DO PARÁ",Rede Clouding
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV NBT" tvg-name="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="Canais | ESTADO DO PARÁ",TV NBT
