@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="referrer" content="origin">
-    <title>JP PLAYER - YouTube</title>
+    <title>JP PLAYER</title>
 
     <style>
         * {
@@ -29,11 +29,25 @@
 </head>
 
 <body>
+    <iframe id="youtubePlayer" title="JP PLAYER"></iframe>
 
-    <iframe
-        src="https://www.youtube.com/embed/R0ZJ4uevOd4?autoplay=1"
-        title="JP PLAYER - YouTube">
-    </iframe>
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const videoId = params.get("v");
 
+        const player = document.getElementById("youtubePlayer");
+
+        if (videoId && /^[a-zA-Z0-9_-]{11}$/.test(videoId)) {
+            player.src =
+                "https://www.youtube.com/embed/" +
+                encodeURIComponent(videoId) +
+                "?autoplay=1";
+        } else {
+            document.body.innerHTML =
+                "<p style='color:white;text-align:center'>" +
+                "Vídeo não informado ou inválido" +
+                "</p>";
+        }
+    </script>
 </body>
 </html>
