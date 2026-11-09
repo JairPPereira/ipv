@@ -4,55 +4,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Teste de vídeo JP PLAYER</title>
-
+    <title>JP PLAYER - Teste</title>
     <style>
-        * {
-            box-sizing: border-box;
-        }
-
         html, body {
             width: 100%;
             height: 100%;
             margin: 0;
-            background: #000;
+            background: black;
             overflow: hidden;
         }
-
         video {
             width: 100%;
             height: 100%;
             object-fit: contain;
-            background: #000;
         }
     </style>
 </head>
-
 <body>
-    <video
-        id="video"
-        controls
-        autoplay
-        muted
-        playsinline
-        webkit-playsinline
-    >
-        <source
-            src="https://dn801203.us.archive.org/0/items/BigBuckBunny_328/BigBuckBunny_512kb.mp4"
-            type="video/mp4"
-        >
-        Seu dispositivo não conseguiu reproduzir o vídeo.
+    <video controls autoplay muted playsinline>
+        <source src="./jpplayer_teste_video.mp4" type="video/mp4">
     </video>
-
-    <script>
-        const video = document.getElementById("video");
-
-        video.addEventListener("error", () => {
-            document.body.innerHTML =
-                "<p style='color:white;text-align:center'>" +
-                "Erro ao carregar o vídeo MP4" +
-                "</p>";
-        });
-    </script>
 </body>
 </html>
